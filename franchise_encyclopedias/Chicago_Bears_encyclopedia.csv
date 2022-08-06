@@ -1,0 +1,103 @@
+,season,team,coach,top_av_player,passer,rusher,receiver,franchise_code,passer_name,passer_url,coach_name,coach_url
+0,2021,Chicago Bears,Nagy,Smith,Fields,Montgomery,Mooney,/teams/chi/,Justin Fields,/players/F/FielJu00.htm,Matt Nagy,/coaches/NagyMa0.htm
+1,2020,Chicago Bears,Nagy,Smith,Trubisky,Montgomery,Robinson,/teams/chi/,Mitchell Trubisky,/players/T/TrubMi00.htm,Matt Nagy,/coaches/NagyMa0.htm
+2,2019,Chicago Bears,Nagy,Mack,Trubisky,Montgomery,Robinson,/teams/chi/,Mitchell Trubisky,/players/T/TrubMi00.htm,Matt Nagy,/coaches/NagyMa0.htm
+3,2018,Chicago Bears,Nagy,Mack,Trubisky,Howard,Robinson,/teams/chi/,Mitchell Trubisky,/players/T/TrubMi00.htm,Matt Nagy,/coaches/NagyMa0.htm
+4,2017,Chicago Bears,Fox,Hicks,Trubisky,Howard,Wright,/teams/chi/,Mitchell Trubisky,/players/T/TrubMi00.htm,John Fox,/coaches/FoxxJo0.htm
+5,2016,Chicago Bears,Fox,Howard,Barkley,Howard,Meredith,/teams/chi/,Matt Barkley,/players/B/BarkMa00.htm,John Fox,/coaches/FoxxJo0.htm
+6,2015,Chicago Bears,Fox,Cutler,Cutler,Forte,Jeffery,/teams/chi/,Jay Cutler,/players/C/CutlJa00.htm,John Fox,/coaches/FoxxJo0.htm
+7,2014,Chicago Bears,Trestman,Forte,Cutler,Forte,Jeffery,/teams/chi/,Jay Cutler,/players/C/CutlJa00.htm,Marc Trestman,/coaches/TresMa0.htm
+8,2013,Chicago Bears,Trestman,Forte,Cutler,Forte,Jeffery,/teams/chi/,Jay Cutler,/players/C/CutlJa00.htm,Marc Trestman,/coaches/TresMa0.htm
+9,2012,Chicago Bears,Smith,Tillman,Cutler,Forte,Marshall,/teams/chi/,Jay Cutler,/players/C/CutlJa00.htm,Lovie Smith,/coaches/SmitLo0.htm
+10,2011,Chicago Bears,Smith,Peppers,Cutler,Forte,Knox,/teams/chi/,Jay Cutler,/players/C/CutlJa00.htm,Lovie Smith,/coaches/SmitLo0.htm
+11,2010,Chicago Bears,Smith,Peppers,Cutler,Forte,Knox,/teams/chi/,Jay Cutler,/players/C/CutlJa00.htm,Lovie Smith,/coaches/SmitLo0.htm
+12,2009,Chicago Bears,Smith,Cutler,Cutler,Forte,Hester,/teams/chi/,Jay Cutler,/players/C/CutlJa00.htm,Lovie Smith,/coaches/SmitLo0.htm
+13,2008,Chicago Bears,Smith,Briggs,Orton,Forte,Hester,/teams/chi/,Kyle Orton,/players/O/OrtoKy00.htm,Lovie Smith,/coaches/SmitLo0.htm
+14,2007,Chicago Bears,Smith,Urlacher,Griese,Benson,Berrian,/teams/chi/,Brian Griese,/players/G/GrieBr00.htm,Lovie Smith,/coaches/SmitLo0.htm
+15,2006,Chicago Bears,Smith,Urlacher,Grossman,Jones,Muhammad,/teams/chi/,Rex Grossman,/players/G/GrosRe00.htm,Lovie Smith,/coaches/SmitLo0.htm
+16,2005,Chicago Bears,Smith,Briggs,Orton,Jones,Muhammad,/teams/chi/,Kyle Orton,/players/O/OrtoKy00.htm,Lovie Smith,/coaches/SmitLo0.htm
+17,2004,Chicago Bears,Smith,Briggs,Hutchinson,Jones,Terrell,/teams/chi/,Chad Hutchinson,/players/H/HutcCh00.htm,Lovie Smith,/coaches/SmitLo0.htm
+18,2003,Chicago Bears,Jauron,Azumah,Stewart,Thomas,Booker,/teams/chi/,Kordell Stewart,/players/S/StewKo00.htm,Dick Jauron,/coaches/JaurDi0.htm
+19,2002,Chicago Bears,Jauron,Urlacher,Miller,Thomas,Booker,/teams/chi/,Jim Miller,/players/M/MillJi00.htm,Dick Jauron,/coaches/JaurDi0.htm
+20,2001,Chicago Bears,Jauron,Urlacher,Miller,Thomas,Booker,/teams/chi/,Jim Miller,/players/M/MillJi00.htm,Dick Jauron,/coaches/JaurDi0.htm
+21,2000,Chicago Bears,Jauron,Urlacher,McNown,Allen,Robinson,/teams/chi/,Cade McNown,/players/M/McNoCa00.htm,Dick Jauron,/coaches/JaurDi0.htm
+22,1999,Chicago Bears,Jauron,Robinson,Matthews,Enis,Robinson,/teams/chi/,Shane Matthews,/players/M/MattSh00.htm,Dick Jauron,/coaches/JaurDi0.htm
+23,1998,Chicago Bears,Wannstedt,Engram,Kramer,Bennett,Engram,/teams/chi/,Erik Kramer,/players/K/KramEr00.htm,Dave Wannstedt,/coaches/WannDa0.htm
+24,1997,Chicago Bears,Wannstedt,Minter,Kramer,Harris,Proehl,/teams/chi/,Erik Kramer,/players/K/KramEr00.htm,Dave Wannstedt,/coaches/WannDa0.htm
+25,1996,Chicago Bears,Wannstedt,Conway,Krieg,Harris,Conway,/teams/chi/,Dave Krieg,/players/K/KrieDa00.htm,Dave Wannstedt,/coaches/WannDa0.htm
+26,1995,Chicago Bears,Wannstedt,Kramer,Kramer,Salaam,Graham,/teams/chi/,Erik Kramer,/players/K/KramEr00.htm,Dave Wannstedt,/coaches/WannDa0.htm
+27,1994,Chicago Bears,Wannstedt,Zorich,Walsh,Tillman,Graham,/teams/chi/,Steve Walsh,/players/W/WalsSt00.htm,Dave Wannstedt,/coaches/WannDa0.htm
+28,1993,Chicago Bears,Wannstedt,Woolford,Harbaugh,Anderson,Waddle,/teams/chi/,Jim Harbaugh,/players/H/HarbJi00.htm,Dave Wannstedt,/coaches/WannDa0.htm
+29,1992,Chicago Bears,Ditka,Harbaugh,Harbaugh,Anderson,Davis,/teams/chi/,Jim Harbaugh,/players/H/HarbJi00.htm,Mike Ditka,/coaches/DitkMi0.htm
+32,1991,Chicago Bears,Ditka,Singletary,Harbaugh,Anderson,Davis,/teams/chi/,Jim Harbaugh,/players/H/HarbJi00.htm,Mike Ditka,/coaches/DitkMi0.htm
+33,1990,Chicago Bears,Ditka,Dent,Harbaugh,Anderson,Davis,/teams/chi/,Jim Harbaugh,/players/H/HarbJi00.htm,Mike Ditka,/coaches/DitkMi0.htm
+34,1989,Chicago Bears,Ditka,Hilgenberg,Tomczak,Anderson,Morris,/teams/chi/,Mike Tomczak,/players/T/TomcMi00.htm,Mike Ditka,/coaches/DitkMi0.htm
+35,1988,Chicago Bears,Ditka,Singletary,McMahon,Anderson,McKinnon,/teams/chi/,Jim McMahon,/players/M/McMaJi00.htm,Mike Ditka,/coaches/DitkMi0.htm
+36,1987,Chicago Bears,Ditka,McMichael,McMahon,Anderson,Gault,/teams/chi/,Jim McMahon,/players/M/McMaJi00.htm,Mike Ditka,/coaches/DitkMi0.htm
+37,1986,Chicago Bears,Ditka,Marshall,Tomczak,Payton,Gault,/teams/chi/,Mike Tomczak,/players/T/TomcMi00.htm,Mike Ditka,/coaches/DitkMi0.htm
+38,1985,Chicago Bears,Ditka,Dent,McMahon,Payton,Gault,/teams/chi/,Jim McMahon,/players/M/McMaJi00.htm,Mike Ditka,/coaches/DitkMi0.htm
+39,1984,Chicago Bears,Ditka,Hampton,McMahon,Payton,Gault,/teams/chi/,Jim McMahon,/players/M/McMaJi00.htm,Mike Ditka,/coaches/DitkMi0.htm
+40,1983,Chicago Bears,Ditka,Singletary,McMahon,Payton,Gault,/teams/chi/,Jim McMahon,/players/M/McMaJi00.htm,Mike Ditka,/coaches/DitkMi0.htm
+41,1982,Chicago Bears,Ditka,Hampton,McMahon,Payton,Moorehead,/teams/chi/,Jim McMahon,/players/M/McMaJi00.htm,Mike Ditka,/coaches/DitkMi0.htm
+42,1981,Chicago Bears,Armstrong,Fencik,Evans,Payton,Margerum,/teams/chi/,Vince Evans,/players/E/EvanVi00.htm,Neill Armstrong,/coaches/ArmsNe0.htm
+43,1980,Chicago Bears,Armstrong,Payton,Evans,Payton,Scott,/teams/chi/,Vince Evans,/players/E/EvanVi00.htm,Neill Armstrong,/coaches/ArmsNe0.htm
+44,1979,Chicago Bears,Armstrong,Payton,Phipps,Payton,Baschnagel,/teams/chi/,Mike Phipps,/players/P/PhipMi00.htm,Neill Armstrong,/coaches/ArmsNe0.htm
+45,1978,Chicago Bears,Armstrong,Payton,Avellini,Payton,Scott,/teams/chi/,Bob Avellini,/players/A/AvelBo00.htm,Neill Armstrong,/coaches/ArmsNe0.htm
+46,1977,Chicago Bears,Pardee,Payton,Avellini,Payton,Scott,/teams/chi/,Bob Avellini,/players/A/AvelBo00.htm,Jack Pardee,/coaches/PardJa0.htm
+47,1976,Chicago Bears,Pardee,Payton,Avellini,Payton,Scott,/teams/chi/,Bob Avellini,/players/A/AvelBo00.htm,Jack Pardee,/coaches/PardJa0.htm
+48,1975,Chicago Bears,Pardee,Chambers,Huff,Payton,Rather,/teams/chi/,Gary Huff,/players/H/HuffGa00.htm,Jack Pardee,/coaches/PardJa0.htm
+49,1974,Chicago Bears,Gibron,Chambers,Huff,Grandberry,Wade,/teams/chi/,Gary Huff,/players/H/HuffGa00.htm,Abe Gibron,/coaches/GibrAb0.htm
+50,1973,Chicago Bears,Gibron,Chambers,Douglass,Garrett,Thomas,/teams/chi/,Bobby Douglass,/players/D/DougBo00.htm,Abe Gibron,/coaches/GibrAb0.htm
+51,1972,Chicago Bears,Gibron,Douglass,Douglass,Douglass,Farmer,/teams/chi/,Bobby Douglass,/players/D/DougBo00.htm,Abe Gibron,/coaches/GibrAb0.htm
+52,1971,Chicago Bears,Dooley,Butkus,Douglass,Shy,Farmer,/teams/chi/,Bobby Douglass,/players/D/DougBo00.htm,Jim Dooley,/coaches/DoolJi0.htm
+53,1970,Chicago Bears,Dooley,Gordon,Concannon,Montgomery,Gordon,/teams/chi/,Jack Concannon,/players/C/ConcJa00.htm,Jim Dooley,/coaches/DoolJi0.htm
+54,1969,Chicago Bears,Dooley,Butkus,Concannon,Sayers,Wallace,/teams/chi/,Jack Concannon,/players/C/ConcJa00.htm,Jim Dooley,/coaches/DoolJi0.htm
+55,1968,Chicago Bears,Dooley,Butkus,Carter,Sayers,Gordon,/teams/chi/,Virgil Carter,/players/C/CartVi00.htm,Jim Dooley,/coaches/DoolJi0.htm
+56,1967,Chicago Bears,Halas,Petitbon,Concannon,Sayers,Gordon,/teams/chi/,Jack Concannon,/players/C/ConcJa00.htm,George Halas,/coaches/HalaGe0.htm
+57,1966,Chicago Bears,Halas,Sayers,Bukich,Sayers,Jones,/teams/chi/,Rudy Bukich,/players/B/BukiRu00.htm,George Halas,/coaches/HalaGe0.htm
+58,1965,Chicago Bears,Halas,Sayers,Bukich,Sayers,Morris,/teams/chi/,Rudy Bukich,/players/B/BukiRu00.htm,George Halas,/coaches/HalaGe0.htm
+59,1964,Chicago Bears,Halas,Morris,Wade,Arnett,Morris,/teams/chi/,Billy Wade,/players/W/WadeBi00.htm,George Halas,/coaches/HalaGe0.htm
+60,1963,Chicago Bears,Halas,Atkins,Wade,Marconi,Ditka,/teams/chi/,Billy Wade,/players/W/WadeBi00.htm,George Halas,/coaches/HalaGe0.htm
+61,1962,Chicago Bears,Halas,Petitbon,Wade,Marconi,Ditka,/teams/chi/,Billy Wade,/players/W/WadeBi00.htm,George Halas,/coaches/HalaGe0.htm
+64,1961,Chicago Bears,Halas,George,Wade,Galimore,Ditka,/teams/chi/,Billy Wade,/players/W/WadeBi00.htm,George Halas,/coaches/HalaGe0.htm
+65,1960,Chicago Bears,Halas,George,Brown,Casares,Dewveall,/teams/chi/,Ed Brown,/players/B/BrowEd01.htm,George Halas,/coaches/HalaGe0.htm
+66,1959,Chicago Bears,Halas,,Brown,Casares,Dooley,/teams/chi/,Ed Brown,/players/B/BrowEd01.htm,George Halas,/coaches/HalaGe0.htm
+67,1958,Chicago Bears,Halas,,Brown,Casares,McColl,/teams/chi/,Ed Brown,/players/B/BrowEd01.htm,George Halas,/coaches/HalaGe0.htm
+68,1957,Chicago Bears,Driscoll,,Brown,Casares,Dooley,/teams/chi/,Ed Brown,/players/B/BrowEd01.htm,Paddy Driscoll,/coaches/DrisPa0.htm
+69,1956,Chicago Bears,Driscoll,,Brown,Casares,Hill,/teams/chi/,Ed Brown,/players/B/BrowEd01.htm,Paddy Driscoll,/coaches/DrisPa0.htm
+70,1955,Chicago Bears,Halas,,Brown,Casares,Hill,/teams/chi/,Ed Brown,/players/B/BrowEd01.htm,George Halas,/coaches/HalaGe0.htm
+71,1954,Chicago Bears,Halas,,Blanda,Jagade,Hill,/teams/chi/,George Blanda,/players/B/BlanGe00.htm,George Halas,/coaches/HalaGe0.htm
+72,1953,Chicago Bears,Halas,,Blanda,Morrison,Dooley,/teams/chi/,George Blanda,/players/B/BlanGe00.htm,George Halas,/coaches/HalaGe0.htm
+73,1952,Chicago Bears,Halas,,Romanik,Morrison,Schroeder,/teams/chi/,Steve Romanik,/players/R/RomaSt00.htm,George Halas,/coaches/HalaGe0.htm
+74,1951,Chicago Bears,Halas,,Lujack,Dottley,Schroeder,/teams/chi/,Johnny Lujack,/players/L/LujaJo00.htm,George Halas,/coaches/HalaGe0.htm
+75,1950,Chicago Bears,Halas,,Lujack,Gulyanics,Keane,/teams/chi/,Johnny Lujack,/players/L/LujaJo00.htm,George Halas,/coaches/HalaGe0.htm
+76,1949,Chicago Bears,Halas,,Lujack,Gulyanics,Keane,/teams/chi/,Johnny Lujack,/players/L/LujaJo00.htm,George Halas,/coaches/HalaGe0.htm
+77,1948,Chicago Bears,Halas,,Luckman,Gulyanics,Keane,/teams/chi/,Sid Luckman,/players/L/LuckSi00.htm,George Halas,/coaches/HalaGe0.htm
+78,1947,Chicago Bears,Halas,,Luckman,Osmanski,Keane,/teams/chi/,Sid Luckman,/players/L/LuckSi00.htm,George Halas,/coaches/HalaGe0.htm
+79,1946,Chicago Bears,Halas,,Luckman,Gallarneau,McLean,/teams/chi/,Sid Luckman,/players/L/LuckSi00.htm,George Halas,/coaches/HalaGe0.htm
+80,1945,Chicago Bears,"Johnsos,Anderson",,Luckman,Margarita,Kavanaugh,/teams/chi/,Sid Luckman,/players/L/LuckSi00.htm,"Luke Johnsos,Hunk Anderson","/coaches/JohnLu0.htm,/coaches/AndeHu0.htm"
+81,1944,Chicago Bears,"Johnsos,Anderson",,Luckman,Margarita,McLean,/teams/chi/,Sid Luckman,/players/L/LuckSi00.htm,"Luke Johnsos,Hunk Anderson","/coaches/JohnLu0.htm,/coaches/AndeHu0.htm"
+82,1943,Chicago Bears,"Johnsos,Anderson",,Luckman,Clarke,Clarke,/teams/chi/,Sid Luckman,/players/L/LuckSi00.htm,"Luke Johnsos,Hunk Anderson","/coaches/JohnLu0.htm,/coaches/AndeHu0.htm"
+83,1942,Chicago Bears,"Johnsos,Anderson,Halas",,Luckman,Famiglietti,McLean,/teams/chi/,Sid Luckman,/players/L/LuckSi00.htm,"Luke Johnsos,Hunk Anderson,George Halas","/coaches/JohnLu0.htm,/coaches/AndeHu0.htm,/coaches/HalaGe0.htm"
+84,1941,Chicago Bears,Halas,,Luckman,McAfee,Kavanaugh,/teams/chi/,Sid Luckman,/players/L/LuckSi00.htm,George Halas,/coaches/HalaGe0.htm
+85,1940,Chicago Bears,Halas,,Luckman,Nolting,Kavanaugh,/teams/chi/,Sid Luckman,/players/L/LuckSi00.htm,George Halas,/coaches/HalaGe0.htm
+86,1939,Chicago Bears,Halas,,Masterson,Osmanski,Plasman,/teams/chi/,Bernie Masterson,/players/M/MastBe20.htm,George Halas,/coaches/HalaGe0.htm
+87,1938,Chicago Bears,Halas,,Masterson,Nolting,Karr,/teams/chi/,Bernie Masterson,/players/M/MastBe20.htm,George Halas,/coaches/HalaGe0.htm
+88,1937,Chicago Bears,Halas,,Masterson,Nolting,Manske,/teams/chi/,Bernie Masterson,/players/M/MastBe20.htm,George Halas,/coaches/HalaGe0.htm
+89,1936,Chicago Bears,Halas,,Masterson,Nagurski,Hewitt,/teams/chi/,Bernie Masterson,/players/M/MastBe20.htm,George Halas,/coaches/HalaGe0.htm
+90,1935,Chicago Bears,Halas,,Masterson,Ronzani,Johnsos,/teams/chi/,Bernie Masterson,/players/M/MastBe20.htm,George Halas,/coaches/HalaGe0.htm
+91,1934,Chicago Bears,Halas,,Molesworth,Feathers,Feathers,/teams/chi/,Keith Molesworth,/players/M/MoleKe20.htm,George Halas,/coaches/HalaGe0.htm
+92,1933,Chicago Bears,Halas,,Molesworth,Nagurski,Hewitt,/teams/chi/,Keith Molesworth,/players/M/MoleKe20.htm,George Halas,/coaches/HalaGe0.htm
+93,1932,Chicago Bears,Jones,,Molesworth,Nagurski,Johnsos,/teams/chi/,Keith Molesworth,/players/M/MoleKe20.htm,Ralph Jones,/coaches/JoneRa0.htm
+96,1931,Chicago Bears,Jones,,,,,/teams/chi/,,,Ralph Jones,/coaches/JoneRa0.htm
+97,1930,Chicago Bears,Jones,,,,,/teams/chi/,,,Ralph Jones,/coaches/JoneRa0.htm
+98,1929,Chicago Bears,Halas,,,,,/teams/chi/,,,George Halas,/coaches/HalaGe0.htm
+99,1928,Chicago Bears,Halas,,,,,/teams/chi/,,,George Halas,/coaches/HalaGe0.htm
+100,1927,Chicago Bears,Halas,,,,,/teams/chi/,,,George Halas,/coaches/HalaGe0.htm
+101,1926,Chicago Bears,Halas,,,,,/teams/chi/,,,George Halas,/coaches/HalaGe0.htm
+102,1925,Chicago Bears,Halas,,,,,/teams/chi/,,,George Halas,/coaches/HalaGe0.htm
+103,1924,Chicago Bears,Halas,,,,,/teams/chi/,,,George Halas,/coaches/HalaGe0.htm
+104,1923,Chicago Bears,Halas,,,,,/teams/chi/,,,George Halas,/coaches/HalaGe0.htm
+105,1922,Chicago Bears,Halas,,,,,/teams/chi/,,,George Halas,/coaches/HalaGe0.htm
+106,1921,Chicago Staleys,Halas,,,,,/teams/chi/,,,George Halas,/coaches/HalaGe0.htm
+107,1920,Decatur Staleys,Halas,,,,,/teams/chi/,,,George Halas,/coaches/HalaGe0.htm

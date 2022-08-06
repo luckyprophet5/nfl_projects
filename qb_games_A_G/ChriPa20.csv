@@ -1,0 +1,37 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Unnamed: 8_level_0,Unnamed: 9_level_0,Unnamed: 10_level_0,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Scoring,Scoring,qb,qb_tag
+,Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds.1,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,,
+0,1,1946,1946-10-13,4,4,28.222,CRD,@,DET,W 36-14,,20,33,60.61,263,4,2,100.1,,,7.97,7.67,0,0,,0,0,0,Paul Christman,ChriPa20
+1,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Paul Christman,ChriPa20
+2,2,1947,1947-09-28,1,1,29.207,CRD,,DET,W 45-21,,16,24,66.67,320,2,0,137.5,,,13.33,15.00,0,0,,0,0,0,Paul Christman,ChriPa20
+3,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Paul Christman,ChriPa20
+4,3,1948,1948-09-24,1,2,30.203,CRD,,PHI,W 21-14,,5,22,22.73,87,1,1,39.8,,,3.95,2.82,,,,,0,0,Paul Christman,ChriPa20
+5,4,1948,1948-10-04,2,3,30.213,CRD,,CHI,L 17-28,,2,6,33.33,2,0,1,2.8,,,0.33,-7.17,,,,,0,0,Paul Christman,ChriPa20
+6,5,1948,1948-11-07,7,8,30.247,CRD,,DET,W 56-20,,9,14,64.29,199,3,1,117.6,,,14.21,15.29,2,3,1.50,0,0,0,Paul Christman,ChriPa20
+7,6,1948,1948-11-14,8,9,30.254,CRD,@,PIT,W 24-7,,11,18,61.11,91,0,0,74.1,,,5.06,5.06,,,,,0,0,Paul Christman,ChriPa20
+8,7,1948,1948-11-21,9,10,30.261,CRD,,RAM,W 27-24,,9,17,52.94,155,0,0,84.2,,,9.12,9.12,,,,,0,0,Paul Christman,ChriPa20
+9,8,1948,1948-11-25,10,11,30.265,CRD,@,DET,W 28-14,,4,11,36.36,43,0,0,48.7,,,3.91,3.91,,,,,0,0,Paul Christman,ChriPa20
+10,9,1948,1948-12-05,11,12,30.275,CRD,,GNB,W 42-7,,6,10,60.00,87,1,0,121.7,,,8.70,10.70,2,0,0.00,1,1,6,Paul Christman,ChriPa20
+11,10,1948,1948-12-12,12,13,30.282,CRD,@,CHI,W 24-21,,5,16,31.25,76,0,1,21.9,,,4.75,1.94,,,,,0,0,Paul Christman,ChriPa20
+12,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Paul Christman,ChriPa20
+13,11,1949,1949-09-26,1,1,31.205,CRD,,WAS,W 38-7,,8,15,53.33,115,1,2,61.1,,,7.67,3.00,,,,,0,0,Paul Christman,ChriPa20
+14,12,1949,1949-10-02,2,2,31.211,CRD,,CHI,L 7-17,,13,23,56.52,122,0,1,53.2,,,5.30,3.35,1,5,5.00,0,0,0,Paul Christman,ChriPa20
+15,13,1949,1949-10-08,3,3,31.217,CRD,@,PHI,L 3-28,,4,9,44.44,85,0,0,78.5,,,9.44,9.44,2,25,12.50,0,0,0,Paul Christman,ChriPa20
+16,14,1949,1949-10-16,4,4,31.225,CRD,@,GNB,W 39-17,,3,10,30.00,50,1,1,41.7,,,5.00,2.50,,,,,0,0,Paul Christman,ChriPa20
+17,15,1949,1949-10-23,5,5,31.232,CRD,,DET,L 7-24,,6,17,35.29,47,0,5,4.4,,,2.76,-10.47,,,,,0,0,Paul Christman,ChriPa20
+18,16,1949,1949-11-13,8,8,31.253,CRD,@,NYY,W 65-20,,9,19,47.37,125,3,1,86.6,,,6.58,7.37,,,,,0,0,Paul Christman,ChriPa20
+19,17,1949,1949-11-20,9,9,31.260,CRD,,RAM,T 28-28,,2,3,66.67,0,0,0,70.1,,,0.00,0.00,,,,,0,0,Paul Christman,ChriPa20
+20,18,1949,1949-11-27,10,10,31.267,CRD,,GNB,W 41-21,,5,8,62.50,48,1,1,79.2,,,6.00,2.88,,,,,0,0,Paul Christman,ChriPa20
+21,19,1949,1949-12-04,11,11,31.274,CRD,@,RAM,W 31-27,,6,16,37.50,150,2,0,112.0,,,9.38,11.88,,,,,0,0,Paul Christman,ChriPa20
+22,20,1949,1949-12-11,12,12,31.281,CRD,@,CHI,L 21-52,,19,31,61.29,280,3,2,96.2,,,9.03,8.06,,,,,0,0,Paul Christman,ChriPa20
+23,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Paul Christman,ChriPa20
+24,21,1950,1950-09-24,2,2,32.203,GNB,,WAS,W 35-21,,1,6,16.67,21,1,0,81.2,,,3.50,6.83,,,,,0,0,Paul Christman,ChriPa20
+25,22,1950,1950-10-01,3,3,32.210,GNB,,CHI,W 31-21,,1,2,50.00,5,1,0,95.8,,8,2.50,12.50,,,,,0,0,Paul Christman,ChriPa20
+26,23,1950,1950-10-08,4,4,32.217,GNB,,NYY,L 31-44,,4,14,28.57,55,0,1,13.7,,11,3.93,0.71,1,1,1.00,1,1,6,Paul Christman,ChriPa20
+27,24,1950,1950-10-15,5,5,32.224,GNB,@,CHI,L 14-28,,8,22,36.36,80,0,1,28.6,,30,3.64,1.59,,,,,0,0,Paul Christman,ChriPa20
+28,25,1950,1950-10-19,6,6,32.228,GNB,@,NYY,L 17-35,,11,25,44.00,117,1,2,38.2,,22,4.68,1.88,1,2,2.00,0,0,0,Paul Christman,ChriPa20
+29,26,1950,1950-11-05,7,8,32.245,GNB,@,BCL,L 21-41,,14,27,51.85,163,2,2,64.3,,23,6.04,4.19,1,1,1.00,0,0,0,Paul Christman,ChriPa20
+30,27,1950,1950-11-12,8,9,32.252,GNB,,RAM,L 14-45,,0,3,0.00,0,0,1,0.0,,,0.00,-15.00,,,,,0,0,Paul Christman,ChriPa20
+31,28,1950,1950-11-26,10,11,32.266,GNB,,SFO,W 25-21,,4,4,100.00,67,1,0,158.3,,12,16.75,21.75,2,8,4.00,0,0,0,Paul Christman,ChriPa20
+32,29,1950,1950-12-03,11,12,32.273,GNB,@,RAM,L 14-51,,4,9,44.44,16,1,0,88.7,,15,1.78,4.00,2,6,3.00,0,0,0,Paul Christman,ChriPa20
+33,30,1950,1950-12-10,12,13,32.280,GNB,@,SFO,L 14-30,,4,14,28.57,21,0,0,39.6,,11,1.50,1.50,,,,,0,0,Paul Christman,ChriPa20
+34,,,30 Games,,,,,,,17-12-1,,213,448,47.54,2890,29,26,66.0,,132,6.45,5.13,14,51,3.64,2,2,12,Paul Christman,ChriPa20

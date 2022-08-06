@@ -1,0 +1,63 @@
+,season,team,coach,top_av_player,passer,rusher,receiver,franchise_code,passer_name,passer_url,coach_name,coach_url
+0,2021,Los Angeles Chargers,Staley,Herbert,Herbert,Ekeler,Williams,/teams/sdg/,Justin Herbert,/players/H/HerbJu00.htm,Brandon Staley,/coaches/StalBr0.htm
+1,2020,Los Angeles Chargers,Lynn,Herbert,Herbert,Ekeler,Allen,/teams/sdg/,Justin Herbert,/players/H/HerbJu00.htm,Anthony Lynn,/coaches/LynnAn0.htm
+2,2019,Los Angeles Chargers,Lynn,Rivers,Rivers,Gordon,Allen,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Anthony Lynn,/coaches/LynnAn0.htm
+3,2018,Los Angeles Chargers,Lynn,Rivers,Rivers,Gordon,Allen,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Anthony Lynn,/coaches/LynnAn0.htm
+4,2017,Los Angeles Chargers,Lynn,Rivers,Rivers,Gordon,Allen,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Anthony Lynn,/coaches/LynnAn0.htm
+5,2016,San Diego Chargers,McCoy,Rivers,Rivers,Gordon,Williams,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Mike McCoy,/coaches/McCoMi1.htm
+6,2015,San Diego Chargers,McCoy,Rivers,Rivers,Gordon,Woodhead,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Mike McCoy,/coaches/McCoMi1.htm
+7,2014,San Diego Chargers,McCoy,Weddle,Rivers,Oliver,Floyd,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Mike McCoy,/coaches/McCoMi1.htm
+8,2013,San Diego Chargers,McCoy,Rivers,Rivers,Mathews,Allen,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Mike McCoy,/coaches/McCoMi1.htm
+9,2012,San Diego Chargers,Turner,Weddle,Rivers,Mathews,Floyd,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Norv Turner,/coaches/TurnNo0.htm
+10,2011,San Diego Chargers,Turner,Rivers,Rivers,Mathews,Jackson,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Norv Turner,/coaches/TurnNo0.htm
+11,2010,San Diego Chargers,Turner,Rivers,Rivers,Tolbert,Gates,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Norv Turner,/coaches/TurnNo0.htm
+12,2009,San Diego Chargers,Turner,Rivers,Rivers,Tomlinson,Jackson,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Norv Turner,/coaches/TurnNo0.htm
+13,2008,San Diego Chargers,Turner,Rivers,Rivers,Tomlinson,Jackson,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Norv Turner,/coaches/TurnNo0.htm
+14,2007,San Diego Chargers,Turner,Tomlinson,Rivers,Tomlinson,Gates,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Norv Turner,/coaches/TurnNo0.htm
+15,2006,San Diego Chargers,Schottenheimer,Tomlinson,Rivers,Tomlinson,Gates,/teams/sdg/,Philip Rivers,/players/R/RivePh00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+16,2005,San Diego Chargers,Schottenheimer,Tomlinson,Brees,Tomlinson,Gates,/teams/sdg/,Drew Brees,/players/B/BreeDr00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+17,2004,San Diego Chargers,Schottenheimer,Tomlinson,Brees,Tomlinson,Gates,/teams/sdg/,Drew Brees,/players/B/BreeDr00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+18,2003,San Diego Chargers,Schottenheimer,Tomlinson,Brees,Tomlinson,Boston,/teams/sdg/,Drew Brees,/players/B/BreeDr00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+19,2002,San Diego Chargers,Schottenheimer,Tomlinson,Brees,Tomlinson,Conway,/teams/sdg/,Drew Brees,/players/B/BreeDr00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+20,2001,San Diego Chargers,Riley,Wiley,Flutie,Tomlinson,Conway,/teams/sdg/,Doug Flutie,/players/F/FlutDo00.htm,Mike Riley,/coaches/RileMi0.htm
+21,2000,San Diego Chargers,Riley,Seau,Leaf,Fletcher,Graham,/teams/sdg/,Ryan Leaf,/players/L/LeafRy00.htm,Mike Riley,/coaches/RileMi0.htm
+22,1999,San Diego Chargers,Riley,Seau,Harbaugh,Fazande,Graham,/teams/sdg/,Jim Harbaugh,/players/H/HarbJi00.htm,Mike Riley,/coaches/RileMi0.htm
+23,1998,San Diego Chargers,"Jones,Gilbride",Seau,Whelihan,Means,Jones,/teams/sdg/,Craig Whelihan,/players/W/WhelCr00.htm,"June Jones,Kevin Gilbride","/coaches/JoneJu0.htm,/coaches/GilbKe0.htm"
+24,1997,San Diego Chargers,Gilbride,Seau,Humphries,Brown,Martin,/teams/sdg/,Stan Humphries,/players/H/HumpSt00.htm,Kevin Gilbride,/coaches/GilbKe0.htm
+25,1996,San Diego Chargers,Ross,Seau,Humphries,Russell,Martin,/teams/sdg/,Stan Humphries,/players/H/HumpSt00.htm,Bobby Ross,/coaches/RossBo0.htm
+26,1995,San Diego Chargers,Ross,Seau,Humphries,Means,Martin,/teams/sdg/,Stan Humphries,/players/H/HumpSt00.htm,Bobby Ross,/coaches/RossBo0.htm
+27,1994,San Diego Chargers,Ross,Seau,Humphries,Means,Martin,/teams/sdg/,Stan Humphries,/players/H/HumpSt00.htm,Bobby Ross,/coaches/RossBo0.htm
+28,1993,San Diego Chargers,Ross,Seau,Humphries,Butts,Miller,/teams/sdg/,Stan Humphries,/players/H/HumpSt00.htm,Bobby Ross,/coaches/RossBo0.htm
+29,1992,San Diego Chargers,Ross,Seau,Humphries,Butts,Miller,/teams/sdg/,Stan Humphries,/players/H/HumpSt00.htm,Bobby Ross,/coaches/RossBo0.htm
+32,1991,San Diego Chargers,Henning,Byrd,Friesz,Butts,Miller,/teams/sdg/,John Friesz,/players/F/FrieJo00.htm,Dan Henning,/coaches/HennDa0.htm
+33,1990,San Diego Chargers,Henning,O'Neal,Tolliver,Butts,Miller,/teams/sdg/,Billy Joe Tolliver,/players/T/TollBi00.htm,Dan Henning,/coaches/HennDa0.htm
+34,1989,San Diego Chargers,Henning,Williams,McMahon,Butts,Miller,/teams/sdg/,Jim McMahon,/players/M/McMaJi00.htm,Dan Henning,/coaches/HennDa0.htm
+35,1988,San Diego Chargers,Saunders,Williams,Malone,Anderson,Holland,/teams/sdg/,Mark Malone,/players/M/MaloMa00.htm,Al Saunders,/coaches/SaunAl0.htm
+36,1987,San Diego Chargers,Saunders,Benson,Fouts,Adams,Chandler,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,Al Saunders,/coaches/SaunAl0.htm
+37,1986,San Diego Chargers,"Saunders,Coryell",Anderson,Fouts,Anderson,Chandler,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,"Al Saunders,Don Coryell","/coaches/SaunAl0.htm,/coaches/CoryDo0.htm"
+38,1985,San Diego Chargers,Coryell,James,Fouts,James,Chandler,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,Don Coryell,/coaches/CoryDo0.htm
+39,1984,San Diego Chargers,Coryell,Fouts,Fouts,Jackson,Joiner,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,Don Coryell,/coaches/CoryDo0.htm
+40,1983,San Diego Chargers,Coryell,Winslow,Fouts,Muncie,Winslow,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,Don Coryell,/coaches/CoryDo0.htm
+41,1982,San Diego Chargers,Coryell,Chandler,Fouts,Muncie,Chandler,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,Don Coryell,/coaches/CoryDo0.htm
+42,1981,San Diego Chargers,Coryell,Fouts,Fouts,Muncie,Joiner,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,Don Coryell,/coaches/CoryDo0.htm
+43,1980,San Diego Chargers,Coryell,Fouts,Fouts,Muncie,Jefferson,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,Don Coryell,/coaches/CoryDo0.htm
+44,1979,San Diego Chargers,Coryell,Fouts,Fouts,Williams,Jefferson,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,Don Coryell,/coaches/CoryDo0.htm
+45,1978,San Diego Chargers,"Coryell,Prothro",Mitchell,Fouts,Mitchell,Jefferson,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,"Don Coryell,Tommy Prothro","/coaches/CoryDo0.htm,/coaches/ProtTo0.htm"
+46,1977,San Diego Chargers,Prothro,Kelcher,Harris,Young,Joiner,/teams/sdg/,James Harris,/players/H/HarrJa01.htm,Tommy Prothro,/coaches/ProtTo0.htm
+47,1976,San Diego Chargers,Prothro,Joiner,Fouts,Young,Joiner,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,Tommy Prothro,/coaches/ProtTo0.htm
+48,1975,San Diego Chargers,Prothro,Washington,Fouts,Young,Curran,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,Tommy Prothro,/coaches/ProtTo0.htm
+49,1974,San Diego Chargers,Prothro,Woods,Fouts,Woods,Garrison,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,Tommy Prothro,/coaches/ProtTo0.htm
+50,1973,San Diego Chargers,"Waller,Svare",Smith,Fouts,Edwards,LeVias,/teams/sdg/,Dan Fouts,/players/F/FoutDa00.htm,"Ron Waller,Harland Svare","/coaches/WallRo0.htm,/coaches/SvarHa0.htm"
+51,1972,San Diego Chargers,Svare,Edwards,Hadl,Garrett,Garrison,/teams/sdg/,John Hadl,/players/H/HadlJo00.htm,Harland Svare,/coaches/SvarHa0.htm
+52,1971,San Diego Chargers,"Gillman,Svare",Hadl,Hadl,Garrett,Garrison,/teams/sdg/,John Hadl,/players/H/HadlJo00.htm,"Sid Gillman,Harland Svare","/coaches/GillSi0.htm,/coaches/SvarHa0.htm"
+53,1970,San Diego Chargers,Waller,Hadl,Hadl,Queen,Garrison,/teams/sdg/,John Hadl,/players/H/HadlJo00.htm,Charlie Waller,/coaches/WallCh0.htm
+54,1969,San Diego Chargers,"Waller,Gillman",Alworth,Hadl,Post,Alworth,/teams/sdg/,John Hadl,/players/H/HadlJo00.htm,"Charlie Waller,Sid Gillman","/coaches/WallCh0.htm,/coaches/GillSi0.htm"
+55,1968,San Diego Chargers,Gillman,Alworth,Hadl,Post,Alworth,/teams/sdg/,John Hadl,/players/H/HadlJo00.htm,Sid Gillman,/coaches/GillSi0.htm
+56,1967,San Diego Chargers,Gillman,Hadl,Hadl,Post,Alworth,/teams/sdg/,John Hadl,/players/H/HadlJo00.htm,Sid Gillman,/coaches/GillSi0.htm
+57,1966,San Diego Chargers,Gillman,Alworth,Hadl,Lowe,Alworth,/teams/sdg/,John Hadl,/players/H/HadlJo00.htm,Sid Gillman,/coaches/GillSi0.htm
+58,1965,San Diego Chargers,Gillman,Alworth,Hadl,Lowe,Alworth,/teams/sdg/,John Hadl,/players/H/HadlJo00.htm,Sid Gillman,/coaches/GillSi0.htm
+59,1964,San Diego Chargers,Gillman,Alworth,Hadl,Lincoln,Alworth,/teams/sdg/,John Hadl,/players/H/HadlJo00.htm,Sid Gillman,/coaches/GillSi0.htm
+60,1963,San Diego Chargers,Gillman,Alworth,Rote,Lowe,Alworth,/teams/sdg/,Tobin Rote,/players/R/RoteTo00.htm,Sid Gillman,/coaches/GillSi0.htm
+61,1962,San Diego Chargers,Gillman,Blair,Hadl,Lincoln,Norton,/teams/sdg/,John Hadl,/players/H/HadlJo00.htm,Sid Gillman,/coaches/GillSi0.htm
+64,1961,San Diego Chargers,Gillman,Harris,Kemp,Lowe,Kocourek,/teams/sdg/,Jack Kemp,/players/K/KempJa00.htm,Sid Gillman,/coaches/GillSi0.htm
+65,1960,Los Angeles Chargers,Gillman,Kemp,Kemp,Lowe,Kocourek,/teams/sdg/,Jack Kemp,/players/K/KempJa00.htm,Sid Gillman,/coaches/GillSi0.htm

@@ -1,0 +1,28 @@
+,season,team,coach,top_av_player,passer,rusher,receiver,franchise_code,passer_name,passer_url,coach_name,coach_url
+0,2021,Jacksonville Jaguars,"Meyer,Bevell",Lawrence,Lawrence,Robinson,Jones,/teams/jax/,Trevor Lawrence,/players/L/LawrTr00.htm,"Urban Meyer,Darrell Bevell","/coaches/MeyeUr0.htm,/coaches/BeveDa0.htm"
+1,2020,Jacksonville Jaguars,Marrone,Robinson,Minshew,Robinson,Chark,/teams/jax/,Gardner Minshew,/players/M/MinsGa00.htm,Doug Marrone,/coaches/MarrDo0.htm
+2,2019,Jacksonville Jaguars,Marrone,Minshew,Minshew,Fournette,Chark,/teams/jax/,Gardner Minshew,/players/M/MinsGa00.htm,Doug Marrone,/coaches/MarrDo0.htm
+3,2018,Jacksonville Jaguars,Marrone,Campbell,Bortles,Fournette,Westbrook,/teams/jax/,Blake Bortles,/players/B/BortBl00.htm,Doug Marrone,/coaches/MarrDo0.htm
+4,2017,Jacksonville Jaguars,Marrone,Campbell,Bortles,Fournette,Cole,/teams/jax/,Blake Bortles,/players/B/BortBl00.htm,Doug Marrone,/coaches/MarrDo0.htm
+5,2016,Jacksonville Jaguars,"Bradley,Marrone",Bortles,Bortles,Yeldon,Robinson,/teams/jax/,Blake Bortles,/players/B/BortBl00.htm,"Gus Bradley,Doug Marrone","/coaches/BradGu0.htm,/coaches/MarrDo0.htm"
+6,2015,Jacksonville Jaguars,Bradley,Bortles,Bortles,Yeldon,Robinson,/teams/jax/,Blake Bortles,/players/B/BortBl00.htm,Gus Bradley,/coaches/BradGu0.htm
+7,2014,Jacksonville Jaguars,Bradley,Marks,Bortles,Robinson,Hurns,/teams/jax/,Blake Bortles,/players/B/BortBl00.htm,Gus Bradley,/coaches/BradGu0.htm
+8,2013,Jacksonville Jaguars,Bradley,Posluszny,Henne,Jones-Drew,Shorts,/teams/jax/,Chad Henne,/players/H/HennCh01.htm,Gus Bradley,/coaches/BradGu0.htm
+9,2012,Jacksonville Jaguars,Mularkey,Posluszny,Henne,Jones-Drew,Shorts,/teams/jax/,Chad Henne,/players/H/HennCh01.htm,Mike Mularkey,/coaches/MulaMi0.htm
+10,2011,Jacksonville Jaguars,"Del Rio,Tucker",Jones-Drew,Gabbert,Jones-Drew,Lewis,/teams/jax/,Blaine Gabbert,/players/G/GabbBl00.htm,"Jack Del Rio,Mel Tucker","/coaches/DelRJa0.htm,/coaches/TuckMe0.htm"
+11,2010,Jacksonville Jaguars,Del Rio,Jones-Drew,Garrard,Jones-Drew,Thomas,/teams/jax/,David Garrard,/players/G/GarrDa00.htm,Jack Del Rio,/coaches/DelRJa0.htm
+12,2009,Jacksonville Jaguars,Del Rio,Garrard,Garrard,Jones-Drew,Sims-Walker,/teams/jax/,David Garrard,/players/G/GarrDa00.htm,Jack Del Rio,/coaches/DelRJa0.htm
+13,2008,Jacksonville Jaguars,Del Rio,Garrard,Garrard,Jones-Drew,Jones,/teams/jax/,David Garrard,/players/G/GarrDa00.htm,Jack Del Rio,/coaches/DelRJa0.htm
+14,2007,Jacksonville Jaguars,Del Rio,Jones-Drew,Garrard,Taylor,Williams,/teams/jax/,David Garrard,/players/G/GarrDa00.htm,Jack Del Rio,/coaches/DelRJa0.htm
+15,2006,Jacksonville Jaguars,Del Rio,Mathis,Garrard,Taylor,Jones,/teams/jax/,David Garrard,/players/G/GarrDa00.htm,Jack Del Rio,/coaches/DelRJa0.htm
+16,2005,Jacksonville Jaguars,Del Rio,Peterson,Leftwich,Taylor,Smith,/teams/jax/,Byron Leftwich,/players/L/LeftBy00.htm,Jack Del Rio,/coaches/DelRJa0.htm
+17,2004,Jacksonville Jaguars,Del Rio,Henderson,Leftwich,Taylor,Smith,/teams/jax/,Byron Leftwich,/players/L/LeftBy00.htm,Jack Del Rio,/coaches/DelRJa0.htm
+18,2003,Jacksonville Jaguars,Del Rio,Taylor,Leftwich,Taylor,Smith,/teams/jax/,Byron Leftwich,/players/L/LeftBy00.htm,Jack Del Rio,/coaches/DelRJa0.htm
+19,2002,Jacksonville Jaguars,Coughlin,Taylor,Brunell,Taylor,Smith,/teams/jax/,Mark Brunell,/players/B/BrunMa00.htm,Tom Coughlin,/coaches/CougTo0.htm
+20,2001,Jacksonville Jaguars,Coughlin,Smith,Brunell,Mack,Smith,/teams/jax/,Mark Brunell,/players/B/BrunMa00.htm,Tom Coughlin,/coaches/CougTo0.htm
+21,2000,Jacksonville Jaguars,Coughlin,Brunell,Brunell,Taylor,Smith,/teams/jax/,Mark Brunell,/players/B/BrunMa00.htm,Tom Coughlin,/coaches/CougTo0.htm
+22,1999,Jacksonville Jaguars,Coughlin,Hardy,Brunell,Stewart,Smith,/teams/jax/,Mark Brunell,/players/B/BrunMa00.htm,Tom Coughlin,/coaches/CougTo0.htm
+23,1998,Jacksonville Jaguars,Coughlin,Boselli,Brunell,Taylor,Smith,/teams/jax/,Mark Brunell,/players/B/BrunMa00.htm,Tom Coughlin,/coaches/CougTo0.htm
+24,1997,Jacksonville Jaguars,Coughlin,Boselli,Brunell,Means,Smith,/teams/jax/,Mark Brunell,/players/B/BrunMa00.htm,Tom Coughlin,/coaches/CougTo0.htm
+25,1996,Jacksonville Jaguars,Coughlin,Brunell,Brunell,Stewart,Smith,/teams/jax/,Mark Brunell,/players/B/BrunMa00.htm,Tom Coughlin,/coaches/CougTo0.htm
+26,1995,Jacksonville Jaguars,Coughlin,Brunell,Brunell,Stewart,Jackson,/teams/jax/,Mark Brunell,/players/B/BrunMa00.htm,Tom Coughlin,/coaches/CougTo0.htm

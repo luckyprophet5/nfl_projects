@@ -1,0 +1,85 @@
+,season,team,coach,top_av_player,passer,rusher,receiver,franchise_code,passer_name,passer_url,coach_name,coach_url
+0,2021,Los Angeles Rams,McVay,Kupp,Stafford,Michel,Kupp,/teams/ram/,Matthew Stafford,/players/S/StafMa00.htm,Sean McVay,/coaches/McVaSe0.htm
+1,2020,Los Angeles Rams,McVay,Donald,Goff,Akers,Kupp,/teams/ram/,Jared Goff,/players/G/GoffJa00.htm,Sean McVay,/coaches/McVaSe0.htm
+2,2019,Los Angeles Rams,McVay,Donald,Goff,Gurley,Kupp,/teams/ram/,Jared Goff,/players/G/GoffJa00.htm,Sean McVay,/coaches/McVaSe0.htm
+3,2018,Los Angeles Rams,McVay,Goff,Goff,Gurley,Woods,/teams/ram/,Jared Goff,/players/G/GoffJa00.htm,Sean McVay,/coaches/McVaSe0.htm
+4,2017,Los Angeles Rams,McVay,Gurley,Goff,Gurley,Kupp,/teams/ram/,Jared Goff,/players/G/GoffJa00.htm,Sean McVay,/coaches/McVaSe0.htm
+5,2016,Los Angeles Rams,"Fisher,Fassel",Donald,Keenum,Gurley,Britt,/teams/ram/,Case Keenum,/players/K/KeenCa00.htm,"Jeff Fisher,John Fassel","/coaches/FishJe0.htm,/coaches/FassJo0.htm"
+6,2015,St. Louis Rams,Fisher,Donald,Foles,Gurley,Britt,/teams/ram/,Nick Foles,/players/F/FoleNi00.htm,Jeff Fisher,/coaches/FishJe0.htm
+7,2014,St. Louis Rams,Fisher,Quinn,Davis,Mason,Britt,/teams/ram/,Austin Davis,/players/D/DaviAu00.htm,Jeff Fisher,/coaches/FishJe0.htm
+8,2013,St. Louis Rams,Fisher,Quinn,Bradford,Stacy,Cook,/teams/ram/,Sam Bradford,/players/B/BradSa00.htm,Jeff Fisher,/coaches/FishJe0.htm
+9,2012,St. Louis Rams,Fisher,Bradford,Bradford,Jackson,Givens,/teams/ram/,Sam Bradford,/players/B/BradSa00.htm,Jeff Fisher,/coaches/FishJe0.htm
+10,2011,St. Louis Rams,Spagnuolo,Laurinaitis,Bradford,Jackson,Lloyd,/teams/ram/,Sam Bradford,/players/B/BradSa00.htm,Steve Spagnuolo,/coaches/SpagSt0.htm
+11,2010,St. Louis Rams,Spagnuolo,Jackson,Bradford,Jackson,Amendola,/teams/ram/,Sam Bradford,/players/B/BradSa00.htm,Steve Spagnuolo,/coaches/SpagSt0.htm
+12,2009,St. Louis Rams,Spagnuolo,Jackson,Bulger,Jackson,Avery,/teams/ram/,Marc Bulger,/players/B/BulgMa00.htm,Steve Spagnuolo,/coaches/SpagSt0.htm
+13,2008,St. Louis Rams,"Haslett,Linehan",Jackson,Bulger,Jackson,Holt,/teams/ram/,Marc Bulger,/players/B/BulgMa00.htm,"Jim Haslett,Scott Linehan","/coaches/HaslJi0.htm,/coaches/LineSc0.htm"
+14,2007,St. Louis Rams,Linehan,Holt,Bulger,Jackson,Holt,/teams/ram/,Marc Bulger,/players/B/BulgMa00.htm,Scott Linehan,/coaches/LineSc0.htm
+15,2006,St. Louis Rams,Linehan,Jackson,Bulger,Jackson,Holt,/teams/ram/,Marc Bulger,/players/B/BulgMa00.htm,Scott Linehan,/coaches/LineSc0.htm
+16,2005,St. Louis Rams,"Vitt,Martz",Holt,Bulger,Jackson,Holt,/teams/ram/,Marc Bulger,/players/B/BulgMa00.htm,"Joe Vitt,Mike Martz","/coaches/VittJo0.htm,/coaches/MartMi0.htm"
+17,2004,St. Louis Rams,Martz,Bulger,Bulger,Faulk,Holt,/teams/ram/,Marc Bulger,/players/B/BulgMa00.htm,Mike Martz,/coaches/MartMi0.htm
+18,2003,St. Louis Rams,Martz,Pace,Bulger,Faulk,Holt,/teams/ram/,Marc Bulger,/players/B/BulgMa00.htm,Mike Martz,/coaches/MartMi0.htm
+19,2002,St. Louis Rams,Martz,Little,Bulger,Faulk,Holt,/teams/ram/,Marc Bulger,/players/B/BulgMa00.htm,Mike Martz,/coaches/MartMi0.htm
+20,2001,St. Louis Rams,Martz,Faulk,Warner,Faulk,Holt,/teams/ram/,Kurt Warner,/players/W/WarnKu00.htm,Mike Martz,/coaches/MartMi0.htm
+21,2000,St. Louis Rams,Martz,Pace,Warner,Faulk,Holt,/teams/ram/,Kurt Warner,/players/W/WarnKu00.htm,Mike Martz,/coaches/MartMi0.htm
+22,1999,St. Louis Rams,Vermeil,Faulk,Warner,Faulk,Bruce,/teams/ram/,Kurt Warner,/players/W/WarnKu00.htm,Dick Vermeil,/coaches/VermDi0.htm
+23,1998,St. Louis Rams,Vermeil,Jones,Banks,Henley,Proehl,/teams/ram/,Tony Banks,/players/B/BankTo00.htm,Dick Vermeil,/coaches/VermDi0.htm
+24,1997,St. Louis Rams,Vermeil,Banks,Banks,Phillips,Lee,/teams/ram/,Tony Banks,/players/B/BankTo00.htm,Dick Vermeil,/coaches/VermDi0.htm
+25,1996,St. Louis Rams,Brooks,Bruce,Banks,Phillips,Bruce,/teams/ram/,Tony Banks,/players/B/BankTo00.htm,Rich Brooks,/coaches/BrooRi0.htm
+26,1995,St. Louis Rams,Brooks,Bruce,Miller,Bettis,Bruce,/teams/ram/,Chris Miller,/players/M/MillCh00.htm,Rich Brooks,/coaches/BrooRi0.htm
+27,1994,Los Angeles Rams,Knox,Anderson,Miller,Bettis,Anderson,/teams/ram/,Chris Miller,/players/M/MillCh00.htm,Chuck Knox,/coaches/KnoxCh0.htm
+28,1993,Los Angeles Rams,Knox,Bettis,Everett,Bettis,Ellard,/teams/ram/,Jim Everett,/players/E/EverJi00.htm,Chuck Knox,/coaches/KnoxCh0.htm
+29,1992,Los Angeles Rams,Knox,Everett,Everett,Gary,Ellard,/teams/ram/,Jim Everett,/players/E/EverJi00.htm,Chuck Knox,/coaches/KnoxCh0.htm
+32,1991,Los Angeles Rams,Robinson,Everett,Everett,Delpino,Ellard,/teams/ram/,Jim Everett,/players/E/EverJi00.htm,John Robinson,/coaches/RobiJo0.htm
+33,1990,Los Angeles Rams,Robinson,Everett,Everett,Gary,Ellard,/teams/ram/,Jim Everett,/players/E/EverJi00.htm,John Robinson,/coaches/RobiJo0.htm
+34,1989,Los Angeles Rams,Robinson,Newberry,Everett,Bell,Ellard,/teams/ram/,Jim Everett,/players/E/EverJi00.htm,John Robinson,/coaches/RobiJo0.htm
+35,1988,Los Angeles Rams,Robinson,Everett,Everett,Bell,Ellard,/teams/ram/,Jim Everett,/players/E/EverJi00.htm,John Robinson,/coaches/RobiJo0.htm
+36,1987,Los Angeles Rams,Robinson,White,Everett,White,Ellard,/teams/ram/,Jim Everett,/players/E/EverJi00.htm,John Robinson,/coaches/RobiJo0.htm
+37,1986,Los Angeles Rams,Robinson,Irvin,Everett,Dickerson,Ellard,/teams/ram/,Jim Everett,/players/E/EverJi00.htm,John Robinson,/coaches/RobiJo0.htm
+38,1985,Los Angeles Rams,Robinson,Irvin,Brock,Dickerson,Ellard,/teams/ram/,Dieter Brock,/players/B/BrocDi00.htm,John Robinson,/coaches/RobiJo0.htm
+39,1984,Los Angeles Rams,Robinson,Dickerson,Kemp,Dickerson,Ellard,/teams/ram/,Jeff Kemp,/players/K/KempJe00.htm,John Robinson,/coaches/RobiJo0.htm
+40,1983,Los Angeles Rams,Robinson,Dickerson,Ferragamo,Dickerson,Barber,/teams/ram/,Vince Ferragamo,/players/F/FerrVi00.htm,John Robinson,/coaches/RobiJo0.htm
+41,1982,Los Angeles Rams,Malavasi,Tyler,Ferragamo,Tyler,Dennard,/teams/ram/,Vince Ferragamo,/players/F/FerrVi00.htm,Ray Malavasi,/coaches/MalaRa0.htm
+42,1981,Los Angeles Rams,Malavasi,Cromwell,Haden,Tyler,Dennard,/teams/ram/,Pat Haden,/players/H/HadePa00.htm,Ray Malavasi,/coaches/MalaRa0.htm
+43,1980,Los Angeles Rams,Malavasi,Hill,Ferragamo,Bryant,Waddy,/teams/ram/,Vince Ferragamo,/players/F/FerrVi00.htm,Ray Malavasi,/coaches/MalaRa0.htm
+44,1979,Los Angeles Rams,Malavasi,Youngblood,Haden,Tyler,Dennard,/teams/ram/,Pat Haden,/players/H/HadePa00.htm,Ray Malavasi,/coaches/MalaRa0.htm
+45,1978,Los Angeles Rams,Malavasi,Youngblood,Haden,Bryant,Miller,/teams/ram/,Pat Haden,/players/H/HadePa00.htm,Ray Malavasi,/coaches/MalaRa0.htm
+46,1977,Los Angeles Rams,Knox,McCutcheon,Haden,McCutcheon,Jackson,/teams/ram/,Pat Haden,/players/H/HadePa00.htm,Chuck Knox,/coaches/KnoxCh0.htm
+47,1976,Los Angeles Rams,Knox,Jackson,Harris,McCutcheon,Jessie,/teams/ram/,James Harris,/players/H/HarrJa01.htm,Chuck Knox,/coaches/KnoxCh0.htm
+48,1975,Los Angeles Rams,Knox,Youngblood,Harris,McCutcheon,Jackson,/teams/ram/,James Harris,/players/H/HarrJa01.htm,Chuck Knox,/coaches/KnoxCh0.htm
+49,1974,Los Angeles Rams,Knox,McCutcheon,Harris,McCutcheon,Jackson,/teams/ram/,James Harris,/players/H/HarrJa01.htm,Chuck Knox,/coaches/KnoxCh0.htm
+50,1973,Los Angeles Rams,Knox,McCutcheon,Hadl,McCutcheon,Jackson,/teams/ram/,John Hadl,/players/H/HadlJo00.htm,Chuck Knox,/coaches/KnoxCh0.htm
+51,1972,Los Angeles Rams,Prothro,Mack,Gabriel,Ellison,Snow,/teams/ram/,Roman Gabriel,/players/G/GabrRo00.htm,Tommy Prothro,/coaches/ProtTo0.htm
+52,1971,Los Angeles Rams,Prothro,Ellison,Gabriel,Ellison,Snow,/teams/ram/,Roman Gabriel,/players/G/GabrRo00.htm,Tommy Prothro,/coaches/ProtTo0.htm
+53,1970,Los Angeles Rams,Allen,Olsen,Gabriel,Josephson,Snow,/teams/ram/,Roman Gabriel,/players/G/GabrRo00.htm,George Allen,/coaches/AlleGe0.htm
+54,1969,Los Angeles Rams,Allen,Gabriel,Gabriel,Smith,Snow,/teams/ram/,Roman Gabriel,/players/G/GabrRo00.htm,George Allen,/coaches/AlleGe0.htm
+55,1968,Los Angeles Rams,Allen,Jones,Gabriel,Ellison,Casey,/teams/ram/,Roman Gabriel,/players/G/GabrRo00.htm,George Allen,/coaches/AlleGe0.htm
+56,1967,Los Angeles Rams,Allen,Jones,Gabriel,Josephson,Casey,/teams/ram/,Roman Gabriel,/players/G/GabrRo00.htm,George Allen,/coaches/AlleGe0.htm
+57,1966,Los Angeles Rams,Allen,Jones,Gabriel,Bass,McDonald,/teams/ram/,Roman Gabriel,/players/G/GabrRo00.htm,George Allen,/coaches/AlleGe0.htm
+58,1965,Los Angeles Rams,Svare,Jones,Munson,Bass,McDonald,/teams/ram/,Bill Munson,/players/M/MunsBi00.htm,Harland Svare,/coaches/SvarHa0.htm
+59,1964,Los Angeles Rams,Svare,Jones,Munson,Wilson,Pope,/teams/ram/,Bill Munson,/players/M/MunsBi00.htm,Harland Svare,/coaches/SvarHa0.htm
+60,1963,Los Angeles Rams,Svare,Pardee,Gabriel,Bass,Phillips,/teams/ram/,Roman Gabriel,/players/G/GabrRo00.htm,Harland Svare,/coaches/SvarHa0.htm
+61,1962,Los Angeles Rams,"Waterfield,Svare",Olsen,Bratkowski,Bass,Phillips,/teams/ram/,Zeke Bratkowski,/players/B/BratZe00.htm,"Bob Waterfield,Harland Svare","/coaches/WateBo0.htm,/coaches/SvarHa0.htm"
+64,1961,Los Angeles Rams,Waterfield,Phillips,Bratkowski,Arnett,Phillips,/teams/ram/,Zeke Bratkowski,/players/B/BratZe00.htm,Bob Waterfield,/coaches/WateBo0.htm
+65,1960,Los Angeles Rams,Waterfield,Phillips,Wade,Arnett,Phillips,/teams/ram/,Billy Wade,/players/W/WadeBi00.htm,Bob Waterfield,/coaches/WateBo0.htm
+66,1959,Los Angeles Rams,Gillman,,Wade,Matson,Shofner,/teams/ram/,Billy Wade,/players/W/WadeBi00.htm,Sid Gillman,/coaches/GillSi0.htm
+67,1958,Los Angeles Rams,Gillman,,Wade,Arnett,Shofner,/teams/ram/,Billy Wade,/players/W/WadeBi00.htm,Sid Gillman,/coaches/GillSi0.htm
+68,1957,Los Angeles Rams,Gillman,,Van Brocklin,Wilson,Boyd,/teams/ram/,Norm Van Brocklin,/players/V/VanBNo00.htm,Sid Gillman,/coaches/GillSi0.htm
+69,1956,Los Angeles Rams,Gillman,,Wade,Waller,Clarke,/teams/ram/,Billy Wade,/players/W/WadeBi00.htm,Sid Gillman,/coaches/GillSi0.htm
+70,1955,Los Angeles Rams,Gillman,,Van Brocklin,Waller,Fears,/teams/ram/,Norm Van Brocklin,/players/V/VanBNo00.htm,Sid Gillman,/coaches/GillSi0.htm
+71,1954,Los Angeles Rams,Pool,,Van Brocklin,Younger,Boyd,/teams/ram/,Norm Van Brocklin,/players/V/VanBNo00.htm,Hampton Pool,/coaches/PoolHa0.htm
+72,1953,Los Angeles Rams,Pool,,Van Brocklin,Towler,Hirsch,/teams/ram/,Norm Van Brocklin,/players/V/VanBNo00.htm,Hampton Pool,/coaches/PoolHa0.htm
+73,1952,Los Angeles Rams,"Pool,Stydahar",,Van Brocklin,Towler,Fears,/teams/ram/,Norm Van Brocklin,/players/V/VanBNo00.htm,"Hampton Pool,Joe Stydahar","/coaches/PoolHa0.htm,/coaches/StydJo0.htm"
+74,1951,Los Angeles Rams,Stydahar,,Van Brocklin,Towler,Hirsch,/teams/ram/,Norm Van Brocklin,/players/V/VanBNo00.htm,Joe Stydahar,/coaches/StydJo0.htm
+75,1950,Los Angeles Rams,Stydahar,,Van Brocklin,Davis,Fears,/teams/ram/,Norm Van Brocklin,/players/V/VanBNo00.htm,Joe Stydahar,/coaches/StydJo0.htm
+76,1949,Los Angeles Rams,Shaughnessy,,Waterfield,Hoerner,Fears,/teams/ram/,Bob Waterfield,/players/W/WateBo01.htm,Clark Shaughnessy,/coaches/ShauCl0.htm
+77,1948,Los Angeles Rams,Shaughnessy,,Hardy,Hoerner,Fears,/teams/ram/,Jim Hardy,/players/H/HardJi00.htm,Clark Shaughnessy,/coaches/ShauCl0.htm
+78,1947,Los Angeles Rams,Snyder,,Waterfield,Washington,Benton,/teams/ram/,Bob Waterfield,/players/W/WateBo01.htm,Bob Snyder,/coaches/SnydBo0.htm
+79,1946,Los Angeles Rams,Walsh,,Waterfield,Gehrke,Benton,/teams/ram/,Bob Waterfield,/players/W/WateBo01.htm,Adam Walsh,/coaches/WalsAd0.htm
+80,1945,Cleveland Rams,Walsh,,Waterfield,Gehrke,Benton,/teams/ram/,Bob Waterfield,/players/W/WateBo01.htm,Adam Walsh,/coaches/WalsAd0.htm
+81,1944,Cleveland Rams,Donelli,,Reisz,West,Benton,/teams/ram/,Albie Reisz,/players/R/ReisAl20.htm,Aldo Donelli,/coaches/DoneAl0.htm
+82,1942,Cleveland Rams,Clark,,Hall,Magnani,Benton,/teams/ram/,Parker Hall,/players/H/HallPa20.htm,Dutch Clark,/coaches/ClarDu0.htm
+83,1941,Cleveland Rams,Clark,,Hall,Drake,Hickey,/teams/ram/,Parker Hall,/players/H/HallPa20.htm,Dutch Clark,/coaches/ClarDu0.htm
+84,1940,Cleveland Rams,Clark,,Hall,Drake,Benton,/teams/ram/,Parker Hall,/players/H/HallPa20.htm,Dutch Clark,/coaches/ClarDu0.htm
+85,1939,Cleveland Rams,Clark,,Hall,Hall,Benton,/teams/ram/,Parker Hall,/players/H/HallPa20.htm,Dutch Clark,/coaches/ClarDu0.htm
+86,1938,Cleveland Rams,"Lewis,Bezdek",,Snyder,Davis,Benton,/teams/ram/,Bob Snyder,/players/S/SnydBo20.htm,"Art Lewis,Hugo Bezdek","/coaches/LewiAr0.htm,/coaches/BezdHu0.htm"
+87,1937,Cleveland Rams,Bezdek,,Snyder,Drake,Drake,/teams/ram/,Bob Snyder,/players/S/SnydBo20.htm,Hugo Bezdek,/coaches/BezdHu0.htm

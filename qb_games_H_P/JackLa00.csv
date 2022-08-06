@@ -1,0 +1,71 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Unnamed: 8_level_0,Unnamed: 9_level_0,Unnamed: 10_level_0,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Scoring,Scoring,Fumbles,Fumbles,Fumbles,Fumbles,Fumbles,Fumbles,Off. Snaps,Off. Snaps,Def. Snaps,Def. Snaps,ST Snaps,ST Snaps,Unnamed: 40_level_0,qb,qb_tag
+,Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds.1,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Num,Pct,Num,Pct,Num,Pct,Status,,
+0,1,2018,2018-09-09,1,1,21.245,BAL,,BUF,W 47-3,,1,4,25.00,24,0,0,52.1,1,8,6.00,6.00,7,39,5.57,0,0,0,1,0,0,1,-1,0,30,38%,0,0%,0,0%,,Lamar Jackson,JackLa00
+1,2,2018,2018-09-13,2,2,21.249,BAL,@,CIN,L 23-34,,0,0,,0,0,0,,0,0,,,2,6,3.00,0,0,0,0,0,0,0,0,0,6,7%,0,0%,0,0%,,Lamar Jackson,JackLa00
+2,3,2018,2018-09-23,3,3,21.259,BAL,,DEN,W 27-14,,0,0,,0,0,0,,0,0,,,0,0,,0,0,0,0,0,0,0,0,0,2,3%,0,0%,0,0%,,Lamar Jackson,JackLa00
+3,4,2018,2018-09-30,4,4,21.266,BAL,@,PIT,W 26-14,,0,0,,0,0,0,,0,0,,,4,17,4.25,0,0,0,0,0,0,0,0,0,9,12%,0,0%,0,0%,,Lamar Jackson,JackLa00
+4,5,2018,2018-10-07,5,5,21.273,BAL,@,CLE,L 9-12,,0,1,0.00,0,0,0,39.6,0,0,0.00,0.00,3,10,3.33,0,0,0,0,0,0,0,0,0,5,6%,0,0%,0,0%,,Lamar Jackson,JackLa00
+5,6,2018,2018-10-14,6,6,21.280,BAL,@,TEN,W 21-0,,0,0,,0,0,0,,0,0,,,1,22,22.00,0,0,0,0,0,0,0,0,0,2,3%,0,0%,0,0%,,Lamar Jackson,JackLa00
+6,7,2018,2018-10-21,7,7,21.287,BAL,,NOR,L 23-24,,1,1,100.00,5,0,0,87.5,0,0,5.00,5.00,3,9,3.00,1,1,6,0,0,0,0,0,0,5,7%,0,0%,0,0%,,Lamar Jackson,JackLa00
+7,8,2018,2018-10-28,8,8,21.294,BAL,@,CAR,L 21-36,,4,5,80.00,46,1,0,144.6,0,0,9.20,13.20,3,26,8.67,0,0,0,0,0,0,0,0,0,14,21%,0,0%,0,0%,,Lamar Jackson,JackLa00
+8,9,2018,2018-11-04,9,9,21.301,BAL,,PIT,L 16-23,,1,1,100.00,12,0,0,116.7,0,0,12.00,12.00,5,10,2.00,0,0,0,1,0,0,0,-3,0,13,21%,0,0%,0,0%,,Lamar Jackson,JackLa00
+9,10,2018,2018-11-18,10,11,21.315,BAL,,CIN,W 24-21,*,13,19,68.42,150,0,1,70.1,3,14,7.89,5.53,26,119,4.58,0,0,0,1,0,0,1,-3,0,79,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+10,11,2018,2018-11-25,11,12,21.322,BAL,,OAK,W 34-17,*,14,25,56.00,178,1,2,58.4,1,4,7.12,4.32,11,71,6.45,1,1,6,1,0,0,1,-2,0,70,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+11,12,2018,2018-12-02,12,13,21.329,BAL,@,ATL,W 26-16,*,12,21,57.14,125,0,0,74.5,2,8,5.95,5.95,17,75,4.41,1,1,6,3,1,0,1,0,0,66,81%,0,0%,0,0%,,Lamar Jackson,JackLa00
+12,13,2018,2018-12-09,13,14,21.336,BAL,@,KAN,L 24-27,*,13,24,54.17,147,2,0,100.5,2,20,6.13,7.79,14,67,4.79,0,0,0,1,1,0,0,0,0,69,97%,0,0%,0,0%,,Lamar Jackson,JackLa00
+13,14,2018,2018-12-16,14,15,21.343,BAL,,TAM,W 20-12,*,14,23,60.87,131,1,0,91.0,2,3,5.70,6.57,18,95,5.28,0,0,0,1,1,0,0,-6,0,76,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+14,15,2018,2018-12-22,15,16,21.349,BAL,@,LAC,W 22-10,*,12,22,54.55,204,1,0,101.3,3,2,9.27,10.18,13,39,3.00,0,0,0,1,0,0,1,0,0,62,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+15,16,2018,2018-12-30,16,17,21.357,BAL,,CLE,W 26-24,*,14,24,58.33,179,0,0,81.8,2,12,7.46,7.46,20,90,4.50,2,2,12,2,1,0,0,-6,0,77,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+16,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Num,Pct,Num,Pct,Num,Pct,Status,Lamar Jackson,JackLa00
+17,17,2019,2019-09-08,1,1,22.244,BAL,@,MIA,W 59-10,*,17,20,85.00,324,5,0,158.3,1,1,16.20,21.20,3,6,2.00,0,0,0,0,0,0,0,0,0,53,70%,0,0%,0,0%,,Lamar Jackson,JackLa00
+18,18,2019,2019-09-15,2,2,22.251,BAL,,ARI,W 23-17,*,24,37,64.86,272,2,0,104.8,2,14,7.35,8.43,16,120,7.50,0,0,0,0,0,0,0,0,0,77,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+19,19,2019,2019-09-22,3,3,22.258,BAL,@,KAN,L 28-33,*,22,43,51.16,267,0,0,70.6,3,18,6.21,6.21,8,46,5.75,1,1,6,0,0,0,0,0,0,82,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+20,20,2019,2019-09-29,4,4,22.265,BAL,,CLE,L 25-40,*,24,34,70.59,247,3,2,96.1,4,25,7.26,6.38,9,66,7.33,0,0,0,1,0,0,0,-3,0,70,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+21,21,2019,2019-10-06,5,5,22.272,BAL,@,PIT,W 26-23,*,19,28,67.86,161,1,3,54.9,5,22,5.75,1.64,14,70,5.00,0,0,0,1,0,0,1,0,0,79,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+22,22,2019,2019-10-13,6,6,22.279,BAL,,CIN,W 23-17,*,21,33,63.64,236,0,0,84.9,1,8,7.15,7.15,19,152,8.00,1,1,6,0,0,0,0,0,0,79,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+23,23,2019,2019-10-20,7,7,22.286,BAL,@,SEA,W 30-16,*,9,20,45.00,143,0,0,69.4,1,2,7.15,7.15,14,116,8.29,1,1,6,2,0,0,0,0,0,58,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+24,24,2019,2019-11-03,8,9,22.300,BAL,,NWE,W 37-20,*,17,23,73.91,163,1,0,107.7,1,1,7.09,7.96,16,61,3.81,2,2,12,0,0,0,0,0,0,67,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+25,25,2019,2019-11-10,9,10,22.307,BAL,@,CIN,W 49-13,*,15,17,88.24,223,3,0,158.3,0,0,13.12,16.65,7,65,9.29,1,1,6,0,0,0,0,0,0,35,76%,0,0%,0,0%,,Lamar Jackson,JackLa00
+26,26,2019,2019-11-17,10,11,22.314,BAL,,HOU,W 41-7,*,17,24,70.83,222,4,0,139.2,0,0,9.25,12.58,10,79,7.90,0,0,0,0,0,0,0,0,0,58,87%,0,0%,0,0%,,Lamar Jackson,JackLa00
+27,27,2019,2019-11-25,11,12,22.322,BAL,@,LAR,W 45-6,*,15,20,75.00,169,5,0,139.4,2,9,8.45,13.45,8,95,11.88,0,0,0,1,0,0,1,0,0,61,79%,0,0%,0,0%,,Lamar Jackson,JackLa00
+28,28,2019,2019-12-01,12,13,22.328,BAL,,SFO,W 20-17,*,14,23,60.87,105,1,0,86.3,1,0,4.57,5.43,16,101,6.31,1,1,6,1,1,0,0,0,0,65,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+29,29,2019,2019-12-08,13,14,22.335,BAL,@,BUF,W 24-17,*,16,25,64.00,145,3,1,102.5,1,6,5.80,6.40,11,40,3.64,0,0,0,0,0,0,0,0,0,60,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+30,30,2019,2019-12-12,14,15,22.339,BAL,,NYJ,W 42-21,*,15,23,65.22,212,5,0,134.4,1,0,9.22,13.57,8,86,10.75,0,0,0,1,0,0,1,0,0,54,86%,0,0%,0,0%,,Lamar Jackson,JackLa00
+31,31,2019,2019-12-22,15,16,22.349,BAL,@,CLE,W 31-15,*,20,31,64.52,238,3,0,120.1,0,0,7.68,9.61,17,103,6.06,0,0,0,2,1,0,1,0,0,73,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+32,32,2019,2019-12-29,16,17,,BAL,,PIT,W 28-10,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Lamar Jackson,JackLa00
+33,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Num,Pct,Num,Pct,Num,Pct,Status,Lamar Jackson,JackLa00
+34,33,2020,2020-09-13,1,1,23.250,BAL,,CLE,W 38-6,*,20,25,80.00,275,3,0,152.1,2,14,11.00,13.40,7,45,6.43,0,0,0,1,0,0,0,0,0,53,90%,0,0%,0,0%,,Lamar Jackson,JackLa00
+35,34,2020,2020-09-20,2,2,23.257,BAL,@,HOU,W 33-16,*,18,24,75.00,204,1,0,113.9,4,27,8.50,9.33,16,54,3.38,0,0,0,0,0,0,0,0,0,65,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+36,35,2020,2020-09-28,3,3,23.265,BAL,,KAN,L 20-34,*,15,28,53.57,97,1,0,73.1,4,27,3.46,4.18,9,83,9.22,0,0,0,2,1,0,0,0,0,56,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+37,36,2020,2020-10-04,4,4,23.271,BAL,@,WAS,W 31-17,*,14,21,66.67,193,2,1,107.8,1,2,9.19,8.95,7,53,7.57,1,1,6,0,0,0,0,0,0,47,82%,0,0%,0,0%,,Lamar Jackson,JackLa00
+38,37,2020,2020-10-11,5,5,23.278,BAL,,CIN,W 27-3,*,19,37,51.35,180,2,1,71.9,1,9,4.86,4.73,2,3,1.50,0,0,0,0,0,0,0,0,0,62,99%,0,0%,0,0%,,Lamar Jackson,JackLa00
+39,38,2020,2020-10-18,6,6,23.285,BAL,@,PHI,W 30-28,*,16,27,59.26,186,1,0,92.5,3,13,6.89,7.63,9,108,12.00,1,1,6,0,0,0,0,0,0,73,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+40,39,2020,2020-11-01,7,8,23.299,BAL,,PIT,L 24-28,*,13,28,46.43,208,2,2,65.8,4,16,7.43,5.64,16,65,4.06,0,0,0,3,2,0,1,0,0,82,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+41,40,2020,2020-11-08,8,9,23.306,BAL,@,IND,W 24-10,*,19,23,82.61,170,0,0,97.5,2,14,7.39,7.39,13,58,4.46,1,1,6,0,0,0,0,0,0,64,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+42,41,2020,2020-11-15,9,10,23.313,BAL,@,NWE,L 17-23,*,24,34,70.59,249,2,1,98.8,2,7,7.32,7.18,11,55,5.00,0,0,0,0,0,0,2,0,0,66,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+43,42,2020,2020-11-22,10,11,23.320,BAL,,TEN,L 24-30,*,17,29,58.62,186,1,1,74.8,1,9,6.41,5.55,13,51,3.92,0,0,0,0,0,0,0,0,0,65,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+44,43,2020,2020-12-02,11,12,,BAL,@,PIT,L 14-19,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,COVID-19 List,Lamar Jackson,JackLa00
+45,44,2020,2020-12-08,12,13,23.336,BAL,,DAL,W 34-17,*,12,17,70.59,107,2,1,101.8,0,0,6.29,6.00,13,94,7.23,1,1,6,1,0,0,0,-8,0,55,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+46,45,2020,2020-12-14,13,14,23.342,BAL,@,CLE,W 47-42,*,11,17,64.71,163,1,0,115.6,4,22,9.59,10.76,9,124,13.78,2,2,12,0,0,0,0,0,0,49,82%,0,0%,0,0%,,Lamar Jackson,JackLa00
+47,46,2020,2020-12-20,14,15,23.348,BAL,,JAX,W 40-14,*,17,22,77.27,243,3,1,133.1,1,0,11.05,11.73,10,35,3.50,1,1,6,2,0,0,1,0,0,55,83%,0,0%,0,0%,,Lamar Jackson,JackLa00
+48,47,2020,2020-12-27,15,16,23.355,BAL,,NYG,W 27-13,*,17,26,65.38,183,2,0,111.5,0,0,7.04,8.58,13,80,6.15,0,0,0,1,1,0,0,-1,0,68,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+49,48,2020,2021-01-03,16,17,23.362,BAL,@,CIN,W 38-3,*,10,18,55.56,113,3,1,91.0,0,0,6.28,7.11,11,97,8.82,0,0,0,0,0,0,0,0,0,57,77%,0,0%,0,0%,,Lamar Jackson,JackLa00
+50,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Num,Pct,Num,Pct,Num,Pct,Status,Lamar Jackson,JackLa00
+51,49,2021,2021-09-13,1,1,24.249,BAL,@,LVR,L 27-33,*,19,30,63.33,235,1,0,98.6,3,18,7.83,8.50,12,86,7.17,0,0,0,3,2,0,1,4,0,68,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+52,50,2021,2021-09-19,2,2,24.255,BAL,,KAN,W 36-35,*,18,26,69.23,239,1,2,78.8,1,9,9.19,6.50,16,107,6.69,2,2,12,0,0,0,0,0,0,76,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+53,51,2021,2021-09-26,3,3,24.262,BAL,@,DET,W 19-17,*,16,31,51.61,287,1,1,81.0,4,16,9.26,8.45,7,58,8.29,0,0,0,1,0,0,1,5,0,58,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+54,52,2021,2021-10-03,4,4,24.269,BAL,@,DEN,W 23-7,*,22,37,59.46,316,1,0,96.2,3,12,8.54,9.08,7,28,4.00,0,0,0,0,0,0,0,0,0,73,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+55,53,2021,2021-10-11,5,5,24.277,BAL,,IND,W 31-25,*,37,43,86.05,442,4,0,140.5,2,5,10.28,12.14,14,62,4.43,0,0,0,1,1,0,0,0,0,73,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+56,54,2021,2021-10-17,6,6,24.283,BAL,,LAC,W 34-6,*,19,27,70.37,167,1,2,68.0,3,27,6.19,3.59,8,51,6.38,0,0,0,0,0,0,0,0,0,65,94%,0,0%,0,0%,,Lamar Jackson,JackLa00
+57,55,2021,2021-10-24,7,7,24.290,BAL,,CIN,L 17-41,*,15,31,48.39,257,1,0,87.7,5,18,8.29,8.94,12,88,7.33,0,0,0,0,0,0,0,0,0,61,84%,0,0%,0,0%,,Lamar Jackson,JackLa00
+58,56,2021,2021-11-07,8,9,24.304,BAL,,MIN,W 34-31,*,27,41,65.85,266,3,2,88.1,3,13,6.49,5.76,21,120,5.71,0,0,0,0,0,0,0,0,0,98,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+59,57,2021,2021-11-11,9,10,24.308,BAL,@,MIA,L 10-22,*,26,43,60.47,238,1,1,73.6,4,28,5.53,4.95,9,39,4.33,0,0,0,0,0,0,0,0,0,73,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+60,58,2021,2021-11-21,10,11,,BAL,@,CHI,W 16-13,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Lamar Jackson,JackLa00
+61,59,2021,2021-11-28,11,12,24.325,BAL,,CLE,W 16-10,*,20,32,62.50,165,1,4,46.5,2,10,5.16,0.16,17,68,4.00,0,0,0,0,0,0,0,0,0,81,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+62,60,2021,2021-12-05,12,13,24.332,BAL,@,PIT,L 19-20,*,23,37,62.16,253,1,1,80.1,7,34,6.84,6.16,8,55,6.88,0,0,0,1,0,0,0,0,0,74,100%,0,0%,0,0%,,Lamar Jackson,JackLa00
+63,61,2021,2021-12-12,13,14,24.339,BAL,@,CLE,L 22-24,*,4,4,100.00,17,0,0,84.4,1,0,4.25,4.25,2,5,2.50,0,0,0,0,0,0,0,0,0,10,14%,0,0%,0,0%,,Lamar Jackson,JackLa00
+64,62,2021,2021-12-19,14,15,,BAL,,GNB,L 30-31,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Lamar Jackson,JackLa00
+65,63,2021,2021-12-26,15,16,,BAL,@,CIN,L 21-41,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Lamar Jackson,JackLa00
+66,64,2021,2022-01-02,16,17,,BAL,,LAR,L 19-20,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Lamar Jackson,JackLa00
+67,65,2021,2022-01-09,17,18,,BAL,,PIT,L 13-16,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Lamar Jackson,JackLa00
+68,,,58 Games,,,,,,,41-17-0,,852,1329,64.11,9967,84,31,98.1,106,527,7.50,7.71,615,3673,5.97,21,21,126,37,13,0,15,-24,0,,,,,,,,Lamar Jackson,JackLa00

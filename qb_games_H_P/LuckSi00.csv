@@ -1,0 +1,61 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Unnamed: 8_level_0,Unnamed: 9_level_0,Unnamed: 10_level_0,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Scoring,Scoring,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,qb,qb_tag
+,Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds.1,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Int,Yds,TD,PD,,
+0,1,1940,1940-09-22,1,3,23.306,CHI,@,GNB,W 41-10,,,,,,,,,,,,,,,,,0,0,1,15,0,,Sid Luckman,LuckSi00
+1,2,1940,1940-10-20,5,7,23.334,CHI,,BKN,W 16-7,,,,,,,,,,,,,,,,,0,0,1,0,0,,Sid Luckman,LuckSi00
+2,3,1940,1940-10-27,6,8,23.341,CHI,@,NYG,W 37-21,,,,,,,,,,,,,,,,,0,0,1,2,0,,Sid Luckman,LuckSi00
+3,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Int,Yds,TD,PD,Sid Luckman,LuckSi00
+4,4,1941,1941-11-09,7,10,24.353,CHI,,RAM,W 31-13,,,,,,,,,,,,,,,,,0,0,1,3,0,,Sid Luckman,LuckSi00
+5,5,1941,1941-11-23,9,12,25.002,CHI,@,DET,W 24-7,,,,,,,,,,,,,,,,,0,0,1,12,0,,Sid Luckman,LuckSi00
+6,6,1941,1941-12-07,11,14,25.016,CHI,@,CRD,W 34-24,,,,,,,,,,,,,,,,,0,0,1,37,0,,Sid Luckman,LuckSi00
+7,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Int,Yds,TD,PD,Sid Luckman,LuckSi00
+8,7,1942,1942-10-25,5,7,25.338,CHI,,PHI,W 45-14,,,,,,,,,,,,,,,,,0,0,2,24,0,,Sid Luckman,LuckSi00
+9,8,1942,1942-11-15,8,10,25.359,CHI,,GNB,W 38-7,,,,,,,,,,,,,,,,,1,6,1,54,1,,Sid Luckman,LuckSi00
+10,9,1942,1942-11-22,9,11,26.001,CHI,@,DET,W 42-0,,,,,,,,,,,,,,,,,0,0,1,18,0,,Sid Luckman,LuckSi00
+11,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Int,Yds,TD,PD,Sid Luckman,LuckSi00
+12,10,1943,1943-09-26,1,2,26.309,CHI,@,GNB,T 21-21,,,,,,,,,,,,,,,,,0,0,1,20,0,,Sid Luckman,LuckSi00
+13,11,1943,1943-10-17,4,5,26.330,CHI,,PHI,W 48-21,,,,,,,,,,,,,,,,,0,0,1,19,0,,Sid Luckman,LuckSi00
+14,12,1943,1943-11-14,8,8,26.358,CHI,@,NYG,W 56-7,,21,32,65.63,433,7,1,135.4,,,13.53,16.50,0,0,,0,0,0,,,,,Sid Luckman,LuckSi00
+15,13,1943,1943-11-28,10,10,27.007,CHI,@,CRD,W 35-24,,,,,,,,,,,,,,,,,0,0,2,46,0,,Sid Luckman,LuckSi00
+16,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Int,Yds,TD,PD,Sid Luckman,LuckSi00
+17,14,1944,1944-11-05,6,8,27.350,CHI,,GNB,W 21-0,,,,,,,,,,,,,,,,,0,0,1,35,0,,Sid Luckman,LuckSi00
+18,15,1944,1944-11-19,8,10,27.364,CHI,@,DET,L 21-41,,,,,,,,,,,,,,,,,0,0,1,1,0,,Sid Luckman,LuckSi00
+19,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Int,Yds,TD,PD,Sid Luckman,LuckSi00
+20,16,1945,1945-11-11,7,7,28.355,CHI,,DET,L 28-35,,15,30,50.00,279,4,0,122.1,,,9.30,11.97,0,0,,0,0,0,,,,,Sid Luckman,LuckSi00
+21,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Int,Yds,TD,PD,Sid Luckman,LuckSi00
+22,17,1946,1946-11-10,7,8,29.354,CHI,@,RAM,W 27-21,,,,,,,,,,,,,,,,,0,0,1,24,0,,Sid Luckman,LuckSi00
+23,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Int,Yds,TD,PD,Sid Luckman,LuckSi00
+24,18,1947,1947-10-12,3,3,30.325,CHI,,PHI,W 40-7,,14,25,56.00,314,3,0,140.4,,,12.56,14.96,0,0,,0,0,0,,,,,Sid Luckman,LuckSi00
+25,19,1947,1947-10-19,4,4,30.332,CHI,,DET,W 33-24,,18,26,69.23,342,3,1,134.3,,,13.15,13.73,0,0,,0,0,0,,,,,Sid Luckman,LuckSi00
+26,20,1947,1947-11-02,6,6,30.346,CHI,@,BOS,W 28-24,,23,46,50.00,278,4,3,70.7,,,6.04,4.85,0,0,,0,0,0,,,,,Sid Luckman,LuckSi00
+27,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Int,Yds,TD,PD,Sid Luckman,LuckSi00
+28,21,1948,1948-09-26,1,2,31.310,CHI,@,GNB,W 45-7,,5,7,71.43,23,1,1,75.3,,,3.29,-0.29,1,18,18.00,0,0,0,,,,,Sid Luckman,LuckSi00
+29,22,1948,1948-10-04,2,3,31.318,CHI,@,CRD,W 28-17,,6,12,50.00,124,1,1,79.9,,,10.33,8.25,,,,,0,0,,,,,Sid Luckman,LuckSi00
+30,23,1948,1948-10-10,3,4,31.324,CHI,,RAM,W 42-21,,13,15,86.67,108,2,0,136.2,,,7.20,9.87,,,,,0,0,,,,,Sid Luckman,LuckSi00
+31,24,1948,1948-10-17,4,5,31.331,CHI,,DET,W 28-0,,4,6,66.67,83,1,1,109.7,,,13.83,9.67,1,1,1.00,0,0,0,,,,,Sid Luckman,LuckSi00
+32,25,1948,1948-10-24,5,6,31.338,CHI,@,PHI,L 7-12,,5,15,33.33,33,0,2,2.8,,,2.20,-3.80,,,,,0,0,,,,,Sid Luckman,LuckSi00
+33,26,1948,1948-10-31,6,7,31.345,CHI,,NYG,W 35-14,,7,14,50.00,135,1,2,68.2,,,9.64,4.64,,,,,0,0,,,,,Sid Luckman,LuckSi00
+34,27,1948,1948-11-07,7,8,31.352,CHI,@,RAM,W 21-6,,5,11,45.45,47,0,0,57.8,,,4.27,4.27,3,-11,-3.67,0,0,0,,,,,Sid Luckman,LuckSi00
+35,28,1948,1948-11-14,8,9,31.359,CHI,,GNB,W 7-6,,5,11,45.45,40,0,2,15.5,,,3.64,-4.55,,,,,0,0,,,,,Sid Luckman,LuckSi00
+36,29,1948,1948-11-21,9,10,32.000,CHI,@,BOS,W 51-17,,10,22,45.45,74,2,1,65.3,,,3.36,3.14,,,,,0,0,,,,,Sid Luckman,LuckSi00
+37,30,1948,1948-11-28,10,11,32.007,CHI,,WAS,W 48-13,,7,18,38.89,132,2,1,78.9,,,7.33,7.06,,,,,0,0,,,,,Sid Luckman,LuckSi00
+38,31,1948,1948-12-05,11,12,32.014,CHI,@,DET,W 42-14,,18,26,69.23,185,3,1,111.9,,,7.12,7.69,1,3,3.00,0,0,0,,,,,Sid Luckman,LuckSi00
+39,32,1948,1948-12-12,12,13,32.021,CHI,,CRD,L 21-24,,4,6,66.67,63,0,2,61.8,,,10.50,-4.50,,,,,0,0,,,,,Sid Luckman,LuckSi00
+40,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Int,Yds,TD,PD,Sid Luckman,LuckSi00
+41,33,1949,1949-09-25,1,1,32.308,CHI,@,GNB,W 17-0,,4,8,50.00,23,0,0,56.2,,,2.88,2.88,,,,,0,0,,,,,Sid Luckman,LuckSi00
+42,34,1949,1949-10-02,2,2,32.315,CHI,@,CRD,W 17-7,,2,5,40.00,41,0,0,69.6,,,8.20,8.20,1,-10,-10.00,0,0,0,,,,,Sid Luckman,LuckSi00
+43,35,1949,1949-10-09,3,3,32.322,CHI,,RAM,L 16-31,,2,8,25.00,12,0,1,0.0,,,1.50,-4.13,,,,,0,0,,,,,Sid Luckman,LuckSi00
+44,36,1949,1949-10-23,5,5,32.336,CHI,@,NYG,L 28-35,,5,7,71.43,39,0,0,84.8,,,5.57,5.57,,,,,0,0,,,,,Sid Luckman,LuckSi00
+45,37,1949,1949-11-06,7,7,32.350,CHI,,GNB,W 24-3,,1,5,20.00,8,0,0,39.6,,,1.60,1.60,1,14,14.00,0,0,0,,,,,Sid Luckman,LuckSi00
+46,38,1949,1949-11-13,8,8,32.357,CHI,,DET,W 27-24,,5,8,62.50,44,0,1,37.5,,,5.50,-0.13,1,0,0.00,0,0,0,,,,,Sid Luckman,LuckSi00
+47,39,1949,1949-11-20,9,9,32.364,CHI,@,WAS,W 31-21,,3,7,42.86,33,1,0,97.0,,,4.71,7.57,,,,,0,0,,,,,Sid Luckman,LuckSi00
+48,40,1949,1949-11-24,10,10,33.003,CHI,@,DET,W 28-7,,0,1,0.00,0,0,1,0.0,,,0.00,-45.00,,,,,0,0,,,,,Sid Luckman,LuckSi00
+49,41,1949,1949-12-11,12,12,33.020,CHI,,CRD,W 52-21,,0,1,0.00,0,0,0,39.6,,,0.00,0.00,,,,,0,0,,,,,Sid Luckman,LuckSi00
+50,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,TD,Pts,Int,Yds,TD,PD,Sid Luckman,LuckSi00
+51,42,1950,1950-09-17,1,1,33.300,CHI,@,RAM,W 24-20,,3,3,100.00,63,1,0,158.3,,9,21.00,27.67,1,1,1.00,0,0,0,,,,,Sid Luckman,LuckSi00
+52,43,1950,1950-09-24,2,2,33.307,CHI,@,SFO,W 32-20,,1,5,20.00,20,0,0,43.7,,10,4.00,4.00,,,,,0,0,,,,,Sid Luckman,LuckSi00
+53,44,1950,1950-10-01,3,3,33.314,CHI,@,GNB,L 21-31,,2,6,33.33,26,0,0,47.9,,,4.33,4.33,1,0,0.00,0,0,0,,,,,Sid Luckman,LuckSi00
+54,45,1950,1950-10-29,6,7,33.342,CHI,@,NYY,L 27-38,,2,5,40.00,33,0,1,23.3,,,6.60,-2.40,,,,,0,0,,,,,Sid Luckman,LuckSi00
+55,46,1950,1950-11-05,7,8,33.349,CHI,@,DET,W 35-21,,1,3,33.33,0,0,0,42.4,,,0.00,0.00,,,,,0,0,,,,,Sid Luckman,LuckSi00
+56,47,1950,1950-11-19,9,10,33.363,CHI,,SFO,W 17-0,,0,2,0.00,0,0,0,39.6,,,0.00,0.00,,,,,0,0,,,,,Sid Luckman,LuckSi00
+57,48,1950,1950-12-10,12,13,34.019,CHI,,DET,W 6-3,,4,13,30.77,38,0,1,8.2,,4,2.92,-0.54,,,,,0,0,,,,,Sid Luckman,LuckSi00
+58,,,48 Games,,,,,,,39-8-1,,215,409,52.57,3073,36,24,82.1,,23,7.51,6.63,11,16,1.45,0,1,6,17,310,1,,Sid Luckman,LuckSi00

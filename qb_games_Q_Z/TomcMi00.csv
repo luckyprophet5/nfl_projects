@@ -1,0 +1,234 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Unnamed: 8_level_0,Unnamed: 9_level_0,Unnamed: 10_level_0,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Receiving,Receiving,Scoring,Scoring,Fumbles,Fumbles,Fumbles,Fumbles,Fumbles,Fumbles,Unnamed: 41_level_0,qb,qb_tag
+,Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds.1,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,,
+0,1,1985,1985-09-29,4,4,22.341,CHI,,WAS,W 45-10,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Mike Tomczak,TomcMi00
+1,2,1985,1985-10-21,7,7,22.363,CHI,,GNB,W 23-7,,0,0,,0,0,0,,0,,,,1,0,0.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+2,3,1985,1985-11-10,10,10,23.018,CHI,,DET,W 24-3,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Mike Tomczak,TomcMi00
+3,4,1985,1985-11-17,11,11,23.025,CHI,@,DAL,W 44-0,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Mike Tomczak,TomcMi00
+4,5,1985,1985-11-24,12,12,23.032,CHI,,ATL,W 36-0,,2,4,50.00,33,0,0,78.1,0,0,8.25,8.25,1,3,3.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+5,6,1985,1985-12-22,16,16,23.060,CHI,@,DET,W 37-17,,0,2,0.00,0,0,0,39.6,0,0,0.00,0.00,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+6,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+7,7,1986,1986-09-07,1,1,23.319,CHI,,CLE,W 41-31,,3,6,50.00,48,0,0,77.1,0,0,8.00,8.00,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+8,8,1986,1986-09-14,2,2,23.326,CHI,,PHI,W 13-10,*,10,20,50.00,116,0,2,28.3,2,16,5.80,1.30,2,14,7.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+9,9,1986,1986-09-22,3,3,23.334,CHI,@,GNB,W 25-12,*,9,13,69.23,74,0,0,83.5,0,0,5.69,5.69,2,5,2.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+10,10,1986,1986-09-28,4,4,23.340,CHI,@,CIN,W 44-7,,0,1,0.00,0,0,0,39.6,0,0,0.00,0.00,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+11,11,1986,1986-10-19,7,7,23.361,CHI,@,MIN,L 7-23,,0,2,0.00,0,0,1,0.0,0,0,0.00,-22.50,1,9,9.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+12,12,1986,1986-11-03,9,9,24.011,CHI,,RAM,L 17-20,,2,8,25.00,28,0,0,41.7,1,7,3.50,3.50,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+13,13,1986,1986-11-09,10,10,24.017,CHI,@,TAM,W 23-3,*,11,24,45.83,265,1,1,82.8,1,7,11.04,10.00,1,1,1.00,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+14,14,1986,1986-11-16,11,11,24.024,CHI,@,ATL,W 13-10,*,9,22,40.91,203,0,2,36.7,0,0,9.23,5.14,6,36,6.00,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+15,15,1986,1986-11-23,12,12,24.031,CHI,,GNB,W 12-10,,3,6,50.00,7,0,0,56.2,0,0,1.17,1.17,2,-1,-0.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+16,16,1986,1986-11-30,13,13,24.038,CHI,,PIT,W 13-10,*,19,30,63.33,235,0,2,59.7,0,0,7.83,4.83,4,26,6.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+17,17,1986,1986-12-07,14,14,24.045,CHI,,TAM,W 48-14,*,7,11,63.64,108,1,1,88.4,0,0,9.82,7.55,5,27,5.40,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+18,18,1986,1986-12-15,15,15,24.053,CHI,@,DET,W 16-13,*,0,2,0.00,0,0,0,39.6,0,0,0.00,0.00,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+19,19,1986,1986-12-21,16,16,24.059,CHI,@,DAL,W 24-10,,1,6,16.67,21,0,1,2.1,0,0,3.50,-4.00,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+20,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+21,20,1987,1987-09-14,1,1,24.326,CHI,,NYG,W 34-19,*,20,34,58.82,292,2,2,82.0,0,0,8.59,7.12,3,5,1.67,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+22,21,1987,1987-09-20,2,2,24.332,CHI,,TAM,W 20-3,*,15,27,55.56,150,1,2,53.0,1,17,5.56,2.96,1,10,10.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+23,22,1987,1987-10-25,6,7,25.002,CHI,@,TAM,W 27-26,*,6,10,60.00,45,0,0,70.8,1,9,4.50,4.50,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+24,23,1987,1987-11-01,7,8,25.009,CHI,,KAN,W 31-28,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Mike Tomczak,TomcMi00
+25,24,1987,1987-11-08,8,9,25.016,CHI,@,GNB,W 26-24,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Mike Tomczak,TomcMi00
+26,25,1987,1987-11-16,9,10,25.024,CHI,@,DEN,L 29-31,,2,2,100.00,9,0,0,85.4,0,0,4.50,4.50,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+27,26,1987,1987-11-22,10,11,25.030,CHI,,DET,W 30-10,,4,5,80.00,62,0,0,118.3,0,0,12.40,12.40,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+28,27,1987,1987-11-29,11,12,25.037,CHI,,GNB,W 23-10,,0,0,,0,0,0,,0,,,,1,-1,-1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+29,28,1987,1987-12-06,12,13,25.044,CHI,@,MIN,W 30-24,,6,12,50.00,96,1,0,104.9,2,11,8.00,9.67,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+30,29,1987,1987-12-14,13,14,25.052,CHI,@,SFO,L 0-41,*,11,25,44.00,122,0,4,19.5,0,0,4.88,-2.32,2,10,5.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+31,30,1987,1987-12-20,14,15,25.058,CHI,,SEA,L 21-34,*,21,36,58.33,298,1,2,71.3,4,22,8.28,6.33,7,26,3.71,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+32,31,1987,1987-12-27,15,16,25.065,CHI,@,RAI,W 6-3,*,12,27,44.44,146,0,0,61.7,1,0,5.41,5.41,4,4,1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+33,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+34,32,1988,1988-09-04,1,1,25.317,CHI,,MIA,W 34-7,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Mike Tomczak,TomcMi00
+35,33,1988,1988-09-11,2,2,25.324,CHI,@,IND,W 17-13,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Mike Tomczak,TomcMi00
+36,34,1988,1988-09-18,3,3,25.331,CHI,,MIN,L 7-31,,3,12,25.00,28,0,2,0.0,0,0,2.33,-5.17,1,2,2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+37,35,1988,1988-09-25,4,4,25.338,CHI,@,GNB,W 24-6,,0,1,0.00,0,0,0,39.6,0,0,0.00,0.00,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+38,36,1988,1988-10-02,5,5,25.345,CHI,,BUF,W 24-3,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Mike Tomczak,TomcMi00
+39,37,1988,1988-10-09,6,6,25.352,CHI,@,DET,W 24-7,,12,22,54.55,158,1,0,92.6,1,11,7.18,8.09,1,0,0.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+40,38,1988,1988-10-16,7,7,25.359,CHI,,DAL,W 17-7,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Mike Tomczak,TomcMi00
+41,39,1988,1988-10-24,8,8,26.001,CHI,,SFO,W 10-9,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Mike Tomczak,TomcMi00
+42,40,1988,1988-10-30,9,9,26.007,CHI,@,NWE,L 7-30,,5,13,38.46,70,0,0,56.6,0,0,5.38,5.38,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+43,41,1988,1988-11-06,10,10,26.014,CHI,,TAM,W 28-10,*,18,26,69.23,269,2,1,112.5,0,0,10.35,10.15,3,28,9.33,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+44,42,1988,1988-11-13,11,11,26.021,CHI,@,WAS,W 34-14,*,15,26,57.69,229,1,0,99.7,1,12,8.81,9.58,3,5,1.67,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+45,43,1988,1988-11-20,12,12,26.028,CHI,@,TAM,W 27-15,*,9,21,42.86,179,1,2,49.6,0,0,8.52,5.19,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+46,44,1988,1988-11-27,13,13,26.035,CHI,,GNB,W 16-0,*,8,17,47.06,92,0,0,63.8,2,19,5.41,5.41,3,5,1.67,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+47,45,1988,1988-12-19,16,16,26.057,CHI,@,MIN,L 27-28,*,16,32,50.00,285,2,1,88.7,1,5,8.91,8.75,2,0,0.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+48,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+49,46,1989,1989-09-10,1,1,26.322,CHI,,CIN,W 17-14,*,10,24,41.67,159,1,2,43.6,1,6,6.63,3.71,5,14,2.80,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+50,47,1989,1989-09-17,2,2,26.329,CHI,,MIN,W 38-7,*,10,26,38.46,142,1,1,53.7,0,0,5.46,4.50,2,1,0.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+51,48,1989,1989-09-24,3,3,26.336,CHI,@,DET,W 47-27,*,17,25,68.00,302,2,0,135.7,0,0,12.08,13.68,2,19,9.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+52,49,1989,1989-10-02,4,4,26.344,CHI,,PHI,W 27-13,*,24,38,63.16,266,3,1,99.2,1,5,7.00,7.39,1,2,2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+53,50,1989,1989-10-08,5,5,26.350,CHI,@,TAM,L 35-42,*,16,29,55.17,162,1,1,68.5,1,8,5.59,4.72,2,4,2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+54,51,1989,1989-10-15,6,6,26.357,CHI,,HOU,L 28-33,*,20,29,68.97,247,3,4,89.9,1,8,8.52,4.38,3,1,0.33,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+55,52,1989,1989-10-23,7,7,27.000,CHI,@,CLE,L 7-27,*,4,14,28.57,76,0,1,19.9,2,8,5.43,2.21,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+56,53,1989,1989-10-29,8,8,27.006,CHI,,RAM,W 20-10,*,4,16,25.00,29,0,0,39.6,1,7,1.81,1.81,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+57,54,1989,1989-11-05,9,9,27.013,CHI,@,GNB,L 13-14,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Mike Tomczak,TomcMi00
+58,55,1989,1989-11-12,10,10,27.020,CHI,@,PIT,W 20-0,,1,3,33.33,10,0,0,43.7,0,0,3.33,3.33,2,-3,-1.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+59,56,1989,1989-11-19,11,11,27.027,CHI,,TAM,L 31-32,,6,7,85.71,156,3,0,158.3,0,0,22.29,30.86,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+60,57,1989,1989-11-26,12,12,27.034,CHI,@,WAS,L 14-38,*,13,24,54.17,137,1,2,50.2,1,5,5.71,2.79,2,10,5.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+61,58,1989,1989-12-03,13,13,27.041,CHI,@,MIN,L 16-27,*,13,33,39.39,180,1,2,42.5,0,0,5.45,3.33,3,2,0.67,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+62,59,1989,1989-12-10,14,14,27.048,CHI,,DET,L 17-27,*,4,8,50.00,45,0,0,67.2,1,11,5.63,5.63,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+63,60,1989,1989-12-17,15,15,27.055,CHI,,GNB,L 28-40,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Mike Tomczak,TomcMi00
+64,61,1989,1989-12-24,16,16,27.062,CHI,@,SFO,L 0-26,,14,30,46.67,147,0,2,33.6,1,10,4.90,1.90,2,21,10.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+65,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+66,62,1990,1990-09-09,1,1,27.321,CHI,,SEA,W 17-0,,0,0,,0,0,0,,0,,,,1,-2,-2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+67,63,1990,1990-09-16,2,2,27.328,CHI,@,GNB,W 31-13,,0,2,0.00,0,0,0,39.6,0,0,0.00,0.00,1,2,2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+68,64,1990,1990-09-23,3,3,27.335,CHI,,MIN,W 19-16,,0,0,,0,0,0,,0,,,,0,0,,0,,0,0,,0,,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+69,65,1990,1990-09-30,4,4,27.342,CHI,@,RAI,L 10-24,,1,2,50.00,23,0,0,91.7,2,15,11.50,11.50,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+70,66,1990,1990-10-07,5,5,27.349,CHI,,GNB,W 27-13,,9,20,45.00,92,1,1,54.6,2,13,4.60,3.35,3,15,5.00,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+71,67,1990,1990-10-14,6,6,27.356,CHI,,RAM,W 38-9,,0,1,0.00,0,0,0,39.6,0,0,0.00,0.00,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+72,68,1990,1990-10-28,7,8,28.005,CHI,@,PHO,W 31-21,,0,0,,0,0,0,,0,,,,0,0,,0,,0,0,,0,,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+73,69,1990,1990-11-04,8,9,28.012,CHI,@,TAM,W 26-6,,1,3,33.33,13,0,0,47.9,2,13,4.33,4.33,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+74,70,1990,1990-11-11,9,10,28.019,CHI,,ATL,W 30-24,,0,5,0.00,0,0,1,0.0,0,0,0.00,-9.00,2,12,6.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+75,71,1990,1990-11-18,10,11,28.026,CHI,@,DEN,W 16-13,,0,1,0.00,0,0,0,39.6,0,0,0.00,0.00,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+76,72,1990,1990-11-25,11,12,28.033,CHI,@,MIN,L 13-41,,3,5,60.00,43,0,0,87.9,0,0,8.60,8.60,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+77,73,1990,1990-12-02,12,13,28.040,CHI,,DET,W 23-17,,0,0,,0,0,0,,0,,,,0,0,,0,,0,0,,0,,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+78,74,1990,1990-12-09,13,14,28.047,CHI,@,WAS,L 9-10,,0,0,,0,0,0,,0,,,,0,0,,0,,0,0,,0,,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+79,75,1990,1990-12-16,14,15,28.054,CHI,@,DET,L 21-38,,4,9,44.44,26,0,1,12.0,1,7,2.89,-2.11,0,0,,0,,0,0,,0,,,0,0,1,,0,0,0,0,,Mike Tomczak,TomcMi00
+80,76,1990,1990-12-23,15,16,28.061,CHI,,TAM,W 27-14,*,16,33,48.48,239,2,2,67.6,2,12,7.24,5.73,2,3,1.50,1,,1,5,5.00,0,,,1,6,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+81,77,1990,1990-12-29,16,17,28.067,CHI,,KAN,L 10-21,*,5,23,21.74,85,0,0,42.5,2,10,3.70,3.70,3,11,3.67,0,,0,0,,0,,,0,0,1,,0,0,-2,0,,Mike Tomczak,TomcMi00
+82,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+83,78,1991,1991-09-01,1,1,,GNB,,PHI,L 3-20,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Mike Tomczak,TomcMi00
+84,79,1991,1991-09-08,2,2,28.320,GNB,@,DET,L 14-23,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+85,80,1991,1991-09-15,3,3,,GNB,,TAM,W 15-13,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Mike Tomczak,TomcMi00
+86,81,1991,1991-09-22,4,4,28.334,GNB,@,MIA,L 13-16,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+87,82,1991,1991-09-29,5,5,,GNB,@,RAM,L 21-23,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Mike Tomczak,TomcMi00
+88,83,1991,1991-10-06,6,6,,GNB,,DAL,L 17-20,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+89,84,1991,1991-10-17,7,8,28.359,GNB,,CHI,L 0-10,,4,9,44.44,36,0,1,16.2,1,9,4.00,-1.00,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+90,85,1991,1991-10-27,8,9,29.004,GNB,@,TAM,W 27-0,,0,0,,0,0,0,,0,,,,1,-1,-1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+91,86,1991,1991-11-03,9,10,29.011,GNB,@,NYJ,L 16-19,,8,11,72.73,73,1,1,82.8,1,11,6.64,4.36,1,-1,-1.00,0,,0,0,,0,,,0,0,1,,0,0,0,0,,Mike Tomczak,TomcMi00
+92,87,1991,1991-11-10,10,11,29.018,GNB,,BUF,L 24-34,*,23,38,60.53,317,2,2,82.9,3,20,8.34,7.03,1,3,3.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+93,88,1991,1991-11-17,11,12,29.025,GNB,,MIN,L 21-35,*,20,40,50.00,271,2,2,67.8,0,0,6.78,5.53,1,0,0.00,0,,0,0,,0,,,0,0,1,,0,1,0,0,,Mike Tomczak,TomcMi00
+94,89,1991,1991-11-24,12,13,29.032,GNB,,IND,W 14-10,*,5,17,29.41,50,0,1,15.1,2,22,2.94,0.29,4,48,12.00,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+95,90,1991,1991-12-01,13,14,29.039,GNB,@,ATL,L 31-35,*,22,35,62.86,276,3,0,115.9,2,15,7.89,9.60,4,12,3.00,0,,0,0,,0,,,0,0,1,,0,0,0,0,,Mike Tomczak,TomcMi00
+96,91,1991,1991-12-08,14,15,29.046,GNB,@,CHI,L 13-27,*,22,39,56.41,215,1,1,69.9,3,16,5.51,4.87,2,6,3.00,0,,0,0,,0,,,0,0,2,,0,1,-1,0,,Mike Tomczak,TomcMi00
+97,92,1991,1991-12-15,15,16,29.053,GNB,,DET,L 17-21,*,18,40,45.00,207,1,1,59.1,0,0,5.18,4.55,3,26,8.67,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+98,93,1991,1991-12-21,16,17,29.059,GNB,@,MIN,W 27-7,*,6,9,66.67,45,1,0,115.5,1,12,5.00,7.22,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+99,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+100,94,1992,1992-09-20,3,3,,CLE,@,RAI,W 28-16,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Mike Tomczak,TomcMi00
+101,95,1992,1992-09-27,4,4,29.340,CLE,,DEN,L 0-12,*,9,19,47.37,75,0,2,18.4,0,0,3.95,-0.79,2,17,8.50,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+102,96,1992,1992-10-11,5,6,29.354,CLE,,PIT,W 17-9,*,10,17,58.82,171,1,0,112.6,1,3,10.06,11.24,5,-3,-0.60,0,,0,0,,0,0.0%,,0,0,1,,0,0,0,0,,Mike Tomczak,TomcMi00
+103,97,1992,1992-10-18,6,7,29.361,CLE,,GNB,W 17-6,*,13,21,61.90,158,0,0,85.0,0,0,7.52,7.52,1,1,1.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+104,98,1992,1992-10-25,7,8,30.002,CLE,@,NWE,W 19-17,*,14,29,48.28,186,1,0,80.5,2,21,6.41,7.10,2,2,1.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+105,99,1992,1992-11-01,8,9,30.009,CLE,@,CIN,L 10-30,*,16,28,57.14,252,1,0,99.1,3,14,9.00,9.71,3,1,0.33,0,,0,0,,0,0.0%,,0,0,3,,0,0,-7,0,,Mike Tomczak,TomcMi00
+106,100,1992,1992-11-08,9,10,30.016,CLE,@,HOU,W 24-14,*,17,26,65.38,219,2,0,117.3,2,14,8.42,9.96,3,-6,-2.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+107,101,1992,1992-11-15,10,11,30.023,CLE,,SDG,L 13-14,*,18,32,56.25,322,1,2,75.3,3,24,10.06,7.88,3,11,3.67,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+108,102,1992,1992-11-22,11,12,30.030,CLE,@,MIN,L 13-17,*,15,24,62.50,169,0,2,48.8,0,0,7.04,3.29,4,12,3.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+109,103,1992,1992-11-29,12,13,30.037,CLE,,CHI,W 27-14,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+110,104,1992,1992-12-06,13,14,30.044,CLE,,CIN,W 37-21,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+111,105,1992,1992-12-13,14,15,30.051,CLE,@,DET,L 14-24,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+112,106,1992,1992-12-20,15,16,,CLE,,HOU,L 14-17,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+113,107,1992,1992-12-27,16,17,30.065,CLE,@,PIT,L 13-23,,8,15,53.33,141,1,1,80.1,1,9,9.40,7.73,1,4,4.00,0,,0,0,,0,0.0%,,0,0,1,,0,0,0,0,,Mike Tomczak,TomcMi00
+114,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+115,108,1993,1993-09-05,1,1,30.317,PIT,,SFO,L 13-24,*,4,11,36.36,46,0,2,10.2,3,11,4.18,-4.00,2,-3,-1.50,0,,0,0,,0,0.0%,,0,0,2,,0,1,0,0,,Mike Tomczak,TomcMi00
+116,109,1993,1993-09-12,2,2,,PIT,@,RAM,L 0-27,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+117,110,1993,1993-09-19,3,3,30.331,PIT,,CIN,W 34-7,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+118,111,1993,1993-09-27,4,4,,PIT,@,ATL,W 45-17,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+119,112,1993,1993-10-10,5,6,,PIT,,SDG,W 16-3,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+120,113,1993,1993-10-17,6,7,30.359,PIT,,NOR,W 37-14,,3,4,75.00,66,1,0,156.2,0,0,16.50,21.50,1,-1,-1.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+121,114,1993,1993-10-24,7,8,,PIT,@,CLE,L 23-28,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+122,115,1993,1993-11-07,8,10,,PIT,@,CIN,W 24-16,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+123,116,1993,1993-11-15,9,11,31.023,PIT,,BUF,W 23-0,,0,0,,0,0,0,,0,,,,1,-2,-2.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+124,117,1993,1993-11-21,10,12,31.029,PIT,@,DEN,L 13-37,,5,6,83.33,81,1,0,158.3,0,0,13.50,16.83,0,0,,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+125,118,1993,1993-11-28,11,13,31.036,PIT,@,HOU,L 3-23,,8,13,61.54,61,0,2,33.3,2,10,4.69,-2.23,0,0,,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+126,119,1993,1993-12-05,12,14,,PIT,,NWE,W 17-14,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+127,120,1993,1993-12-13,13,15,,PIT,@,MIA,W 21-20,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+128,121,1993,1993-12-19,14,16,31.057,PIT,,HOU,L 17-26,,9,20,45.00,144,0,1,48.7,2,22,7.20,4.95,1,2,2.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+129,122,1993,1993-12-26,15,17,,PIT,@,SEA,L 6-16,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+130,123,1993,1994-01-02,16,18,,PIT,,CLE,W 16-9,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+131,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+132,124,1994,1994-09-04,1,1,,PIT,,DAL,L 9-26,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+133,125,1994,1994-09-11,2,2,,PIT,@,CLE,W 17-10,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+134,126,1994,1994-09-18,3,3,,PIT,,IND,W 31-21,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+135,127,1994,1994-09-25,4,4,31.337,PIT,@,SEA,L 13-30,,3,3,100.00,39,0,0,118.7,0,0,13.00,13.00,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+136,128,1994,1994-10-03,5,5,31.345,PIT,,HOU,W 30-14,,1,1,100.00,13,0,0,118.7,0,0,13.00,13.00,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+137,129,1994,1994-10-16,6,7,,PIT,,CIN,W 14-10,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+138,130,1994,1994-10-23,7,8,,PIT,@,NYG,W 10-6,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+139,131,1994,1994-10-30,8,9,,PIT,@,ARI,L 17-20,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+140,132,1994,1994-11-06,9,10,32.014,PIT,@,HOU,W 12-9,,2,4,50.00,30,0,0,75.0,1,10,7.50,7.50,1,6,6.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+141,133,1994,1994-11-14,10,11,,PIT,,BUF,W 23-10,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+142,134,1994,1994-11-20,11,12,32.028,PIT,,MIA,W 16-13,*,26,42,61.90,343,0,0,87.7,1,8,8.17,8.17,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+143,135,1994,1994-11-27,12,13,32.035,PIT,@,RAI,W 21-3,*,12,27,44.44,131,2,0,84.0,0,0,4.85,6.33,2,3,1.50,0,0,0,0,,0,0.0%,,0,0,1,0,0,0,-1,0,,Mike Tomczak,TomcMi00
+144,136,1994,1994-12-04,13,14,,PIT,@,CIN,W 38-15,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+145,137,1994,1994-12-11,14,15,,PIT,,PHI,W 14-3,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+146,138,1994,1994-12-18,15,16,,PIT,,CLE,W 17-7,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+147,139,1994,1994-12-24,16,17,32.062,PIT,@,SDG,L 34-37,,10,16,62.50,248,2,0,145.8,2,15,15.50,18.00,1,13,13.00,0,0,0,0,,0,0.0%,,0,0,1,0,0,0,0,0,,Mike Tomczak,TomcMi00
+148,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+149,140,1995,1995-09-03,1,1,32.315,PIT,,DET,W 23-20,,15,24,62.50,149,0,3,40.5,1,8,6.21,0.58,1,8,8.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+150,141,1995,1995-09-10,2,2,32.322,PIT,@,HOU,W 34-17,*,13,22,59.09,123,1,0,89.8,0,0,5.59,6.50,2,7,3.50,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+151,142,1995,1995-09-18,3,3,32.330,PIT,@,MIA,L 10-23,*,11,24,45.83,104,0,2,23.6,3,25,4.33,0.58,2,13,6.50,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,0,0,,Mike Tomczak,TomcMi00
+152,143,1995,1995-09-24,4,4,32.336,PIT,,MIN,L 24-44,*,14,22,63.64,143,0,3,42.6,1,3,6.50,0.36,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+153,144,1995,1995-10-01,5,5,32.343,PIT,,SDG,W 31-16,*,12,21,57.14,147,0,1,59.0,1,6,7.00,4.86,3,-4,-1.33,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+154,145,1995,1995-10-08,6,6,,PIT,@,JAX,L 16-20,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+155,146,1995,1995-10-19,7,8,,PIT,,CIN,L 9-27,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+156,147,1995,1995-10-29,8,9,,PIT,,JAX,W 24-7,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+157,148,1995,1995-11-05,9,10,,PIT,@,CHI,W 37-34,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+158,149,1995,1995-11-13,10,11,,PIT,,CLE,W 20-3,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+159,150,1995,1995-11-19,11,12,33.027,PIT,@,CIN,W 49-31,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+160,151,1995,1995-11-26,12,13,,PIT,@,CLE,W 20-17,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+161,152,1995,1995-12-03,13,14,,PIT,,HOU,W 21-7,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+162,153,1995,1995-12-10,14,15,33.048,PIT,@,OAK,W 29-10,,0,0,,0,0,0,,0,,,,3,1,0.33,0,0,0,0,,0,0.0%,,0,0,1,0,0,1,0,0,,Mike Tomczak,TomcMi00
+163,154,1995,1995-12-16,15,16,,PIT,,NWE,W 41-27,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+164,155,1995,1995-12-24,16,17,,PIT,@,GNB,L 19-24,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Mike Tomczak,TomcMi00
+165,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+166,156,1996,1996-09-01,1,1,33.314,PIT,@,JAX,L 9-24,,3,4,75.00,24,0,1,50.0,2,14,6.00,-5.25,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+167,157,1996,1996-09-08,2,2,33.321,PIT,,BAL,W 31-17,*,18,25,72.00,198,2,1,105.1,1,7,7.92,7.72,3,-2,-0.67,0,0,0,0,,0,0.0%,,0,0,1,1,0,1,0,0,,Mike Tomczak,TomcMi00
+168,158,1996,1996-09-16,3,3,33.329,PIT,,BUF,W 24-6,*,13,20,65.00,157,0,0,89.0,0,0,7.85,7.85,3,-4,-1.33,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+169,159,1996,1996-09-29,4,5,33.342,PIT,,HOU,W 30-16,*,15,28,53.57,202,2,1,85.7,1,5,7.21,7.04,2,-2,-1.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+170,160,1996,1996-10-07,5,6,33.350,PIT,@,KAN,W 17-7,*,20,32,62.50,338,0,1,85.2,0,0,10.56,9.16,1,-1,-1.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+171,161,1996,1996-10-13,6,7,33.356,PIT,,CIN,W 20-10,*,14,28,50.00,182,1,2,53.0,0,0,6.50,4.00,2,2,1.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+172,162,1996,1996-10-20,7,8,33.363,PIT,@,HOU,L 13-23,*,13,29,44.83,199,1,0,79.5,2,7,6.86,7.55,2,1,0.50,0,0,0,0,,0,0.0%,,0,0,3,2,0,1,0,0,,Mike Tomczak,TomcMi00
+173,163,1996,1996-10-27,8,9,34.004,PIT,@,ATL,W 20-17,*,22,27,81.48,214,1,0,112.0,2,16,7.93,8.67,1,-6,-6.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+174,164,1996,1996-11-03,9,10,34.011,PIT,,STL,W 42-6,*,6,7,85.71,60,0,0,102.4,0,0,8.57,8.57,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+175,165,1996,1996-11-10,10,11,34.018,PIT,@,CIN,L 24-34,*,13,28,46.43,180,0,3,28.0,1,0,6.43,1.61,1,3,3.00,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,0,0,,Mike Tomczak,TomcMi00
+176,166,1996,1996-11-17,11,12,34.025,PIT,,JAX,W 28-3,*,7,24,29.17,109,2,1,56.4,2,19,4.54,4.33,3,-4,-1.33,0,0,0,0,,0,0.0%,,0,0,1,0,0,0,0,0,,Mike Tomczak,TomcMi00
+177,167,1996,1996-11-25,12,13,34.033,PIT,@,MIA,W 24-17,*,16,29,55.17,252,1,1,81.4,1,13,8.69,7.83,1,-1,-1.00,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,0,0,,Mike Tomczak,TomcMi00
+178,168,1996,1996-12-01,13,14,34.039,PIT,@,BAL,L 17-31,*,18,36,50.00,221,2,1,76.3,1,7,6.14,6.00,1,3,3.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+179,169,1996,1996-12-08,14,15,34.046,PIT,,SDG,W 16-3,*,15,31,48.39,153,1,3,34.1,0,0,4.94,1.23,1,-2,-2.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+180,170,1996,1996-12-15,15,16,34.053,PIT,,SFO,L 15-25,*,23,43,53.49,253,1,2,59.5,1,5,5.88,4.26,1,6,6.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+181,171,1996,1996-12-22,16,17,34.060,PIT,@,CAR,L 14-18,*,6,10,60.00,25,1,0,97.9,2,12,2.50,4.50,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+182,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+183,172,1997,1997-08-31,1,1,34.312,PIT,,DAL,L 7-37,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+184,173,1997,1997-09-07,2,2,34.319,PIT,,WAS,W 14-13,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+185,174,1997,1997-09-22,3,4,34.334,PIT,@,JAX,L 21-30,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+186,175,1997,1997-09-28,4,5,34.340,PIT,,TEN,W 37-24,,2,2,100.00,26,0,0,118.7,0,0,13.00,13.00,1,-1,-1.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+187,176,1997,1997-10-05,5,6,34.347,PIT,@,BAL,W 42-34,,0,0,,0,0,0,,0,,,,3,-1,-0.33,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+188,177,1997,1997-10-12,6,7,34.354,PIT,,IND,W 24-22,,6,11,54.55,70,1,2,64.8,0,0,6.36,0.00,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+189,178,1997,1997-10-19,7,8,34.361,PIT,@,CIN,W 26-10,,0,0,,0,0,0,,0,,,,2,-2,-1.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+190,179,1997,1997-10-26,8,9,35.003,PIT,,JAX,W 23-17,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+191,180,1997,1997-11-03,9,10,35.011,PIT,@,KAN,L 10-13,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+192,181,1997,1997-11-09,10,11,35.017,PIT,,BAL,W 37-0,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+193,182,1997,1997-11-16,11,12,35.024,PIT,,CIN,W 20-3,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+194,183,1997,1997-11-23,12,13,35.031,PIT,@,PHI,L 20-23,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+195,184,1997,1997-11-30,13,14,35.038,PIT,@,ARI,W 26-20,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+196,185,1997,1997-12-07,14,15,35.045,PIT,,DEN,W 35-24,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+197,186,1997,1997-12-13,15,16,35.051,PIT,@,NWE,W 24-21,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+198,187,1997,1997-12-21,16,17,35.059,PIT,@,TEN,L 6-16,,8,11,72.73,89,0,0,96.4,0,0,8.09,8.09,1,17,17.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+199,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+200,188,1998,1998-09-13,2,2,35.325,PIT,,CHI,W 17-12,,,,,,,,,,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+201,189,1998,1998-09-20,3,3,35.332,PIT,@,MIA,L 0-21,,,,,,,,,,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+202,190,1998,1998-09-27,4,4,35.339,PIT,,SEA,W 13-10,,,,,,,,,,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+203,191,1998,1998-10-11,5,6,35.353,PIT,@,CIN,L 20-25,,,,,,,,,,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+204,192,1998,1998-10-26,7,8,36.003,PIT,@,KAN,W 20-13,,,,,,,,,,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+205,193,1998,1998-11-01,8,9,36.009,PIT,,TEN,L 31-41,,15,17,88.24,117,2,0,134.6,0,0,6.88,9.24,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+206,194,1998,1998-11-09,9,10,36.017,PIT,,GNB,W 27-20,,0,0,,0,0,,,1,8,,,0,0,,0,,0,0,,0,0.0%,,0,0,1,1,,0,0,0,,Mike Tomczak,TomcMi00
+207,195,1998,1998-11-15,10,11,36.023,PIT,@,TEN,L 14-23,,,,,,,,,,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+208,196,1998,1998-11-22,11,12,36.030,PIT,,JAX,W 30-15,,,,,,,,,,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+209,197,1998,1998-11-26,12,13,36.034,PIT,@,DET,L 16-19,,,,,,,,,,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+210,198,1998,1998-12-06,13,14,36.044,PIT,,NWE,L 9-23,,,,,,,,,,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+211,199,1998,1998-12-13,14,15,36.051,PIT,@,TAM,L 3-16,,1,2,50.00,10,0,1,25.0,1,10,5.00,-17.50,0,0,,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,0,0,,Mike Tomczak,TomcMi00
+212,200,1998,1998-12-20,15,16,36.058,PIT,,CIN,L 24-25,,5,11,45.45,77,0,1,31.3,0,0,7.00,2.91,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+213,201,1998,1998-12-28,16,17,36.066,PIT,@,JAX,L 3-21,,,,,,,,,,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+214,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Mike Tomczak,TomcMi00
+215,202,1999,1999-09-12,1,1,36.324,PIT,@,CLE,W 43-0,,8,8,100.00,78,2,0,146.9,0,0,9.75,14.75,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+216,203,1999,1999-09-19,2,2,36.331,PIT,@,BAL,W 23-20,,,,,,,,,0,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+217,204,1999,1999-09-26,3,3,36.338,PIT,,SEA,L 10-29,,14,27,51.85,159,1,2,51.3,0,0,5.89,3.30,1,4,4.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+218,205,1999,1999-10-03,4,4,36.345,PIT,,JAX,L 3-17,,,,,,,,,0,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+219,206,1999,1999-10-10,5,5,36.352,PIT,@,BUF,L 21-24,,,,,,,,,0,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+220,207,1999,1999-10-17,6,6,36.359,PIT,@,CIN,W 17-3,,,,,,,,,0,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+221,208,1999,1999-10-25,7,7,37.002,PIT,,ATL,W 13-9,,,,,,,,,0,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+222,209,1999,1999-11-07,8,9,37.015,PIT,@,SFO,W 27-6,,0,0,,0,0,0,,0,,,,3,-3,-1.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+223,210,1999,1999-11-14,9,10,37.022,PIT,,CLE,L 15-16,,,,,,,,,0,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+224,211,1999,1999-11-21,10,11,37.029,PIT,@,TEN,L 10-16,,,,,,,,,0,,,,,,,,,,,,,0.0%,,0,0,0,,,0,0,0,,Mike Tomczak,TomcMi00
+225,212,1999,1999-11-28,11,12,37.036,PIT,,CIN,L 20-27,,19,35,54.29,264,2,0,97.8,2,20,7.54,8.69,2,10,5.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+226,213,1999,1999-12-02,12,13,37.040,PIT,@,JAX,L 6-20,*,19,39,48.72,194,0,0,63.4,3,22,4.97,4.97,1,3,3.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+227,214,1999,1999-12-12,13,14,37.050,PIT,,BAL,L 24-31,*,22,41,53.66,249,2,0,88.4,5,27,6.07,7.05,1,2,2.00,0,0,0,0,,0,0.0%,,0,0,1,0,0,0,0,0,,Mike Tomczak,TomcMi00
+228,215,1999,1999-12-18,14,15,37.056,PIT,@,KAN,L 19-35,*,23,46,50.00,278,2,4,47.2,2,9,6.04,3.00,2,2,1.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+229,216,1999,1999-12-26,15,16,37.064,PIT,,CAR,W 30-20,*,13,23,56.52,94,1,1,62.6,1,12,4.09,3.00,4,2,0.50,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Mike Tomczak,TomcMi00
+230,217,1999,2000-01-02,16,17,37.071,PIT,,TEN,L 36-47,*,21,39,53.85,309,2,1,86.4,2,14,7.92,7.79,2,-1,-0.50,0,0,0,0,,0,0.0%,,0,0,2,0,0,0,-6,0,,Mike Tomczak,TomcMi00
+231,,,183 Games,,,,,,,107-76-0,,1248,2337,53.40,16079,88,106,68.9,114,809,6.88,5.59,198,526,2.66,9,0,1,5,5.00,0,,,9,54,30,8,0,6,-17,0,,Mike Tomczak,TomcMi00

@@ -1,0 +1,63 @@
+,season,team,coach,top_av_player,passer,rusher,receiver,franchise_code,passer_name,passer_url,coach_name,coach_url
+0,2021,Las Vegas Raiders,"Bisaccia,Gruden",Crosby,Carr,Jacobs,Renfrow,/teams/rai/,Derek Carr,/players/C/CarrDe02.htm,"Rich Bisaccia,Jon Gruden","/coaches/BisaRi0.htm,/coaches/GrudJo0.htm"
+1,2020,Las Vegas Raiders,Gruden,Carr,Carr,Jacobs,Waller,/teams/rai/,Derek Carr,/players/C/CarrDe02.htm,Jon Gruden,/coaches/GrudJo0.htm
+2,2019,Oakland Raiders,Gruden,Carr,Carr,Jacobs,Waller,/teams/rai/,Derek Carr,/players/C/CarrDe02.htm,Jon Gruden,/coaches/GrudJo0.htm
+3,2018,Oakland Raiders,Gruden,Carr,Carr,Martin,Cook,/teams/rai/,Derek Carr,/players/C/CarrDe02.htm,Jon Gruden,/coaches/GrudJo0.htm
+4,2017,Oakland Raiders,Del Rio,Mack,Carr,Lynch,Cook,/teams/rai/,Derek Carr,/players/C/CarrDe02.htm,Jack Del Rio,/coaches/DelRJa0.htm
+5,2016,Oakland Raiders,Del Rio,Mack,Carr,Murray,Cooper,/teams/rai/,Derek Carr,/players/C/CarrDe02.htm,Jack Del Rio,/coaches/DelRJa0.htm
+6,2015,Oakland Raiders,Del Rio,Mack,Carr,Murray,Cooper,/teams/rai/,Derek Carr,/players/C/CarrDe02.htm,Jack Del Rio,/coaches/DelRJa0.htm
+7,2014,Oakland Raiders,"Sparano,Allen",Smith,Carr,McFadden,Holmes,/teams/rai/,Derek Carr,/players/C/CarrDe02.htm,"Tony Sparano,Dennis Allen","/coaches/SparTo0.htm,/coaches/AlleDe0.htm"
+8,2013,Oakland Raiders,Allen,Houston,Pryor,Jennings,Streater,/teams/rai/,Terrelle Pryor,/players/P/PryoTe00.htm,Dennis Allen,/coaches/AlleDe0.htm
+9,2012,Oakland Raiders,Allen,Palmer,Palmer,McFadden,Myers,/teams/rai/,Carson Palmer,/players/P/PalmCa00.htm,Dennis Allen,/coaches/AlleDe0.htm
+10,2011,Oakland Raiders,Jackson,Seymour,Palmer,Bush,Heyward-Bey,/teams/rai/,Carson Palmer,/players/P/PalmCa00.htm,Hue Jackson,/coaches/JackHu0.htm
+11,2010,Oakland Raiders,Cable,McFadden,Campbell,McFadden,Miller,/teams/rai/,Jason Campbell,/players/C/CampJa00.htm,Tom Cable,/coaches/CablTo0.htm
+12,2009,Oakland Raiders,Cable,Asomugha,Russell,Bush,Miller,/teams/rai/,JaMarcus Russell,/players/R/RussJa00.htm,Tom Cable,/coaches/CablTo0.htm
+13,2008,Oakland Raiders,"Cable,Kiffin",Asomugha,Russell,Fargas,Miller,/teams/rai/,JaMarcus Russell,/players/R/RussJa00.htm,"Tom Cable,Lane Kiffin","/coaches/CablTo0.htm,/coaches/KiffLa0.htm"
+14,2007,Oakland Raiders,Kiffin,Fargas,Culpepper,Fargas,Curry,/teams/rai/,Daunte Culpepper,/players/C/CulpDa00.htm,Lane Kiffin,/coaches/KiffLa0.htm
+15,2006,Oakland Raiders,Shell,Asomugha,Walter,Fargas,Curry,/teams/rai/,Andrew Walter,/players/W/WaltAn00.htm,Art Shell,/coaches/ShelAr0.htm
+16,2005,Oakland Raiders,Turner,Burgess,Collins,Jordan,Moss,/teams/rai/,Kerry Collins,/players/C/CollKe00.htm,Norv Turner,/coaches/TurnNo0.htm
+17,2004,Oakland Raiders,Turner,Collins,Collins,Zereoue,Porter,/teams/rai/,Kerry Collins,/players/C/CollKe00.htm,Norv Turner,/coaches/TurnNo0.htm
+18,2003,Oakland Raiders,Callahan,Buchanon,Gannon,Wheatley,Rice,/teams/rai/,Rich Gannon,/players/G/GannRi00.htm,Bill Callahan,/coaches/CallBi0.htm
+19,2002,Oakland Raiders,Callahan,Robbins,Gannon,Garner,Rice,/teams/rai/,Rich Gannon,/players/G/GannRi00.htm,Bill Callahan,/coaches/CallBi0.htm
+20,2001,Oakland Raiders,Gruden,Gannon,Gannon,Garner,Brown,/teams/rai/,Rich Gannon,/players/G/GannRi00.htm,Jon Gruden,/coaches/GrudJo0.htm
+21,2000,Oakland Raiders,Gruden,Gannon,Gannon,Wheatley,Brown,/teams/rai/,Rich Gannon,/players/G/GannRi00.htm,Jon Gruden,/coaches/GrudJo0.htm
+22,1999,Oakland Raiders,Gruden,Gannon,Gannon,Wheatley,Brown,/teams/rai/,Rich Gannon,/players/G/GannRi00.htm,Jon Gruden,/coaches/GrudJo0.htm
+23,1998,Oakland Raiders,Gruden,Russell,Hollas,Kaufman,Brown,/teams/rai/,Donald Hollas,/players/H/HollDo00.htm,Jon Gruden,/coaches/GrudJo0.htm
+24,1997,Oakland Raiders,Bugel,Kaufman,George,Kaufman,Brown,/teams/rai/,Jeff George,/players/G/GeorJe00.htm,Joe Bugel,/coaches/BugeJo0.htm
+25,1996,Oakland Raiders,White,McGlockton,Hostetler,Kaufman,Brown,/teams/rai/,Jeff Hostetler,/players/H/HostJe00.htm,Mike White,/coaches/WhitMi0.htm
+26,1995,Oakland Raiders,White,McGlockton,Hostetler,Williams,Brown,/teams/rai/,Jeff Hostetler,/players/H/HostJe00.htm,Mike White,/coaches/WhitMi0.htm
+27,1994,Los Angeles Raiders,Shell,McGlockton,Hostetler,Williams,Brown,/teams/rai/,Jeff Hostetler,/players/H/HostJe00.htm,Art Shell,/coaches/ShelAr0.htm
+28,1993,Los Angeles Raiders,Shell,Wisniewski,Hostetler,Robinson,Brown,/teams/rai/,Jeff Hostetler,/players/H/HostJe00.htm,Art Shell,/coaches/ShelAr0.htm
+29,1992,Los Angeles Raiders,Shell,Wisniewski,Schroeder,Dickerson,Brown,/teams/rai/,Jay Schroeder,/players/S/SchrJa00.htm,Art Shell,/coaches/ShelAr0.htm
+32,1991,Los Angeles Raiders,Shell,Lott,Schroeder,Craig,Fernandez,/teams/rai/,Jay Schroeder,/players/S/SchrJa00.htm,Art Shell,/coaches/ShelAr0.htm
+33,1990,Los Angeles Raiders,Shell,Townsend,Schroeder,Jackson,Gault,/teams/rai/,Jay Schroeder,/players/S/SchrJa00.htm,Art Shell,/coaches/ShelAr0.htm
+34,1989,Los Angeles Raiders,"Shell,Shanahan",Fernandez,Beuerlein,Jackson,Fernandez,/teams/rai/,Steve Beuerlein,/players/B/BeueSt00.htm,"Art Shell,Mike Shanahan","/coaches/ShelAr0.htm,/coaches/ShanMi0.htm"
+35,1988,Los Angeles Raiders,Shanahan,Millen,Schroeder,Allen,Fernandez,/teams/rai/,Jay Schroeder,/players/S/SchrJa00.htm,Mike Shanahan,/coaches/ShanMi0.htm
+36,1987,Los Angeles Raiders,Flores,Long,Wilson,Allen,Lofton,/teams/rai/,Marc Wilson,/players/W/WilsMa00.htm,Tom Flores,/coaches/FlorTo0.htm
+37,1986,Los Angeles Raiders,Flores,Pickel,Plunkett,Allen,Christensen,/teams/rai/,Jim Plunkett,/players/P/PlunJi00.htm,Tom Flores,/coaches/FlorTo0.htm
+38,1985,Los Angeles Raiders,Flores,Long,Wilson,Allen,Christensen,/teams/rai/,Marc Wilson,/players/W/WilsMa00.htm,Tom Flores,/coaches/FlorTo0.htm
+39,1984,Los Angeles Raiders,Flores,Martin,Wilson,Allen,Christensen,/teams/rai/,Marc Wilson,/players/W/WilsMa00.htm,Tom Flores,/coaches/FlorTo0.htm
+40,1983,Los Angeles Raiders,Flores,Martin,Plunkett,Allen,Christensen,/teams/rai/,Jim Plunkett,/players/P/PlunJi00.htm,Tom Flores,/coaches/FlorTo0.htm
+41,1982,Los Angeles Raiders,Flores,Allen,Plunkett,Allen,Branch,/teams/rai/,Jim Plunkett,/players/P/PlunJi00.htm,Tom Flores,/coaches/FlorTo0.htm
+42,1981,Oakland Raiders,Flores,Hayes,Wilson,King,Ramsey,/teams/rai/,Marc Wilson,/players/W/WilsMa00.htm,Tom Flores,/coaches/FlorTo0.htm
+43,1980,Oakland Raiders,Flores,Hayes,Plunkett,van Eeghen,Branch,/teams/rai/,Jim Plunkett,/players/P/PlunJi00.htm,Tom Flores,/coaches/FlorTo0.htm
+44,1979,Oakland Raiders,Flores,Stabler,Stabler,van Eeghen,Branch,/teams/rai/,Ken Stabler,/players/S/StabKe00.htm,Tom Flores,/coaches/FlorTo0.htm
+45,1978,Oakland Raiders,Madden,Shell,Stabler,van Eeghen,Casper,/teams/rai/,Ken Stabler,/players/S/StabKe00.htm,John Madden,/coaches/MaddJo0.htm
+46,1977,Oakland Raiders,Madden,van Eeghen,Stabler,van Eeghen,Casper,/teams/rai/,Ken Stabler,/players/S/StabKe00.htm,John Madden,/coaches/MaddJo0.htm
+47,1976,Oakland Raiders,Madden,Branch,Stabler,van Eeghen,Branch,/teams/rai/,Ken Stabler,/players/S/StabKe00.htm,John Madden,/coaches/MaddJo0.htm
+48,1975,Oakland Raiders,Madden,Villapiano,Stabler,Banaszak,Branch,/teams/rai/,Ken Stabler,/players/S/StabKe00.htm,John Madden,/coaches/MaddJo0.htm
+49,1974,Oakland Raiders,Madden,Branch,Stabler,Hubbard,Branch,/teams/rai/,Ken Stabler,/players/S/StabKe00.htm,John Madden,/coaches/MaddJo0.htm
+50,1973,Oakland Raiders,Madden,Brown,Stabler,Hubbard,Siani,/teams/rai/,Ken Stabler,/players/S/StabKe00.htm,John Madden,/coaches/MaddJo0.htm
+51,1972,Oakland Raiders,Madden,Brown,Lamonica,Hubbard,Biletnikoff,/teams/rai/,Daryle Lamonica,/players/L/LamoDa00.htm,John Madden,/coaches/MaddJo0.htm
+52,1971,Oakland Raiders,Madden,Biletnikoff,Lamonica,Hubbard,Biletnikoff,/teams/rai/,Daryle Lamonica,/players/L/LamoDa00.htm,John Madden,/coaches/MaddJo0.htm
+53,1970,Oakland Raiders,Madden,Upshaw,Lamonica,Dixon,Wells,/teams/rai/,Daryle Lamonica,/players/L/LamoDa00.htm,John Madden,/coaches/MaddJo0.htm
+54,1969,Oakland Raiders,Madden,Wells,Lamonica,Smith,Wells,/teams/rai/,Daryle Lamonica,/players/L/LamoDa00.htm,John Madden,/coaches/MaddJo0.htm
+55,1968,Oakland Raiders,Rauch,Grayson,Lamonica,Dixon,Wells,/teams/rai/,Daryle Lamonica,/players/L/LamoDa00.htm,John Rauch,/coaches/RaucJo0.htm
+56,1967,Oakland Raiders,Rauch,Lamonica,Lamonica,Daniels,Biletnikoff,/teams/rai/,Daryle Lamonica,/players/L/LamoDa00.htm,John Rauch,/coaches/RaucJo0.htm
+57,1966,Oakland Raiders,Rauch,Daniels,Flores,Daniels,Powell,/teams/rai/,Tom Flores,/players/F/FlorTo00.htm,John Rauch,/coaches/RaucJo0.htm
+58,1965,Oakland Raiders,Davis,Grayson,Flores,Daniels,Powell,/teams/rai/,Tom Flores,/players/F/FlorTo00.htm,Al Davis,/coaches/DaviAl0.htm
+59,1964,Oakland Raiders,Davis,Otto,Davidson,Daniels,Powell,/teams/rai/,Cotton Davidson,/players/D/DaviCo00.htm,Al Davis,/coaches/DaviAl0.htm
+60,1963,Oakland Raiders,Davis,Daniels,Flores,Daniels,Powell,/teams/rai/,Tom Flores,/players/F/FlorTo00.htm,Al Davis,/coaches/DaviAl0.htm
+61,1962,Oakland Raiders,"Conkright,Feldman",Williamson,Davidson,Daniels,Roberson,/teams/rai/,Cotton Davidson,/players/D/DaviCo00.htm,"Bill Conkright,Marty Feldman","/coaches/ConkRe0.htm,/coaches/FeldMa0.htm"
+64,1961,Oakland Raiders,"Feldman,Erdelatz",Otto,Flores,Crow,Asad,/teams/rai/,Tom Flores,/players/F/FlorTo00.htm,"Marty Feldman,Eddie Erdelatz","/coaches/FeldMa0.htm,/coaches/ErdeEd0.htm"
+65,1960,Oakland Raiders,Erdelatz,Otto,Flores,Teresa,Lott,/teams/rai/,Tom Flores,/players/F/FlorTo00.htm,Eddie Erdelatz,/coaches/ErdeEd0.htm

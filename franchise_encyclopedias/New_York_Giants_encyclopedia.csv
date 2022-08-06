@@ -1,0 +1,98 @@
+,season,team,coach,top_av_player,passer,rusher,receiver,franchise_code,passer_name,passer_url,coach_name,coach_url
+0,2021,New York Giants,Judge,Williams,Jones,Barkley,Golladay,/teams/nyg/,Daniel Jones,/players/J/JoneDa05.htm,Joe Judge,/coaches/JudgJo0.htm
+1,2020,New York Giants,Judge,Bradberry,Jones,Gallman,Slayton,/teams/nyg/,Daniel Jones,/players/J/JoneDa05.htm,Joe Judge,/coaches/JudgJo0.htm
+2,2019,New York Giants,Shurmur,Barkley,Jones,Barkley,Slayton,/teams/nyg/,Daniel Jones,/players/J/JoneDa05.htm,Pat Shurmur,/coaches/ShurPa0.htm
+3,2018,New York Giants,Shurmur,Barkley,Manning,Barkley,Beckham,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Pat Shurmur,/coaches/ShurPa0.htm
+4,2017,New York Giants,"McAdoo,Spagnuolo",Collins,Manning,Darkwa,Shepard,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,"Ben McAdoo,Steve Spagnuolo","/coaches/McAdBe0.htm,/coaches/SpagSt0.htm"
+5,2016,New York Giants,McAdoo,Harrison,Manning,Jennings,Beckham,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Ben McAdoo,/coaches/McAdBe0.htm
+6,2015,New York Giants,Coughlin,Manning,Manning,Jennings,Beckham,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Tom Coughlin,/coaches/CougTo0.htm
+7,2014,New York Giants,Coughlin,Manning,Manning,Williams,Beckham,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Tom Coughlin,/coaches/CougTo0.htm
+8,2013,New York Giants,Coughlin,Rolle,Manning,Brown,Cruz,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Tom Coughlin,/coaches/CougTo0.htm
+9,2012,New York Giants,Coughlin,Manning,Manning,Bradshaw,Cruz,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Tom Coughlin,/coaches/CougTo0.htm
+10,2011,New York Giants,Coughlin,Manning,Manning,Bradshaw,Cruz,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Tom Coughlin,/coaches/CougTo0.htm
+11,2010,New York Giants,Coughlin,Tuck,Manning,Bradshaw,Nicks,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Tom Coughlin,/coaches/CougTo0.htm
+12,2009,New York Giants,Coughlin,Manning,Manning,Jacobs,Smith,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Tom Coughlin,/coaches/CougTo0.htm
+13,2008,New York Giants,Coughlin,Tuck,Manning,Jacobs,Hixon,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Tom Coughlin,/coaches/CougTo0.htm
+14,2007,New York Giants,Coughlin,Umenyiora,Manning,Jacobs,Burress,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Tom Coughlin,/coaches/CougTo0.htm
+15,2006,New York Giants,Coughlin,Barber,Manning,Barber,Burress,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Tom Coughlin,/coaches/CougTo0.htm
+16,2005,New York Giants,Coughlin,Barber,Manning,Barber,Burress,/teams/nyg/,Eli Manning,/players/M/MannEl00.htm,Tom Coughlin,/coaches/CougTo0.htm
+17,2004,New York Giants,Coughlin,Barber,Warner,Barber,Toomer,/teams/nyg/,Kurt Warner,/players/W/WarnKu00.htm,Tom Coughlin,/coaches/CougTo0.htm
+18,2003,New York Giants,Fassel,Strahan,Collins,Barber,Toomer,/teams/nyg/,Kerry Collins,/players/C/CollKe00.htm,Jim Fassel,/coaches/FassJi0.htm
+19,2002,New York Giants,Fassel,Barber,Collins,Barber,Toomer,/teams/nyg/,Kerry Collins,/players/C/CollKe00.htm,Jim Fassel,/coaches/FassJi0.htm
+20,2001,New York Giants,Fassel,Strahan,Collins,Barber,Toomer,/teams/nyg/,Kerry Collins,/players/C/CollKe00.htm,Jim Fassel,/coaches/FassJi0.htm
+21,2000,New York Giants,Fassel,Barber,Collins,Barber,Toomer,/teams/nyg/,Kerry Collins,/players/C/CollKe00.htm,Jim Fassel,/coaches/FassJi0.htm
+22,1999,New York Giants,Fassel,Armstead,Collins,Montgomery,Toomer,/teams/nyg/,Kerry Collins,/players/C/CollKe00.htm,Jim Fassel,/coaches/FassJi0.htm
+23,1998,New York Giants,Fassel,Strahan,Kanell,Brown,Calloway,/teams/nyg/,Danny Kanell,/players/K/KaneDa00.htm,Jim Fassel,/coaches/FassJi0.htm
+24,1997,New York Giants,Fassel,Strahan,Kanell,Way,Calloway,/teams/nyg/,Danny Kanell,/players/K/KaneDa00.htm,Jim Fassel,/coaches/FassJi0.htm
+25,1996,New York Giants,Reeves,Armstead,Brown,Hampton,Calloway,/teams/nyg/,Dave Brown,/players/B/BrowDa00.htm,Dan Reeves,/coaches/ReevDa0.htm
+26,1995,New York Giants,Reeves,Brown,Brown,Hampton,Calloway,/teams/nyg/,Dave Brown,/players/B/BrowDa00.htm,Dan Reeves,/coaches/ReevDa0.htm
+27,1994,New York Giants,Reeves,Howard,Brown,Hampton,Sherrard,/teams/nyg/,Dave Brown,/players/B/BrowDa00.htm,Dan Reeves,/coaches/ReevDa0.htm
+28,1993,New York Giants,Reeves,Brooks,Simms,Hampton,Jackson,/teams/nyg/,Phil Simms,/players/S/SimmPh00.htm,Dan Reeves,/coaches/ReevDa0.htm
+29,1992,New York Giants,Handley,Hampton,Hostetler,Hampton,McCaffrey,/teams/nyg/,Jeff Hostetler,/players/H/HostJe00.htm,Ray Handley,/coaches/HandRa0.htm
+32,1991,New York Giants,Handley,Oates,Hostetler,Hampton,Ingram,/teams/nyg/,Jeff Hostetler,/players/H/HostJe00.htm,Ray Handley,/coaches/HandRa0.htm
+33,1990,New York Giants,Parcells,Johnson,Simms,Anderson,Baker,/teams/nyg/,Phil Simms,/players/S/SimmPh00.htm,Bill Parcells,/coaches/ParcBi0.htm
+34,1989,New York Giants,Parcells,Taylor,Simms,Anderson,Manuel,/teams/nyg/,Phil Simms,/players/S/SimmPh00.htm,Bill Parcells,/coaches/ParcBi0.htm
+35,1988,New York Giants,Parcells,Taylor,Simms,Morris,Manuel,/teams/nyg/,Phil Simms,/players/S/SimmPh00.htm,Bill Parcells,/coaches/ParcBi0.htm
+36,1987,New York Giants,Parcells,Banks,Simms,Morris,Bavaro,/teams/nyg/,Phil Simms,/players/S/SimmPh00.htm,Bill Parcells,/coaches/ParcBi0.htm
+37,1986,New York Giants,Parcells,Taylor,Simms,Morris,Bavaro,/teams/nyg/,Phil Simms,/players/S/SimmPh00.htm,Bill Parcells,/coaches/ParcBi0.htm
+38,1985,New York Giants,Parcells,Taylor,Simms,Morris,Manuel,/teams/nyg/,Phil Simms,/players/S/SimmPh00.htm,Bill Parcells,/coaches/ParcBi0.htm
+39,1984,New York Giants,Parcells,Haynes,Simms,Carpenter,Johnson,/teams/nyg/,Phil Simms,/players/S/SimmPh00.htm,Bill Parcells,/coaches/ParcBi0.htm
+40,1983,New York Giants,Parcells,Taylor,Brunner,Woolfolk,Gray,/teams/nyg/,Scott Brunner,/players/B/BrunSc00.htm,Bill Parcells,/coaches/ParcBi0.htm
+41,1982,New York Giants,Perkins,Taylor,Brunner,Woolfolk,Perkins,/teams/nyg/,Scott Brunner,/players/B/BrunSc00.htm,Ray Perkins,/coaches/PerkRa0.htm
+42,1981,New York Giants,Perkins,Taylor,Simms,Carpenter,Perkins,/teams/nyg/,Phil Simms,/players/S/SimmPh00.htm,Ray Perkins,/coaches/PerkRa0.htm
+43,1980,New York Giants,Perkins,Van Pelt,Simms,Taylor,Gray,/teams/nyg/,Phil Simms,/players/S/SimmPh00.htm,Ray Perkins,/coaches/PerkRa0.htm
+44,1979,New York Giants,Perkins,Carson,Simms,Taylor,Gray,/teams/nyg/,Phil Simms,/players/S/SimmPh00.htm,Ray Perkins,/coaches/PerkRa0.htm
+45,1978,New York Giants,McVay,Carson,Pisarcik,Kotar,Robinson,/teams/nyg/,Joe Pisarcik,/players/P/PisaJo00.htm,John McVay,/coaches/McVaJo0.htm
+46,1977,New York Giants,McVay,Archer,Pisarcik,Hammond,Robinson,/teams/nyg/,Joe Pisarcik,/players/P/PisaJo00.htm,John McVay,/coaches/McVaJo0.htm
+47,1976,New York Giants,"McVay,Arnsparger",Van Pelt,Morton,Kotar,Tucker,/teams/nyg/,Craig Morton,/players/M/MortCr00.htm,"John McVay,Bill Arnsparger","/coaches/McVaJo0.htm,/coaches/ArnsBi0.htm"
+48,1975,New York Giants,Arnsparger,Morton,Morton,Dawkins,Gillette,/teams/nyg/,Craig Morton,/players/M/MortCr00.htm,Bill Arnsparger,/coaches/ArnsBi0.htm
+49,1974,New York Giants,Arnsparger,Dawkins,Morton,Dawkins,Tucker,/teams/nyg/,Craig Morton,/players/M/MortCr00.htm,Bill Arnsparger,/coaches/ArnsBi0.htm
+50,1973,New York Giants,Webster,Johnson,Snead,Johnson,Tucker,/teams/nyg/,Norm Snead,/players/S/SneaNo00.htm,Alex Webster,/coaches/WebsAl0.htm
+51,1972,New York Giants,Webster,Johnson,Snead,Johnson,Tucker,/teams/nyg/,Norm Snead,/players/S/SneaNo00.htm,Alex Webster,/coaches/WebsAl0.htm
+52,1971,New York Giants,Webster,Tarkenton,Tarkenton,Duhon,Tucker,/teams/nyg/,Fran Tarkenton,/players/T/TarkFr00.htm,Alex Webster,/coaches/WebsAl0.htm
+53,1970,New York Giants,Webster,Johnson,Tarkenton,Johnson,McNeil,/teams/nyg/,Fran Tarkenton,/players/T/TarkFr00.htm,Alex Webster,/coaches/WebsAl0.htm
+54,1969,New York Giants,Webster,Tarkenton,Tarkenton,Morrison,Jones,/teams/nyg/,Fran Tarkenton,/players/T/TarkFr00.htm,Alex Webster,/coaches/WebsAl0.htm
+55,1968,New York Giants,Sherman,Tarkenton,Tarkenton,Frederickson,Jones,/teams/nyg/,Fran Tarkenton,/players/T/TarkFr00.htm,Allie Sherman,/coaches/SherAl0.htm
+56,1967,New York Giants,Sherman,Tarkenton,Tarkenton,Koy,Jones,/teams/nyg/,Fran Tarkenton,/players/T/TarkFr00.htm,Allie Sherman,/coaches/SherAl0.htm
+57,1966,New York Giants,Sherman,Jones,Wood,Mercein,Jones,/teams/nyg/,Gary Wood,/players/W/WoodGa00.htm,Allie Sherman,/coaches/SherAl0.htm
+58,1965,New York Giants,Sherman,Morrall,Morrall,Frederickson,Jones,/teams/nyg/,Earl Morrall,/players/M/MorrEa00.htm,Allie Sherman,/coaches/SherAl0.htm
+59,1964,New York Giants,Sherman,Barnes,Tittle,Wheelwright,Thomas,/teams/nyg/,Y.A. Tittle,/players/T/TittY.00.htm,Allie Sherman,/coaches/SherAl0.htm
+60,1963,New York Giants,Sherman,Tittle,Tittle,King,Shofner,/teams/nyg/,Y.A. Tittle,/players/T/TittY.00.htm,Allie Sherman,/coaches/SherAl0.htm
+61,1962,New York Giants,Sherman,Tittle,Tittle,Webster,Shofner,/teams/nyg/,Y.A. Tittle,/players/T/TittY.00.htm,Allie Sherman,/coaches/SherAl0.htm
+64,1961,New York Giants,Sherman,Barnes,Tittle,Webster,Shofner,/teams/nyg/,Y.A. Tittle,/players/T/TittY.00.htm,Allie Sherman,/coaches/SherAl0.htm
+65,1960,New York Giants,Howell,Robustelli,Shaw,Triplett,Rote,/teams/nyg/,George Shaw,/players/S/ShawGe00.htm,Jim Lee Howell,/coaches/HoweJi0.htm
+66,1959,New York Giants,Howell,,Conerly,Gifford,Gifford,/teams/nyg/,Charlie Conerly,/players/C/ConeCh00.htm,Jim Lee Howell,/coaches/HoweJi0.htm
+67,1958,New York Giants,Howell,,Conerly,Gifford,Schnelker,/teams/nyg/,Charlie Conerly,/players/C/ConeCh00.htm,Jim Lee Howell,/coaches/HoweJi0.htm
+68,1957,New York Giants,Howell,,Conerly,Gifford,Gifford,/teams/nyg/,Charlie Conerly,/players/C/ConeCh00.htm,Jim Lee Howell,/coaches/HoweJi0.htm
+69,1956,New York Giants,Howell,,Conerly,Gifford,Gifford,/teams/nyg/,Charlie Conerly,/players/C/ConeCh00.htm,Jim Lee Howell,/coaches/HoweJi0.htm
+70,1955,New York Giants,Howell,,Conerly,Webster,Rote,/teams/nyg/,Charlie Conerly,/players/C/ConeCh00.htm,Jim Lee Howell,/coaches/HoweJi0.htm
+71,1954,New York Giants,Howell,,Conerly,Price,Rote,/teams/nyg/,Charlie Conerly,/players/C/ConeCh00.htm,Jim Lee Howell,/coaches/HoweJi0.htm
+72,1953,New York Giants,Owen,,Conerly,Grandelius,Rote,/teams/nyg/,Charlie Conerly,/players/C/ConeCh00.htm,Steve Owen,/coaches/OwenSt0.htm
+73,1952,New York Giants,Owen,,Conerly,Price,McChesney,/teams/nyg/,Charlie Conerly,/players/C/ConeCh00.htm,Steve Owen,/coaches/OwenSt0.htm
+74,1951,New York Giants,Owen,,Conerly,Price,Scott,/teams/nyg/,Charlie Conerly,/players/C/ConeCh00.htm,Steve Owen,/coaches/OwenSt0.htm
+75,1950,New York Giants,Owen,,Conerly,Price,McChesney,/teams/nyg/,Charlie Conerly,/players/C/ConeCh00.htm,Steve Owen,/coaches/OwenSt0.htm
+76,1949,New York Giants,Owen,,Conerly,Roberts,Roberts,/teams/nyg/,Charlie Conerly,/players/C/ConeCh00.htm,Steve Owen,/coaches/OwenSt0.htm
+77,1948,New York Giants,Owen,,Conerly,Roberts,Swiacki,/teams/nyg/,Charlie Conerly,/players/C/ConeCh00.htm,Steve Owen,/coaches/OwenSt0.htm
+78,1947,New York Giants,Owen,,Governali,Roberts,Poole,/teams/nyg/,Paul Governali,/players/G/GovePa20.htm,Steve Owen,/coaches/OwenSt0.htm
+79,1946,New York Giants,Owen,,Filchock,Filchock,Liebel,/teams/nyg/,Frank Filchock,/players/F/FilcFr20.htm,Steve Owen,/coaches/OwenSt0.htm
+80,1945,New York Giants,Owen,,Herber,Paschal,Liebel,/teams/nyg/,Arnie Herber,/players/H/HerbAr20.htm,Steve Owen,/coaches/OwenSt0.htm
+81,1944,New York Giants,Owen,,Herber,Paschal,Adams,/teams/nyg/,Arnie Herber,/players/H/HerbAr20.htm,Steve Owen,/coaches/OwenSt0.htm
+82,1943,New York Giants,Owen,,Nix,Paschal,Walls,/teams/nyg/,Emery Nix,/players/N/NixxEm20.htm,Steve Owen,/coaches/OwenSt0.htm
+83,1942,New York Giants,Owen,,Leemans,Hapes,Cuff,/teams/nyg/,Tuffy Leemans,/players/L/LeemTu20.htm,Steve Owen,/coaches/OwenSt0.htm
+84,1941,New York Giants,Owen,,Leemans,Leemans,Cuff,/teams/nyg/,Tuffy Leemans,/players/L/LeemTu20.htm,Steve Owen,/coaches/OwenSt0.htm
+85,1940,New York Giants,Owen,,Miller,Leemans,Howell,/teams/nyg/,Eddie Miller,/players/M/MillEd20.htm,Steve Owen,/coaches/OwenSt0.htm
+86,1939,New York Giants,Owen,,Danowski,Leemans,Leemans,/teams/nyg/,Ed Danowski,/players/D/DanoEd20.htm,Steve Owen,/coaches/OwenSt0.htm
+87,1938,New York Giants,Owen,,Danowski,Leemans,Soar,/teams/nyg/,Ed Danowski,/players/D/DanoEd20.htm,Steve Owen,/coaches/OwenSt0.htm
+88,1937,New York Giants,Owen,,Danowski,Soar,Leemans,/teams/nyg/,Ed Danowski,/players/D/DanoEd20.htm,Steve Owen,/coaches/OwenSt0.htm
+89,1936,New York Giants,Owen,,Danowski,Leemans,Burnett,/teams/nyg/,Ed Danowski,/players/D/DanoEd20.htm,Steve Owen,/coaches/OwenSt0.htm
+90,1935,New York Giants,Owen,,Danowski,Richards,Goodwin,/teams/nyg/,Ed Danowski,/players/D/DanoEd20.htm,Steve Owen,/coaches/OwenSt0.htm
+91,1934,New York Giants,Owen,,Newman,Newman,Badgro,/teams/nyg/,Harry Newman,/players/N/NewmHa21.htm,Steve Owen,/coaches/OwenSt0.htm
+92,1933,New York Giants,Owen,,Newman,Newman,Burnett,/teams/nyg/,Harry Newman,/players/N/NewmHa21.htm,Steve Owen,/coaches/OwenSt0.htm
+93,1932,New York Giants,Owen,,McBride,McBride,Flaherty,/teams/nyg/,Jack McBride,/players/M/McBrJa20.htm,Steve Owen,/coaches/OwenSt0.htm
+96,1931,New York Giants,Owen,,,,,/teams/nyg/,,,Steve Owen,/coaches/OwenSt0.htm
+97,1930,New York Giants,"Andrews,Owen,Friedman",,,,,/teams/nyg/,,,"Roy Andrews,Steve Owen,Benny Friedman","/coaches/AndrRo0.htm,/coaches/OwenSt0.htm,/coaches/FrieBe0.htm"
+98,1929,New York Giants,Andrews,,,,,/teams/nyg/,,,Roy Andrews,/coaches/AndrRo0.htm
+99,1928,New York Giants,Potteiger,,,,,/teams/nyg/,,,Earl Potteiger,/coaches/PottEa0.htm
+100,1927,New York Giants,Potteiger,,,,,/teams/nyg/,,,Earl Potteiger,/coaches/PottEa0.htm
+101,1926,New York Giants,Alexander,,,,,/teams/nyg/,,,Doc Alexander,/coaches/AlexDo0.htm
+102,1925,New York Giants,Folwell,,,,,/teams/nyg/,,,Bob Folwell,/coaches/FolwBo0.htm

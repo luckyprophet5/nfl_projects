@@ -1,0 +1,202 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Unnamed: 8_level_0,Unnamed: 9_level_0,Unnamed: 10_level_0,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Receiving,Receiving,Scoring,Scoring,Fumbles,Fumbles,Fumbles,Fumbles,Fumbles,Fumbles,Unnamed: 41_level_0,qb,qb_tag
+,Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds.1,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,,
+0,1,1979,1979-09-30,5,5,23.331,NYG,@,NOR,L 14-24,,8,19,42.11,115,1,2,40.4,1,11,6.05,2.37,2,0,0.00,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+1,2,1979,1979-10-07,6,6,23.338,NYG,,TAM,W 17-14,*,6,12,50.00,37,0,0,56.6,2,19,3.08,3.08,3,1,0.33,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+2,3,1979,1979-10-14,7,7,23.345,NYG,,SFO,W 32-16,*,17,32,53.13,300,2,0,106.2,3,21,9.38,10.63,2,23,11.50,1,,,,,,,,1,6,0,,0,0,0,0,,Phil Simms,SimmPh00
+3,4,1979,1979-10-21,8,8,23.352,NYG,@,KAN,W 21-17,*,12,26,46.15,151,1,1,61.5,4,25,5.81,4.85,2,7,3.50,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+4,5,1979,1979-10-28,9,9,23.359,NYG,@,RAM,W 20-14,*,9,22,40.91,173,2,1,80.3,5,49,7.86,7.64,5,46,9.20,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+5,6,1979,1979-11-04,10,10,24.001,NYG,,DAL,L 14-16,*,10,16,62.50,150,2,1,106.8,1,17,9.38,9.06,2,29,14.50,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+6,7,1979,1979-11-11,11,11,24.008,NYG,,ATL,W 24-3,*,14,32,43.75,155,1,0,69.1,3,11,4.84,5.47,1,9,9.00,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+7,8,1979,1979-11-18,12,12,24.015,NYG,@,TAM,L 3-31,*,17,33,51.52,180,0,2,42.5,5,75,5.45,2.73,4,25,6.25,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+8,9,1979,1979-11-25,13,13,24.022,NYG,,WAS,W 14-6,*,7,14,50.00,90,0,1,40.8,2,16,6.43,3.21,3,5,1.67,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+9,10,1979,1979-12-02,14,14,24.029,NYG,@,DAL,L 7-28,*,9,15,60.00,130,0,1,60.4,5,32,8.67,5.67,1,3,3.00,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+10,11,1979,1979-12-09,15,15,24.036,NYG,@,STL,L 20-29,*,18,30,60.00,195,3,1,98.6,5,24,6.50,7.00,2,9,4.50,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+11,12,1979,1979-12-16,16,16,24.043,NYG,,BAL,L 7-31,*,7,14,50.00,67,1,4,47.9,3,19,4.79,-6.64,2,9,4.50,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+12,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+13,13,1980,1980-09-07,1,1,24.309,NYG,@,STL,W 41-35,*,16,31,51.61,280,5,1,108.9,1,6,9.03,10.81,4,3,0.75,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+14,14,1980,1980-09-14,2,2,24.316,NYG,,WAS,L 21-23,*,12,29,41.38,174,2,3,45.0,3,11,6.00,2.72,2,4,2.00,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+15,15,1980,1980-09-22,3,3,24.324,NYG,@,PHI,L 3-35,*,21,49,42.86,184,0,2,36.4,1,15,3.76,1.92,3,22,7.33,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+16,16,1980,1980-09-28,4,4,24.330,NYG,,RAM,L 7-28,*,9,22,40.91,118,0,1,39.6,4,30,5.36,3.32,1,9,9.00,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+17,17,1980,1980-10-05,5,5,24.337,NYG,@,DAL,L 3-24,*,4,15,26.67,87,0,1,23.5,,,5.80,2.80,2,20,10.00,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+18,18,1980,1980-10-12,6,6,24.344,NYG,,PHI,L 16-31,*,14,33,42.42,91,1,2,34.8,3,12,2.76,0.64,5,21,4.20,1,,,,,,,,1,6,0,,0,0,0,0,,Phil Simms,SimmPh00
+19,19,1980,1980-10-19,7,7,24.351,NYG,@,SDG,L 7-44,*,14,29,48.28,135,0,2,33.0,2,15,4.66,1.55,4,21,5.25,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+20,20,1980,1980-10-26,8,8,24.358,NYG,,DEN,L 9-14,*,19,36,52.78,200,0,1,57.6,2,12,5.56,4.31,2,30,15.00,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+21,21,1980,1980-11-02,9,9,24.365,NYG,@,TAM,L 13-30,*,22,34,64.71,155,1,2,60.3,1,8,4.56,2.50,1,1,1.00,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+22,22,1980,1980-11-09,10,10,25.006,NYG,,DAL,W 38-35,*,18,33,54.55,351,3,1,109.5,1,6,10.64,11.09,2,-4,-2.00,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+23,23,1980,1980-11-16,11,11,25.013,NYG,,GNB,W 27-21,*,17,33,51.52,322,3,0,116.0,4,28,9.76,11.58,4,19,4.75,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+24,24,1980,1980-11-23,12,12,25.020,NYG,@,SFO,L 0-12,*,15,28,53.57,118,0,1,49.4,10,67,4.21,2.61,2,15,7.50,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+25,25,1980,1980-11-30,13,13,25.027,NYG,,STL,L 7-23,*,12,30,40.00,106,0,2,22.4,4,23,3.53,0.53,4,29,7.25,0,,,,,,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+26,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+27,26,1981,1981-09-06,1,1,25.307,NYG,,PHI,L 10-24,*,20,37,54.05,241,1,0,83.3,6,66,6.51,7.05,5,8,1.60,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+28,27,1981,1981-09-13,2,2,25.314,NYG,@,WAS,W 17-7,*,8,27,29.63,93,0,1,26.0,1,7,3.44,1.78,1,-5,-5.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+29,28,1981,1981-09-20,3,3,25.321,NYG,,NOR,W 20-7,*,28,41,68.29,324,1,0,100.1,2,9,7.90,8.39,4,0,0.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+30,29,1981,1981-09-27,4,4,25.328,NYG,@,DAL,L 10-18,*,18,35,51.43,285,1,3,52.7,4,27,8.14,4.86,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+31,30,1981,1981-10-04,5,5,25.335,NYG,,GNB,L 14-27,*,20,32,62.50,230,1,2,68.5,1,9,7.19,5.00,2,1,0.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+32,31,1981,1981-10-11,6,6,25.342,NYG,,STL,W 34-14,*,19,33,57.58,208,3,0,106.6,5,29,6.30,8.12,2,24,12.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+33,32,1981,1981-10-18,7,7,25.349,NYG,@,SEA,W 32-0,*,12,27,44.44,103,1,1,51.9,2,15,3.81,2.89,1,6,6.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+34,33,1981,1981-10-25,8,8,25.356,NYG,@,ATL,W 27-24,*,19,32,59.38,256,2,0,105.7,5,43,8.00,9.25,4,8,2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+35,34,1981,1981-11-01,9,9,25.363,NYG,,NYJ,L 7-26,*,22,35,62.86,182,0,1,64.2,9,71,5.20,3.91,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+36,35,1981,1981-11-15,11,11,26.012,NYG,,WAS,L 27-30,*,6,17,35.29,109,1,1,53.3,3,25,6.41,4.94,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+37,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+38,36,1983,1983-09-18,3,3,27.319,NYG,@,DAL,L 13-28,,3,8,37.50,52,0,1,20.8,1,8,6.50,0.88,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+39,37,1983,1983-10-09,6,6,27.340,NYG,,PHI,L 13-17,,4,5,80.00,78,0,0,118.7,2,27,15.60,15.60,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+40,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+41,38,1984,1984-09-02,1,1,28.304,NYG,,PHI,W 28-27,*,23,30,76.67,409,4,0,157.6,2,21,13.63,16.30,6,20,3.33,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+42,39,1984,1984-09-09,2,2,28.311,NYG,,DAL,W 28-7,*,10,20,50.00,185,3,0,121.9,2,21,9.25,12.25,1,0,0.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+43,40,1984,1984-09-16,3,3,28.318,NYG,@,WAS,L 14-30,*,22,45,48.89,347,1,3,54.6,5,45,7.71,5.16,1,3,3.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+44,41,1984,1984-09-23,4,4,28.325,NYG,,TAM,W 17-14,*,17,34,50.00,186,2,0,86.2,3,25,5.47,6.65,5,30,6.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+45,42,1984,1984-09-30,5,5,28.332,NYG,@,RAM,L 12-33,*,24,48,50.00,276,1,0,74.7,5,41,5.75,6.17,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+46,43,1984,1984-10-08,6,6,28.340,NYG,,SFO,L 10-31,*,24,43,55.81,290,0,2,57.3,4,27,6.74,4.65,3,22,7.33,0,,1,13,13.00,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+47,44,1984,1984-10-14,7,7,28.346,NYG,@,ATL,W 19-7,*,16,25,64.00,247,1,0,109.9,0,0,9.88,10.68,2,2,1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+48,45,1984,1984-10-21,8,8,28.353,NYG,@,PHI,L 10-24,*,16,33,48.48,248,0,1,61.2,5,32,7.52,6.15,1,4,4.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+49,46,1984,1984-10-28,9,9,28.360,NYG,,WAS,W 37-13,*,18,29,62.07,339,2,0,125.5,7,45,11.69,13.07,3,1,0.33,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+50,47,1984,1984-11-04,10,10,29.001,NYG,@,DAL,W 19-7,*,16,37,43.24,244,1,1,63.3,2,17,6.59,5.92,1,-2,-2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+51,48,1984,1984-11-11,11,11,29.008,NYG,@,TAM,L 17-20,*,21,33,63.64,198,2,1,87.7,2,25,6.00,5.85,6,9,1.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+52,49,1984,1984-11-18,12,12,29.015,NYG,,STL,W 16-10,*,12,30,40.00,178,1,2,43.5,2,13,5.93,3.60,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+53,50,1984,1984-11-25,13,13,29.022,NYG,,KAN,W 28-27,*,24,41,58.54,343,2,3,71.5,2,19,8.37,6.05,2,11,5.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+54,51,1984,1984-12-02,14,14,29.029,NYG,@,NYJ,W 20-10,*,18,28,64.29,252,0,1,78.3,4,36,9.00,7.39,4,21,5.25,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+55,52,1984,1984-12-09,15,15,29.036,NYG,@,STL,L 21-31,*,13,31,41.94,175,2,2,55.2,3,16,5.65,4.03,1,-2,-2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+56,53,1984,1984-12-15,16,16,29.042,NYG,,NOR,L 3-10,*,12,26,46.15,127,0,2,28.8,7,51,4.88,1.42,6,43,7.17,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+57,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+58,54,1985,1985-09-08,1,1,29.309,NYG,,PHI,W 21-0,*,8,21,38.10,133,1,1,56.2,2,8,6.33,5.14,2,5,2.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+59,55,1985,1985-09-15,2,2,29.316,NYG,@,GNB,L 20-23,*,21,40,52.50,272,2,0,90.8,5,33,6.80,7.80,1,11,11.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+60,56,1985,1985-09-22,3,3,29.323,NYG,,STL,W 27-17,*,10,23,43.48,167,3,1,90.0,1,4,7.26,7.91,5,-5,-1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+61,57,1985,1985-09-29,4,4,29.330,NYG,@,PHI,W 16-10,*,14,27,51.85,228,1,1,77.4,4,30,8.44,7.52,7,37,5.29,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+62,58,1985,1985-10-06,5,5,29.337,NYG,,DAL,L 29-30,*,18,36,50.00,432,3,2,98.4,4,29,12.00,11.17,1,0,0.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+63,59,1985,1985-10-13,6,6,29.344,NYG,@,CIN,L 30-35,*,40,62,64.52,513,1,2,82.3,7,70,8.27,7.15,2,5,2.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+64,60,1985,1985-10-20,7,7,29.351,NYG,,WAS,W 17-3,*,17,26,65.38,196,1,3,61.2,1,11,7.54,3.12,2,31,15.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+65,61,1985,1985-10-27,8,8,29.358,NYG,@,NOR,W 21-13,*,18,28,64.29,159,1,0,91.2,1,5,5.68,6.39,6,4,0.67,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+66,62,1985,1985-11-03,9,9,30.000,NYG,,TAM,W 22-20,*,18,31,58.06,204,0,0,77.9,4,37,6.58,6.58,2,1,0.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+67,63,1985,1985-11-10,10,10,30.007,NYG,,RAM,W 24-19,*,16,30,53.33,239,1,2,63.1,2,15,7.97,5.63,3,9,3.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+68,64,1985,1985-11-18,11,11,30.015,NYG,@,WAS,L 21-23,*,9,18,50.00,138,0,1,52.5,4,37,7.67,5.17,1,8,8.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+69,65,1985,1985-11-24,12,12,30.021,NYG,@,STL,W 34-3,*,16,26,61.54,190,2,0,109.5,5,38,7.31,8.85,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+70,66,1985,1985-12-01,13,13,30.028,NYG,,CLE,L 33-35,*,23,37,62.16,289,1,2,72.9,4,22,7.81,5.92,3,29,9.67,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+71,67,1985,1985-12-08,14,14,30.035,NYG,@,HOU,W 35-14,*,13,24,54.17,234,2,1,98.3,0,0,9.75,9.54,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+72,68,1985,1985-12-15,15,15,30.042,NYG,@,DAL,L 21-28,*,24,50,48.00,329,2,3,57.8,5,33,6.58,4.68,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+73,69,1985,1985-12-21,16,16,30.048,NYG,,PIT,W 28-10,*,10,16,62.50,106,1,1,76.6,3,24,6.63,5.06,2,-3,-1.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+74,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+75,70,1986,1986-09-08,1,1,30.309,NYG,@,DAL,L 28-31,*,22,45,48.89,300,3,1,83.6,4,39,6.67,7.00,2,10,5.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+76,71,1986,1986-09-14,2,2,30.315,NYG,,SDG,W 20-7,*,18,37,48.65,300,1,1,74.2,4,43,8.11,7.43,3,-7,-2.33,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+77,72,1986,1986-09-21,3,3,30.322,NYG,@,RAI,W 14-9,*,18,30,60.00,239,2,2,79.7,4,34,7.97,6.30,1,-2,-2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+78,73,1986,1986-09-28,4,4,30.329,NYG,,NOR,W 20-17,*,24,41,58.54,286,2,3,65.7,2,12,6.98,4.66,4,28,7.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+79,74,1986,1986-10-05,5,5,30.336,NYG,@,STL,W 13-6,*,8,24,33.33,104,0,0,47.9,3,21,4.33,4.33,4,-8,-2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+80,75,1986,1986-10-12,6,6,30.343,NYG,,PHI,W 35-3,*,20,29,68.97,214,2,0,113.3,2,11,7.38,8.76,2,4,2.00,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Phil Simms,SimmPh00
+81,76,1986,1986-10-19,7,7,30.350,NYG,@,SEA,L 12-17,*,14,25,56.00,190,1,4,54.2,6,37,7.60,1.20,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+82,77,1986,1986-10-27,8,8,30.358,NYG,,WAS,W 27-20,*,20,30,66.67,219,1,0,99.2,3,24,7.30,7.97,1,-2,-2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+83,78,1986,1986-11-02,9,9,30.364,NYG,,DAL,W 17-14,*,6,18,33.33,67,0,1,22.2,3,21,3.72,1.22,2,-4,-2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+84,79,1986,1986-11-09,10,10,31.006,NYG,@,PHI,W 17-14,*,8,18,44.44,130,0,2,29.6,3,18,7.22,2.22,5,10,2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+85,80,1986,1986-11-16,11,11,31.013,NYG,@,MIN,W 22-20,*,25,38,65.79,310,1,2,77.7,2,17,8.16,6.32,3,18,6.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+86,81,1986,1986-11-23,12,12,31.020,NYG,,DEN,W 19-16,*,11,20,55.00,148,0,0,78.7,3,29,7.40,7.40,5,20,4.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+87,82,1986,1986-12-01,13,13,31.028,NYG,@,SFO,W 21-17,*,27,38,71.05,388,2,2,99.5,1,4,10.21,8.89,3,-3,-1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+88,83,1986,1986-12-07,14,14,31.034,NYG,@,WAS,W 24-14,*,15,29,51.72,265,3,2,89.0,1,6,9.14,8.10,4,-2,-0.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+89,84,1986,1986-12-14,15,15,31.041,NYG,,STL,W 27-7,*,5,21,23.81,82,0,0,43.4,2,20,3.90,3.90,4,10,2.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+90,85,1986,1986-12-20,16,16,31.047,NYG,,GNB,W 55-24,*,18,25,72.00,245,3,2,109.2,2,23,9.80,8.60,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+91,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+92,86,1987,1987-09-14,1,1,31.315,NYG,@,CHI,L 19-34,*,15,28,53.57,181,1,0,85.6,8,53,6.46,7.18,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+93,87,1987,1987-09-20,2,2,31.321,NYG,,DAL,L 14-16,*,17,36,47.22,219,2,4,45.7,2,14,6.08,2.19,1,2,2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+94,88,1987,1987-10-25,6,7,31.356,NYG,,STL,W 30-7,*,17,21,80.95,253,3,0,156.4,3,21,12.05,14.90,2,-3,-1.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+95,89,1987,1987-11-02,7,8,31.364,NYG,@,DAL,L 24-33,*,15,21,71.43,240,2,2,101.4,5,35,11.43,9.05,3,15,5.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+96,90,1987,1987-11-29,11,12,32.026,NYG,@,WAS,L 19-23,*,12,29,41.38,236,1,1,67.6,5,36,8.14,7.28,2,27,13.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+97,91,1987,1987-12-06,12,13,32.033,NYG,,PHI,W 23-20,*,16,34,47.06,245,2,1,78.7,4,24,7.21,7.06,4,5,1.25,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+98,92,1987,1987-12-13,13,14,32.040,NYG,@,STL,L 24-27,*,30,48,62.50,359,2,1,90.5,4,24,7.48,7.38,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+99,93,1987,1987-12-19,14,15,32.046,NYG,,GNB,W 20-10,*,21,26,80.77,233,2,0,129.6,4,18,8.96,10.50,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+100,94,1987,1987-12-27,15,16,32.054,NYG,,NYJ,W 20-7,*,20,39,51.28,264,2,0,90.1,0,0,6.77,7.79,2,-2,-1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+101,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+102,95,1988,1988-09-05,1,1,32.307,NYG,,WAS,W 27-20,*,19,37,51.35,195,0,0,66.8,4,33,5.27,5.27,3,17,5.67,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+103,96,1988,1988-09-11,2,2,32.313,NYG,,SFO,L 17-20,*,21,37,56.76,227,2,0,93.0,3,30,6.14,7.22,2,14,7.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+104,97,1988,1988-09-18,3,3,32.320,NYG,@,DAL,W 12-10,*,13,25,52.00,187,1,2,56.6,4,37,7.48,4.68,2,0,0.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+105,98,1988,1988-09-25,4,4,32.327,NYG,,RAM,L 31-45,*,29,49,59.18,309,2,1,82.8,4,25,6.31,6.20,1,13,13.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+106,99,1988,1988-10-02,5,5,32.334,NYG,@,WAS,W 24-23,*,17,31,54.84,233,1,1,76.4,5,43,7.52,6.71,3,2,0.67,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+107,100,1988,1988-10-10,6,6,32.342,NYG,@,PHI,L 13-24,*,19,39,48.72,324,1,1,75.2,3,21,8.31,7.67,1,-1,-1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+108,101,1988,1988-10-16,7,7,32.348,NYG,,DET,W 30-10,*,23,32,71.88,320,2,0,124.5,5,40,10.00,11.25,1,1,1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+109,102,1988,1988-10-23,8,8,32.355,NYG,@,ATL,W 23-16,*,17,27,62.96,252,0,3,53.9,4,27,9.33,4.33,2,16,8.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+110,103,1988,1988-10-30,9,9,32.362,NYG,@,DET,W 13-10,*,22,36,61.11,227,0,0,79.3,5,31,6.31,6.31,1,-3,-3.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+111,104,1988,1988-11-06,10,10,33.003,NYG,,DAL,W 29-21,*,11,25,44.00,165,2,1,76.2,2,14,6.60,6.40,5,1,0.20,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+112,105,1988,1988-11-13,11,11,33.010,NYG,@,PHO,L 17-24,*,20,45,44.44,195,1,0,64.6,1,7,4.33,4.78,2,16,8.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+113,106,1988,1988-11-20,12,12,33.017,NYG,,PHI,L 17-23,*,17,28,60.71,253,2,1,99.3,1,11,9.04,8.86,4,19,4.75,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+114,107,1988,1988-12-04,14,14,33.031,NYG,,PHO,W 44-7,*,11,20,55.00,149,2,0,112.3,3,18,7.45,9.45,1,1,1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+115,108,1988,1988-12-11,15,15,33.038,NYG,,KAN,W 28-12,*,6,15,40.00,93,2,1,73.1,1,8,6.20,5.87,1,-1,-1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+116,109,1988,1988-12-18,16,16,33.045,NYG,@,NYJ,L 21-27,*,18,33,54.55,230,3,0,106.9,8,60,6.97,8.79,4,57,14.25,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+117,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+118,110,1989,1989-09-11,1,1,33.312,NYG,@,WAS,W 27-24,*,11,19,57.89,255,2,2,97.9,4,24,13.42,10.79,2,22,11.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+119,111,1989,1989-09-17,2,2,33.318,NYG,,DET,W 24-14,*,20,26,76.92,218,2,0,126.8,1,2,8.38,9.92,5,11,2.20,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+120,112,1989,1989-09-24,3,3,33.325,NYG,,PHO,W 35-7,*,11,21,52.38,202,1,0,101.7,1,6,9.62,10.57,1,5,5.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+121,113,1989,1989-10-01,4,4,33.332,NYG,@,DAL,W 30-13,*,14,19,73.68,211,2,3,105.3,1,6,11.11,6.11,2,29,14.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+122,114,1989,1989-10-08,5,5,33.339,NYG,@,PHI,L 19-21,*,21,39,53.85,241,0,1,62.0,5,24,6.18,5.03,4,29,7.25,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+123,115,1989,1989-10-15,6,6,33.346,NYG,,WAS,W 20-17,*,16,32,50.00,201,2,1,77.7,3,28,6.28,6.13,4,11,2.75,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+124,116,1989,1989-10-22,7,7,33.353,NYG,@,SDG,W 20-13,*,22,33,66.67,232,0,1,74.3,2,14,7.03,5.67,4,0,0.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+125,117,1989,1989-10-30,8,8,33.361,NYG,,MIN,W 24-14,*,0,1,0.00,0,0,0,39.6,1,5,0.00,0.00,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+126,118,1989,1989-11-12,10,10,34.009,NYG,@,RAM,L 10-31,*,25,38,65.79,237,0,1,71.9,4,36,6.24,5.05,1,-1,-1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+127,119,1989,1989-11-19,11,11,34.016,NYG,,SEA,W 15-3,*,17,26,65.38,194,1,0,100.5,1,7,7.46,8.23,2,-2,-1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+128,120,1989,1989-11-27,12,12,34.024,NYG,@,SFO,L 24-34,*,25,48,52.08,326,2,3,61.6,6,29,6.79,4.81,2,11,5.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+129,121,1989,1989-12-03,13,13,34.030,NYG,,PHI,L 17-24,*,11,37,29.73,265,1,2,43.4,5,29,7.16,5.27,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+130,122,1989,1989-12-10,14,14,34.037,NYG,@,DEN,W 14-7,*,13,22,59.09,171,1,0,98.9,3,23,7.77,8.68,3,19,6.33,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+131,123,1989,1989-12-16,15,15,34.043,NYG,,DAL,W 15-0,*,9,19,47.37,139,0,0,72.0,2,6,7.32,7.32,1,4,4.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+132,124,1989,1989-12-24,16,16,34.051,NYG,,RAI,W 34-17,*,13,25,52.00,169,0,0,73.6,1,5,6.76,6.76,1,3,3.00,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Phil Simms,SimmPh00
+133,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+134,125,1990,1990-09-09,1,1,34.310,NYG,,PHI,W 27-20,*,15,27,55.56,149,2,1,80.6,1,1,5.52,5.33,1,20,20.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+135,126,1990,1990-09-16,2,2,34.317,NYG,@,DAL,W 28-7,*,16,21,76.19,208,1,0,122.7,0,0,9.90,10.86,5,22,4.40,1,,0,0,,0,,,1,6,2,,0,1,0,0,,Phil Simms,SimmPh00
+136,127,1990,1990-09-23,3,3,34.324,NYG,,MIA,W 20-3,*,13,25,52.00,182,0,0,75.7,1,3,7.28,7.28,1,4,4.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+137,128,1990,1990-09-30,4,4,34.331,NYG,,DAL,W 31-17,*,16,22,72.73,188,3,0,137.9,2,14,8.55,11.27,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+138,129,1990,1990-10-14,5,6,34.345,NYG,@,WAS,W 24-20,*,13,22,59.09,283,2,0,133.7,1,8,12.86,14.68,3,-3,-1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+139,130,1990,1990-10-21,6,7,34.352,NYG,,PHO,W 20-19,*,2,4,50.00,10,0,0,56.2,1,5,2.50,2.50,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+140,131,1990,1990-10-28,7,8,34.359,NYG,,WAS,W 21-10,*,15,24,62.50,145,2,0,107.1,1,4,6.04,7.71,4,-3,-0.75,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+141,132,1990,1990-11-05,8,9,35.002,NYG,@,IND,W 24-7,*,17,21,80.95,172,0,1,81.0,2,14,8.19,6.05,1,-1,-1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+142,133,1990,1990-11-11,9,10,35.008,NYG,@,RAM,W 31-7,*,19,26,73.08,213,1,0,109.9,3,28,8.19,8.96,0,0,,0,,0,0,,0,,,0,0,1,,0,0,0,0,,Phil Simms,SimmPh00
+143,134,1990,1990-11-18,10,11,35.015,NYG,,DET,W 20-0,*,13,18,72.22,170,2,0,138.7,0,0,9.44,11.67,1,0,0.00,0,,0,0,,0,,,0,0,1,,0,1,-5,0,,Phil Simms,SimmPh00
+144,135,1990,1990-11-25,11,12,35.022,NYG,@,PHI,L 13-31,*,17,40,42.50,234,2,2,57.7,2,15,5.85,4.60,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+145,136,1990,1990-12-03,12,13,35.030,NYG,@,SFO,L 3-7,*,14,32,43.75,153,0,0,58.5,4,7,4.78,4.78,2,14,7.00,0,,0,0,,0,,,0,0,3,,0,0,0,0,,Phil Simms,SimmPh00
+146,137,1990,1990-12-09,13,14,35.036,NYG,,MIN,W 23-15,*,8,19,42.11,118,0,0,63.0,1,5,6.21,6.21,3,8,2.67,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+147,138,1990,1990-12-15,14,15,35.042,NYG,,BUF,L 13-17,*,6,10,60.00,59,0,0,76.7,1,0,5.90,5.90,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+148,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+149,139,1991,1991-09-02,1,1,,NYG,,SFO,W 16-14,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Phil Simms,SimmPh00
+150,140,1991,1991-09-08,2,2,,NYG,,RAM,L 13-19,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Phil Simms,SimmPh00
+151,141,1991,1991-09-15,3,3,,NYG,@,CHI,L 17-20,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Phil Simms,SimmPh00
+152,142,1991,1991-09-22,4,4,,NYG,,CLE,W 13-10,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Phil Simms,SimmPh00
+153,143,1991,1991-09-29,5,5,,NYG,@,DAL,L 16-21,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Phil Simms,SimmPh00
+154,144,1991,1991-10-06,6,6,,NYG,,PHO,W 20-9,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Phil Simms,SimmPh00
+155,145,1991,1991-10-14,7,7,,NYG,@,PIT,W 23-20,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Phil Simms,SimmPh00
+156,146,1991,1991-10-27,8,9,,NYG,,WAS,L 13-17,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Phil Simms,SimmPh00
+157,147,1991,1991-11-04,9,10,36.001,NYG,@,PHI,L 7-30,,1,2,50.00,9,0,0,62.5,0,0,4.50,4.50,1,0,0.00,0,,0,0,,0,,,0,0,1,,0,1,0,0,,Phil Simms,SimmPh00
+158,148,1991,1991-11-10,10,11,,NYG,@,PHO,W 21-14,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Phil Simms,SimmPh00
+159,149,1991,1991-11-17,11,12,,NYG,,DAL,W 22-9,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Phil Simms,SimmPh00
+160,150,1991,1991-11-24,12,13,36.021,NYG,@,TAM,W 21-14,,10,14,71.43,100,1,0,115.2,2,8,7.14,8.57,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+161,151,1991,1991-12-01,13,14,36.028,NYG,@,CIN,L 24-27,*,26,44,59.09,296,3,0,102.1,3,18,6.73,8.09,2,23,11.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+162,152,1991,1991-12-08,14,15,36.035,NYG,,PHI,L 14-19,*,7,23,30.43,100,2,2,38.3,4,16,4.35,2.17,1,-1,-1.00,0,,0,0,,0,,,0,0,1,,0,1,0,0,,Phil Simms,SimmPh00
+163,153,1991,1991-12-15,15,16,36.042,NYG,@,WAS,L 17-34,*,23,41,56.10,288,1,2,65.9,4,29,7.02,5.32,1,1,1.00,1,,0,0,,0,,,1,6,1,,0,0,0,0,,Phil Simms,SimmPh00
+164,154,1991,1991-12-21,16,17,36.048,NYG,,HOU,W 24-20,*,15,17,88.24,200,1,0,135.3,1,8,11.76,12.94,4,19,4.75,0,,0,0,,0,,,0,0,1,,0,0,-16,0,,Phil Simms,SimmPh00
+165,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+166,155,1992,1992-09-06,1,1,36.308,NYG,,SFO,L 14-31,*,20,37,54.05,223,0,1,61.0,4,27,6.03,4.81,0,0,,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+167,156,1992,1992-09-13,2,2,36.315,NYG,,DAL,L 28-34,*,25,42,59.52,273,3,1,92.7,2,9,6.50,6.86,1,3,3.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+168,157,1992,1992-09-21,3,3,36.323,NYG,@,CHI,W 27-14,*,19,29,65.52,220,2,0,111.3,1,8,7.59,8.97,5,14,2.80,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+169,158,1992,1992-10-04,4,5,36.336,NYG,@,RAI,L 10-13,*,19,29,65.52,196,0,1,70.5,3,23,6.76,5.21,0,0,,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+170,159,1992,1992-10-11,5,6,,NYG,,PHO,W 31-21,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Phil Simms,SimmPh00
+171,160,1992,1992-10-18,6,7,,NYG,@,RAM,L 17-38,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Phil Simms,SimmPh00
+172,161,1992,1992-10-25,7,8,,NYG,,SEA,W 23-10,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Phil Simms,SimmPh00
+173,162,1992,1992-11-01,8,9,,NYG,@,WAS,W 24-7,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Phil Simms,SimmPh00
+174,163,1992,1992-11-08,9,10,,NYG,,GNB,W 27-7,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Phil Simms,SimmPh00
+175,164,1992,1992-11-15,10,11,,NYG,@,DEN,L 13-27,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Phil Simms,SimmPh00
+176,165,1992,1992-11-22,11,12,,NYG,,PHI,L 34-47,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Phil Simms,SimmPh00
+177,166,1992,1992-11-26,12,13,,NYG,@,DAL,L 3-30,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Phil Simms,SimmPh00
+178,167,1992,1992-12-06,13,14,,NYG,,WAS,L 10-28,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Phil Simms,SimmPh00
+179,168,1992,1992-12-12,14,15,,NYG,@,PHO,L 0-19,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Phil Simms,SimmPh00
+180,169,1992,1992-12-19,15,16,,NYG,,KAN,W 35-21,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Phil Simms,SimmPh00
+181,170,1992,1992-12-27,16,17,,NYG,@,PHI,L 10-20,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Injured Reserve,Phil Simms,SimmPh00
+182,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Phil Simms,SimmPh00
+183,171,1993,1993-09-05,1,1,37.306,NYG,@,CHI,W 26-20,*,24,34,70.59,277,2,0,114.5,4,21,8.15,9.32,3,-2,-0.67,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+184,172,1993,1993-09-12,2,2,37.313,NYG,,TAM,W 23-7,*,12,26,46.15,204,1,1,70.0,1,4,7.85,6.88,2,2,1.00,0,,0,0,,0,0.0%,,0,0,1,,0,1,0,0,,Phil Simms,SimmPh00
+185,173,1993,1993-09-19,3,3,37.320,NYG,,RAM,W 20-10,*,21,27,77.78,217,0,0,100.2,5,33,8.04,8.04,2,1,0.50,0,,0,0,,0,0.0%,,0,0,1,,0,0,-6,0,,Phil Simms,SimmPh00
+186,174,1993,1993-10-03,4,5,37.334,NYG,@,BUF,L 14-17,*,12,28,42.86,160,2,3,45.8,2,7,5.71,2.32,1,2,2.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+187,175,1993,1993-10-10,5,6,37.341,NYG,@,WAS,W 41-7,*,14,17,82.35,182,3,0,150.9,1,8,10.71,14.24,2,-2,-1.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+188,176,1993,1993-10-17,6,7,37.348,NYG,,PHI,W 21-10,*,11,22,50.00,148,1,2,49.1,1,11,6.73,3.55,0,0,,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+189,177,1993,1993-10-31,7,9,37.362,NYG,,NYJ,L 6-10,*,20,30,66.67,142,0,1,63.5,1,1,4.73,3.23,4,5,1.25,0,,0,0,,0,0.0%,,0,0,2,,0,1,0,0,,Phil Simms,SimmPh00
+190,178,1993,1993-11-07,8,10,38.004,NYG,@,DAL,L 9-31,*,12,21,57.14,155,0,0,80.5,3,18,7.38,7.38,0,0,,0,,0,0,,0,0.0%,,0,0,0,,0,1,0,0,,Phil Simms,SimmPh00
+191,179,1993,1993-11-14,9,11,38.011,NYG,,WAS,W 20-6,*,8,15,53.33,100,0,1,46.5,3,11,6.67,3.67,0,0,,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+192,180,1993,1993-11-21,10,12,38.018,NYG,@,PHI,W 7-3,*,13,22,59.09,187,1,1,83.0,2,22,8.50,7.36,1,2,2.00,0,,0,0,,0,0.0%,,0,0,1,,0,0,0,0,,Phil Simms,SimmPh00
+193,181,1993,1993-11-28,11,13,38.025,NYG,,PHO,W 19-17,*,22,41,53.66,337,1,0,89.2,1,9,8.22,8.71,1,2,2.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+194,182,1993,1993-12-05,12,14,38.032,NYG,@,MIA,W 19-14,*,17,24,70.83,257,1,0,119.6,3,16,10.71,11.54,4,1,0.25,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+195,183,1993,1993-12-12,13,15,38.039,NYG,,IND,W 20-6,*,9,15,60.00,85,1,0,97.9,0,0,5.67,7.00,3,0,0.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+196,184,1993,1993-12-20,14,16,38.047,NYG,@,NOR,W 24-14,*,15,23,65.22,166,2,0,115.5,4,22,7.22,8.96,0,0,,0,,0,0,,0,0.0%,,0,0,1,,0,0,0,0,,Phil Simms,SimmPh00
+197,185,1993,1993-12-26,15,17,38.053,NYG,@,PHO,L 6-17,*,21,30,70.00,214,0,0,90.1,2,10,7.13,7.13,3,16,5.33,0,1,1,-6,-6.00,0,100.0%,-6.00,0,0,0,,0,0,0,0,,Phil Simms,SimmPh00
+198,186,1993,1994-01-02,16,18,38.060,NYG,,DAL,L 13-16,*,16,25,64.00,207,0,0,89.9,4,24,8.28,8.28,2,4,2.00,0,,0,0,,0,0.0%,,0,0,1,,0,0,-7,0,,Phil Simms,SimmPh00
+199,,,164 Games,,,,,,,96-68-0,,2576,4647,55.43,33462,199,157,78.5,477,3418,7.20,6.54,349,1252,3.59,6,1,2,7,3.50,0,,7.00,6,36,18,,0,7,-34,0,,Phil Simms,SimmPh00

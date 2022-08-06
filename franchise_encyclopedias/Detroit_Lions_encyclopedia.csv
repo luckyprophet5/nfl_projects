@@ -1,0 +1,93 @@
+,season,team,coach,top_av_player,passer,rusher,receiver,franchise_code,passer_name,passer_url,coach_name,coach_url
+0,2021,Detroit Lions,Campbell,Goff,Goff,Swift,St. Brown,/teams/det/,Jared Goff,/players/G/GoffJa00.htm,Dan Campbell,/coaches/CampDa1.htm
+1,2020,Detroit Lions,"Patricia,Bevell",Stafford,Stafford,Peterson,Jones,/teams/det/,Matthew Stafford,/players/S/StafMa00.htm,"Matt Patricia,Darrell Bevell","/coaches/PatrMa0.htm,/coaches/BeveDa0.htm"
+2,2019,Detroit Lions,Patricia,Golladay,Stafford,Johnson,Golladay,/teams/det/,Matthew Stafford,/players/S/StafMa00.htm,Matt Patricia,/coaches/PatrMa0.htm
+3,2018,Detroit Lions,Patricia,Stafford,Stafford,Johnson,Golladay,/teams/det/,Matthew Stafford,/players/S/StafMa00.htm,Matt Patricia,/coaches/PatrMa0.htm
+4,2017,Detroit Lions,Caldwell,Stafford,Stafford,Abdullah,Jones,/teams/det/,Matthew Stafford,/players/S/StafMa00.htm,Jim Caldwell,/coaches/CaldJi0.htm
+5,2016,Detroit Lions,Caldwell,Stafford,Stafford,Riddick,Tate,/teams/det/,Matthew Stafford,/players/S/StafMa00.htm,Jim Caldwell,/coaches/CaldJi0.htm
+6,2015,Detroit Lions,Caldwell,Stafford,Stafford,Abdullah,Johnson,/teams/det/,Matthew Stafford,/players/S/StafMa00.htm,Jim Caldwell,/coaches/CaldJi0.htm
+7,2014,Detroit Lions,Caldwell,Suh,Stafford,Bell,Tate,/teams/det/,Matthew Stafford,/players/S/StafMa00.htm,Jim Caldwell,/coaches/CaldJi0.htm
+8,2013,Detroit Lions,Schwartz,Suh,Stafford,Bush,Johnson,/teams/det/,Matthew Stafford,/players/S/StafMa00.htm,Jim Schwartz,/coaches/SchwJi0.htm
+9,2012,Detroit Lions,Schwartz,Johnson,Stafford,Leshoure,Johnson,/teams/det/,Matthew Stafford,/players/S/StafMa00.htm,Jim Schwartz,/coaches/SchwJi0.htm
+10,2011,Detroit Lions,Schwartz,Stafford,Stafford,Best,Johnson,/teams/det/,Matthew Stafford,/players/S/StafMa00.htm,Jim Schwartz,/coaches/SchwJi0.htm
+11,2010,Detroit Lions,Schwartz,Suh,Hill,Best,Johnson,/teams/det/,Shaun Hill,/players/H/HillSh00.htm,Jim Schwartz,/coaches/SchwJi0.htm
+12,2009,Detroit Lions,Schwartz,Johnson,Stafford,Smith,Johnson,/teams/det/,Matthew Stafford,/players/S/StafMa00.htm,Jim Schwartz,/coaches/SchwJi0.htm
+13,2008,Detroit Lions,Marinelli,Johnson,Orlovsky,Smith,Johnson,/teams/det/,Dan Orlovsky,/players/O/OrloDa00.htm,Rod Marinelli,/coaches/MariRo0.htm
+14,2007,Detroit Lions,Marinelli,Kitna,Kitna,Jones,McDonald,/teams/det/,Jon Kitna,/players/K/KitnJo00.htm,Rod Marinelli,/coaches/MariRo0.htm
+15,2006,Detroit Lions,Marinelli,Kitna,Kitna,Jones,Williams,/teams/det/,Jon Kitna,/players/K/KitnJo00.htm,Rod Marinelli,/coaches/MariRo0.htm
+16,2005,Detroit Lions,"Mariucci,Jauron",Rogers,Harrington,Jones,Williams,/teams/det/,Joey Harrington,/players/H/HarrJo00.htm,"Steve Mariucci,Dick Jauron","/coaches/MariSt0.htm,/coaches/JaurDi0.htm"
+17,2004,Detroit Lions,Mariucci,Rogers,Harrington,Jones,Williams,/teams/det/,Joey Harrington,/players/H/HarrJo00.htm,Steve Mariucci,/coaches/MariSt0.htm
+18,2003,Detroit Lions,Mariucci,Bly,Harrington,Bryson,Hakim,/teams/det/,Joey Harrington,/players/H/HarrJo00.htm,Steve Mariucci,/coaches/MariSt0.htm
+19,2002,Detroit Lions,Mornhinweg,Stewart,Harrington,Stewart,Schroeder,/teams/det/,Joey Harrington,/players/H/HarrJo00.htm,Marty Mornhinweg,/coaches/MornMa0.htm
+20,2001,Detroit Lions,Mornhinweg,Morton,Batch,Stewart,Morton,/teams/det/,Charlie Batch,/players/B/BatcCh00.htm,Marty Mornhinweg,/coaches/MornMa0.htm
+21,2000,Detroit Lions,"Ross,Moeller",Boyd,Batch,Stewart,Morton,/teams/det/,Charlie Batch,/players/B/BatcCh00.htm,"Bobby Ross,Gary Moeller","/coaches/RossBo0.htm,/coaches/MoelGa0.htm"
+22,1999,Detroit Lions,Ross,Crowell,Frerotte,Hill,Crowell,/teams/det/,Gus Frerotte,/players/F/FrerGu00.htm,Bobby Ross,/coaches/RossBo0.htm
+23,1998,Detroit Lions,Ross,Sanders,Batch,Sanders,Morton,/teams/det/,Charlie Batch,/players/B/BatcCh00.htm,Bobby Ross,/coaches/RossBo0.htm
+24,1997,Detroit Lions,Ross,Sanders,Mitchell,Sanders,Moore,/teams/det/,Scott Mitchell,/players/M/MitcSc00.htm,Bobby Ross,/coaches/RossBo0.htm
+25,1996,Detroit Lions,Fontes,Sanders,Mitchell,Sanders,Moore,/teams/det/,Scott Mitchell,/players/M/MitcSc00.htm,Wayne Fontes,/coaches/FontWa0.htm
+26,1995,Detroit Lions,Fontes,Moore,Mitchell,Sanders,Moore,/teams/det/,Scott Mitchell,/players/M/MitcSc00.htm,Wayne Fontes,/coaches/FontWa0.htm
+27,1994,Detroit Lions,Fontes,Sanders,Krieg,Sanders,Moore,/teams/det/,Dave Krieg,/players/K/KrieDa00.htm,Wayne Fontes,/coaches/FontWa0.htm
+28,1993,Detroit Lions,Fontes,Sanders,Peete,Sanders,Moore,/teams/det/,Rodney Peete,/players/P/PeetRo00.htm,Wayne Fontes,/coaches/FontWa0.htm
+29,1992,Detroit Lions,Fontes,Sanders,Peete,Sanders,Moore,/teams/det/,Rodney Peete,/players/P/PeetRo00.htm,Wayne Fontes,/coaches/FontWa0.htm
+32,1991,Detroit Lions,Fontes,Sanders,Kramer,Sanders,Perriman,/teams/det/,Erik Kramer,/players/K/KramEr00.htm,Wayne Fontes,/coaches/FontWa0.htm
+33,1990,Detroit Lions,Fontes,Sanders,Peete,Sanders,Clark,/teams/det/,Rodney Peete,/players/P/PeetRo00.htm,Wayne Fontes,/coaches/FontWa0.htm
+34,1989,Detroit Lions,Fontes,Sanders,Gagliano,Sanders,Johnson,/teams/det/,Bob Gagliano,/players/G/GaglBo00.htm,Wayne Fontes,/coaches/FontWa0.htm
+35,1988,Detroit Lions,"Rogers,Fontes",Cofer,Hilger,James,Mandley,/teams/det/,Rusty Hilger,/players/H/HilgRu00.htm,"Darryl Rogers,Wayne Fontes","/coaches/RogeDa0.htm,/coaches/FontWa0.htm"
+36,1987,Detroit Lions,Rogers,Long,Long,Jones,Mandley,/teams/det/,Chuck Long,/players/L/LongCh00.htm,Darryl Rogers,/coaches/RogeDa0.htm
+37,1986,Detroit Lions,Rogers,Jones,Hipple,Jones,Chadwick,/teams/det/,Eric Hipple,/players/H/HippEr00.htm,Darryl Rogers,/coaches/RogeDa0.htm
+38,1985,Detroit Lions,Rogers,Hipple,Hipple,Jones,Thompson,/teams/det/,Eric Hipple,/players/H/HippEr00.htm,Darryl Rogers,/coaches/RogeDa0.htm
+39,1984,Detroit Lions,Clark,English,Danielson,Sims,Thompson,/teams/det/,Gary Danielson,/players/D/DaniGa00.htm,Monte Clark,/coaches/ClarMo0.htm
+40,1983,Detroit Lions,Clark,English,Hipple,Sims,Thompson,/teams/det/,Eric Hipple,/players/H/HippEr00.htm,Monte Clark,/coaches/ClarMo0.htm
+41,1982,Detroit Lions,Clark,English,Danielson,Sims,Sims,/teams/det/,Gary Danielson,/players/D/DaniGa00.htm,Monte Clark,/coaches/ClarMo0.htm
+42,1981,Detroit Lions,Clark,Sims,Hipple,Sims,Scott,/teams/det/,Eric Hipple,/players/H/HippEr00.htm,Monte Clark,/coaches/ClarMo0.htm
+43,1980,Detroit Lions,Clark,Baker,Danielson,Sims,Scott,/teams/det/,Gary Danielson,/players/D/DaniGa00.htm,Monte Clark,/coaches/ClarMo0.htm
+44,1979,Detroit Lions,Clark,Baker,Komlo,Bussey,Scott,/teams/det/,Jeff Komlo,/players/K/KomlJe00.htm,Monte Clark,/coaches/ClarMo0.htm
+45,1978,Detroit Lions,Clark,Baker,Danielson,Bussey,Hill,/teams/det/,Gary Danielson,/players/D/DaniGa00.htm,Monte Clark,/coaches/ClarMo0.htm
+46,1977,Detroit Lions,Hudspeth,Hunter,Landry,King,Hill,/teams/det/,Greg Landry,/players/L/LandGr00.htm,Tommy Hudspeth,/coaches/HudsTo0.htm
+47,1976,Detroit Lions,"Hudspeth,Forzano",Barney,Landry,Bussey,Jarvis,/teams/det/,Greg Landry,/players/L/LandGr00.htm,"Tommy Hudspeth,Rick Forzano","/coaches/HudsTo0.htm,/coaches/ForzRi0.htm"
+48,1975,Detroit Lions,Forzano,Barney,Reed,Bussey,Jarvis,/teams/det/,Joe Reed,/players/R/ReedJo00.htm,Rick Forzano,/coaches/ForzRi0.htm
+49,1974,Detroit Lions,Forzano,Jessie,Munson,Taylor,Jessie,/teams/det/,Bill Munson,/players/M/MunsBi00.htm,Rick Forzano,/coaches/ForzRi0.htm
+50,1973,Detroit Lions,McCafferty,Taylor,Munson,Taylor,Sanders,/teams/det/,Bill Munson,/players/M/MunsBi00.htm,Don McCafferty,/coaches/McCaDo0.htm
+51,1972,Detroit Lions,Schmidt,Landry,Landry,Taylor,Walton,/teams/det/,Greg Landry,/players/L/LandGr00.htm,Joe Schmidt,/coaches/SchmJo0.htm
+52,1971,Detroit Lions,Schmidt,Landry,Landry,Owens,McCullouch,/teams/det/,Greg Landry,/players/L/LandGr00.htm,Joe Schmidt,/coaches/SchmJo0.htm
+53,1970,Detroit Lions,Schmidt,Taylor,Landry,Farr,Sanders,/teams/det/,Greg Landry,/players/L/LandGr00.htm,Joe Schmidt,/coaches/SchmJo0.htm
+54,1969,Detroit Lions,Schmidt,Barney,Munson,Triplett,Sanders,/teams/det/,Bill Munson,/players/M/MunsBi00.htm,Joe Schmidt,/coaches/SchmJo0.htm
+55,1968,Detroit Lions,Schmidt,Barney,Munson,Farr,McCullouch,/teams/det/,Bill Munson,/players/M/MunsBi00.htm,Joe Schmidt,/coaches/SchmJo0.htm
+56,1967,Detroit Lions,Schmidt,Barney,Plum,Farr,Malinchak,/teams/det/,Milt Plum,/players/P/PlumMi00.htm,Joe Schmidt,/coaches/SchmJo0.htm
+57,1966,Detroit Lions,Gilmer,Studstill,Sweetan,Nowatzke,Studstill,/teams/det/,Karl Sweetan,/players/S/SweeKa00.htm,Harry Gilmer,/coaches/GilmHa0.htm
+58,1965,Detroit Lions,Gilmer,Walker,Plum,Marsh,Barr,/teams/det/,Milt Plum,/players/P/PlumMi00.htm,Harry Gilmer,/coaches/GilmHa0.htm
+59,1964,Detroit Lions,Wilson,Walker,Plum,Pietrosante,Barr,/teams/det/,Milt Plum,/players/P/PlumMi00.htm,George Wilson,/coaches/WilsGe0.htm
+60,1963,Detroit Lions,Wilson,Brown,Morrall,Lewis,Barr,/teams/det/,Earl Morrall,/players/M/MorrEa00.htm,George Wilson,/coaches/WilsGe0.htm
+61,1962,Detroit Lions,Wilson,Lary,Plum,Lewis,Cogdill,/teams/det/,Milt Plum,/players/P/PlumMi00.htm,George Wilson,/coaches/WilsGe0.htm
+64,1961,Detroit Lions,Wilson,Lane,Ninowski,Pietrosante,Cogdill,/teams/det/,Jim Ninowski,/players/N/NinoJi00.htm,George Wilson,/coaches/WilsGe0.htm
+65,1960,Detroit Lions,Wilson,Karras,Ninowski,Pietrosante,Cogdill,/teams/det/,Jim Ninowski,/players/N/NinoJi00.htm,George Wilson,/coaches/WilsGe0.htm
+66,1959,Detroit Lions,Wilson,,Morrall,Pietrosante,Gibbons,/teams/det/,Earl Morrall,/players/M/MorrEa00.htm,George Wilson,/coaches/WilsGe0.htm
+67,1958,Detroit Lions,Wilson,,Rote,Rote,Middleton,/teams/det/,Tobin Rote,/players/R/RoteTo00.htm,George Wilson,/coaches/WilsGe0.htm
+68,1957,Detroit Lions,Wilson,,Layne,Johnson,Doran,/teams/det/,Bobby Layne,/players/L/LaynBo00.htm,George Wilson,/coaches/WilsGe0.htm
+69,1956,Detroit Lions,Parker,,Layne,Gedman,Middleton,/teams/det/,Bobby Layne,/players/L/LaynBo00.htm,Buddy Parker,/coaches/ParkRa0.htm
+70,1955,Detroit Lions,Parker,,Layne,Carpenter,Middleton,/teams/det/,Bobby Layne,/players/L/LaynBo00.htm,Buddy Parker,/coaches/ParkRa0.htm
+71,1954,Detroit Lions,Parker,,Layne,Carpenter,Dibble,/teams/det/,Bobby Layne,/players/L/LaynBo00.htm,Buddy Parker,/coaches/ParkRa0.htm
+72,1953,Detroit Lions,Parker,,Layne,Hoernschemeyer,Walker,/teams/det/,Bobby Layne,/players/L/LaynBo00.htm,Buddy Parker,/coaches/ParkRa0.htm
+73,1952,Detroit Lions,Parker,,Layne,Hoernschemeyer,Box,/teams/det/,Bobby Layne,/players/L/LaynBo00.htm,Buddy Parker,/coaches/ParkRa0.htm
+74,1951,Detroit Lions,Parker,,Layne,Hoernschemeyer,Dibble,/teams/det/,Bobby Layne,/players/L/LaynBo00.htm,Buddy Parker,/coaches/ParkRa0.htm
+75,1950,Detroit Lions,McMillin,,Layne,Hoernschemeyer,Box,/teams/det/,Bobby Layne,/players/L/LaynBo00.htm,Bo McMillin,/coaches/McMiAl0.htm
+76,1949,Detroit Lions,McMillin,,Tripucka,Dudley,Mann,/teams/det/,Frank Tripucka,/players/T/TripFr00.htm,Bo McMillin,/coaches/McMiAl0.htm
+77,1948,Detroit Lions,McMillin,,Enke,Wilson,Greene,/teams/det/,Fred Enke,/players/E/EnkeFr20.htm,Bo McMillin,/coaches/McMiAl0.htm
+78,1947,Detroit Lions,Dorais,,LeForce,Wilson,Greene,/teams/det/,Clyde LeForce,/players/L/LeFoCl20.htm,Gus Dorais,/coaches/DoraGu0.htm
+79,1946,Detroit Lions,Dorais,,Ryan,Wilson,Greene,/teams/det/,Dave Ryan,/players/R/RyanDa20.htm,Gus Dorais,/coaches/DoraGu0.htm
+80,1945,Detroit Lions,Dorais,,Fenenbock,Westfall,Greene,/teams/det/,Chuck Fenenbock,/players/F/FeneCh20.htm,Gus Dorais,/coaches/DoraGu0.htm
+81,1944,Detroit Lions,Dorais,,Sinkwich,Sinkwich,Diehl,/teams/det/,Frankie Sinkwich,/players/S/SinkFr21.htm,Gus Dorais,/coaches/DoraGu0.htm
+82,1943,Detroit Lions,Dorais,,Sinkwich,Sinkwich,Hopp,/teams/det/,Frankie Sinkwich,/players/S/SinkFr21.htm,Gus Dorais,/coaches/DoraGu0.htm
+83,1942,Detroit Lions,"Karcis,Edwards",,Hopp,Sanzotta,Fisk,/teams/det/,Harry Hopp,/players/H/HoppHa20.htm,"Bull Karcis,Bill Edwards","/coaches/KarcBu0.htm,/coaches/EdwaBi0.htm"
+84,1941,Detroit Lions,Edwards,,White,White,White,/teams/det/,Whizzer White,/players/W/WhitWh00.htm,Bill Edwards,/coaches/EdwaBi0.htm
+85,1940,Detroit Lions,Clark,,White,White,Cardwell,/teams/det/,Whizzer White,/players/W/WhitWh00.htm,Potsy Clark,/coaches/ClarPo0.htm
+86,1939,Detroit Lions,Henderson,,Sloan,Shepherd,Hanneman,/teams/det/,Dwight Sloan,/players/S/SloaDw20.htm,Gus Henderson,/coaches/HendGu0.htm
+87,1938,Detroit Lions,Clark,,Huffman,Shepherd,Cardwell,/teams/det/,Vern Huffman,/players/H/HuffVe20.htm,Dutch Clark,/coaches/ClarDu0.htm
+88,1937,Detroit Lions,Clark,,Shepherd,Clark,Klewicki,/teams/det/,Bill Shepherd,/players/S/ShepBi20.htm,Dutch Clark,/coaches/ClarDu0.htm
+89,1936,Detroit Lions,Clark,,Clark,Gutowsky,Ebding,/teams/det/,Dutch Clark,/players/C/ClarDu20.htm,Potsy Clark,/coaches/ClarPo0.htm
+90,1935,Detroit Lions,Clark,,Presnell,Caddel,Caddel,/teams/det/,Glenn Presnell,/players/P/PresGl20.htm,Potsy Clark,/coaches/ClarPo0.htm
+91,1934,Detroit Lions,Clark,,Clark,Clark,Ebding,/teams/det/,Dutch Clark,/players/C/ClarDu20.htm,Potsy Clark,/coaches/ClarPo0.htm
+92,1933,Portsmouth Spartans,Clark,,Presnell,Presnell,Lumpkin,/teams/det/,Glenn Presnell,/players/P/PresGl20.htm,Potsy Clark,/coaches/ClarPo0.htm
+93,1932,Portsmouth Spartans,Clark,,Clark,Clark,Ebding,/teams/det/,Dutch Clark,/players/C/ClarDu20.htm,Potsy Clark,/coaches/ClarPo0.htm
+96,1931,Portsmouth Spartans,Clark,,,,,/teams/det/,,,Potsy Clark,/coaches/ClarPo0.htm
+97,1930,Portsmouth Spartans,Griffen,,,,,/teams/det/,,,Hal Griffen,/coaches/GrifHa0.htm

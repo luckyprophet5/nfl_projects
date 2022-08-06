@@ -1,0 +1,63 @@
+,season,team,coach,top_av_player,passer,rusher,receiver,franchise_code,passer_name,passer_url,coach_name,coach_url
+0,2021,Buffalo Bills,McDermott,Allen,Allen,Singletary,Diggs,/teams/buf/,Josh Allen,/players/A/AlleJo02.htm,Sean McDermott,/coaches/McDeSe0.htm
+1,2020,Buffalo Bills,McDermott,Allen,Allen,Singletary,Diggs,/teams/buf/,Josh Allen,/players/A/AlleJo02.htm,Sean McDermott,/coaches/McDeSe0.htm
+2,2019,Buffalo Bills,McDermott,White,Allen,Singletary,Brown,/teams/buf/,Josh Allen,/players/A/AlleJo02.htm,Sean McDermott,/coaches/McDeSe0.htm
+3,2018,Buffalo Bills,McDermott,Williams,Allen,Allen,Jones,/teams/buf/,Josh Allen,/players/A/AlleJo02.htm,Sean McDermott,/coaches/McDeSe0.htm
+4,2017,Buffalo Bills,McDermott,Taylor,Taylor,McCoy,Clay,/teams/buf/,Tyrod Taylor,/players/T/TaylTy00.htm,Sean McDermott,/coaches/McDeSe0.htm
+5,2016,Buffalo Bills,"Ryan,Lynn",Taylor,Taylor,McCoy,Woods,/teams/buf/,Tyrod Taylor,/players/T/TaylTy00.htm,"Rex Ryan,Anthony Lynn","/coaches/RyanRe0.htm,/coaches/LynnAn0.htm"
+6,2015,Buffalo Bills,Ryan,Taylor,Taylor,McCoy,Watkins,/teams/buf/,Tyrod Taylor,/players/T/TaylTy00.htm,Rex Ryan,/coaches/RyanRe0.htm
+7,2014,Buffalo Bills,Marrone,Williams,Orton,Jackson,Watkins,/teams/buf/,Kyle Orton,/players/O/OrtoKy00.htm,Doug Marrone,/coaches/MarrDo0.htm
+8,2013,Buffalo Bills,Marrone,Williams,Manuel,Spiller,Chandler,/teams/buf/,EJ Manuel,/players/M/ManuEJ00.htm,Doug Marrone,/coaches/MarrDo0.htm
+9,2012,Buffalo Bills,Gailey,Spiller,Fitzpatrick,Spiller,Johnson,/teams/buf/,Ryan Fitzpatrick,/players/F/FitzRy00.htm,Chan Gailey,/coaches/GailCh0.htm
+10,2011,Buffalo Bills,Gailey,Fitzpatrick,Fitzpatrick,Jackson,Johnson,/teams/buf/,Ryan Fitzpatrick,/players/F/FitzRy00.htm,Chan Gailey,/coaches/GailCh0.htm
+11,2010,Buffalo Bills,Gailey,Williams,Fitzpatrick,Jackson,Johnson,/teams/buf/,Ryan Fitzpatrick,/players/F/FitzRy00.htm,Chan Gailey,/coaches/GailCh0.htm
+12,2009,Buffalo Bills,"Jauron,Fewell",Schobel,Fitzpatrick,Jackson,Owens,/teams/buf/,Ryan Fitzpatrick,/players/F/FitzRy00.htm,"Dick Jauron,Perry Fewell","/coaches/JaurDi0.htm,/coaches/FewePe0.htm"
+13,2008,Buffalo Bills,Jauron,Peters,Edwards,Lynch,Evans,/teams/buf/,Trent Edwards,/players/E/EdwaTr01.htm,Dick Jauron,/coaches/JaurDi0.htm
+14,2007,Buffalo Bills,Jauron,Schobel,Edwards,Lynch,Evans,/teams/buf/,Trent Edwards,/players/E/EdwaTr01.htm,Dick Jauron,/coaches/JaurDi0.htm
+15,2006,Buffalo Bills,Jauron,Schobel,Losman,McGahee,Evans,/teams/buf/,J.P. Losman,/players/L/LosmJ.00.htm,Dick Jauron,/coaches/JaurDi0.htm
+16,2005,Buffalo Bills,Mularkey,McGee,Holcomb,McGahee,Moulds,/teams/buf/,Kelly Holcomb,/players/H/HolcKe00.htm,Mike Mularkey,/coaches/MulaMi0.htm
+17,2004,Buffalo Bills,Mularkey,Spikes,Bledsoe,McGahee,Moulds,/teams/buf/,Drew Bledsoe,/players/B/BledDr00.htm,Mike Mularkey,/coaches/MulaMi0.htm
+18,2003,Buffalo Bills,Williams,Spikes,Bledsoe,Henry,Moulds,/teams/buf/,Drew Bledsoe,/players/B/BledDr00.htm,Gregg Williams,/coaches/WillGr0.htm
+19,2002,Buffalo Bills,Williams,Bledsoe,Bledsoe,Henry,Moulds,/teams/buf/,Drew Bledsoe,/players/B/BledDr00.htm,Gregg Williams,/coaches/WillGr0.htm
+20,2001,Buffalo Bills,Williams,Brown,Van Pelt,Henry,Moulds,/teams/buf/,Alex Van Pelt,/players/V/VanPAl00.htm,Gregg Williams,/coaches/WillGr0.htm
+21,2000,Buffalo Bills,Phillips,Cowart,Johnson,Bryson,Moulds,/teams/buf/,Rob Johnson,/players/J/JohnRo00.htm,Wade Phillips,/coaches/PhilWa0.htm
+22,1999,Buffalo Bills,Phillips,Flutie,Flutie,Linton,Moulds,/teams/buf/,Doug Flutie,/players/F/FlutDo00.htm,Wade Phillips,/coaches/PhilWa0.htm
+23,1998,Buffalo Bills,Phillips,Moulds,Flutie,Smith,Moulds,/teams/buf/,Doug Flutie,/players/F/FlutDo00.htm,Wade Phillips,/coaches/PhilWa0.htm
+24,1997,Buffalo Bills,Levy,Smith,Collins,Smith,Reed,/teams/buf/,Todd Collins,/players/C/CollTo00.htm,Marv Levy,/coaches/LevyMa0.htm
+25,1996,Buffalo Bills,Levy,Smith,Kelly,Thomas,Reed,/teams/buf/,Jim Kelly,/players/K/KellJi00.htm,Marv Levy,/coaches/LevyMa0.htm
+26,1995,Buffalo Bills,Levy,Smith,Kelly,Thomas,Brooks,/teams/buf/,Jim Kelly,/players/K/KellJi00.htm,Marv Levy,/coaches/LevyMa0.htm
+27,1994,Buffalo Bills,Levy,Smith,Kelly,Thomas,Reed,/teams/buf/,Jim Kelly,/players/K/KellJi00.htm,Marv Levy,/coaches/LevyMa0.htm
+28,1993,Buffalo Bills,Levy,Smith,Kelly,Thomas,Reed,/teams/buf/,Jim Kelly,/players/K/KellJi00.htm,Marv Levy,/coaches/LevyMa0.htm
+29,1992,Buffalo Bills,Levy,Thomas,Kelly,Thomas,Reed,/teams/buf/,Jim Kelly,/players/K/KellJi00.htm,Marv Levy,/coaches/LevyMa0.htm
+32,1991,Buffalo Bills,Levy,Thomas,Kelly,Thomas,Reed,/teams/buf/,Jim Kelly,/players/K/KellJi00.htm,Marv Levy,/coaches/LevyMa0.htm
+33,1990,Buffalo Bills,Levy,Thomas,Kelly,Thomas,Reed,/teams/buf/,Jim Kelly,/players/K/KellJi00.htm,Marv Levy,/coaches/LevyMa0.htm
+34,1989,Buffalo Bills,Levy,Thomas,Kelly,Thomas,Reed,/teams/buf/,Jim Kelly,/players/K/KellJi00.htm,Marv Levy,/coaches/LevyMa0.htm
+35,1988,Buffalo Bills,Levy,Bennett,Kelly,Thomas,Reed,/teams/buf/,Jim Kelly,/players/K/KellJi00.htm,Marv Levy,/coaches/LevyMa0.htm
+36,1987,Buffalo Bills,Levy,Smith,Kelly,Harmon,Burkett,/teams/buf/,Jim Kelly,/players/K/KellJi00.htm,Marv Levy,/coaches/LevyMa0.htm
+37,1986,Buffalo Bills,"Levy,Bullough",Kelly,Kelly,Riddick,Burkett,/teams/buf/,Jim Kelly,/players/K/KellJi00.htm,"Marv Levy,Hank Bullough","/coaches/LevyMa0.htm,/coaches/BullHa0.htm"
+38,1985,Buffalo Bills,"Bullough,Stephenson",Bell,Ferragamo,Bell,Butler,/teams/buf/,Vince Ferragamo,/players/F/FerrVi00.htm,"Hank Bullough,Kay Stephenson","/coaches/BullHa0.htm,/coaches/StepKa0.htm"
+39,1984,Buffalo Bills,Stephenson,Bell,Ferguson,Bell,Franklin,/teams/buf/,Joe Ferguson,/players/F/FergJo00.htm,Kay Stephenson,/coaches/StepKa0.htm
+40,1983,Buffalo Bills,Stephenson,Smerlas,Ferguson,Cribbs,Cribbs,/teams/buf/,Joe Ferguson,/players/F/FergJo00.htm,Kay Stephenson,/coaches/StepKa0.htm
+41,1982,Buffalo Bills,Knox,Smerlas,Ferguson,Cribbs,Lewis,/teams/buf/,Joe Ferguson,/players/F/FergJo00.htm,Chuck Knox,/coaches/KnoxCh0.htm
+42,1981,Buffalo Bills,Knox,Cribbs,Ferguson,Cribbs,Lewis,/teams/buf/,Joe Ferguson,/players/F/FergJo00.htm,Chuck Knox,/coaches/KnoxCh0.htm
+43,1980,Buffalo Bills,Knox,Cribbs,Ferguson,Cribbs,Butler,/teams/buf/,Joe Ferguson,/players/F/FergJo00.htm,Chuck Knox,/coaches/KnoxCh0.htm
+44,1979,Buffalo Bills,Knox,Clark,Ferguson,Brown,Lewis,/teams/buf/,Joe Ferguson,/players/F/FergJo00.htm,Chuck Knox,/coaches/KnoxCh0.htm
+45,1978,Buffalo Bills,Knox,Miller,Ferguson,Miller,Lewis,/teams/buf/,Joe Ferguson,/players/F/FergJo00.htm,Chuck Knox,/coaches/KnoxCh0.htm
+46,1977,Buffalo Bills,Ringo,DeLamielleure,Ferguson,Simpson,Chandler,/teams/buf/,Joe Ferguson,/players/F/FergJo00.htm,Jim Ringo,/coaches/RingJi0.htm
+47,1976,Buffalo Bills,"Saban,Ringo",Simpson,Ferguson,Simpson,Chandler,/teams/buf/,Joe Ferguson,/players/F/FergJo00.htm,"Lou Saban,Jim Ringo","/coaches/SabaLo0.htm,/coaches/RingJi0.htm"
+48,1975,Buffalo Bills,Saban,Simpson,Ferguson,Simpson,Chandler,/teams/buf/,Joe Ferguson,/players/F/FergJo00.htm,Lou Saban,/coaches/SabaLo0.htm
+49,1974,Buffalo Bills,Saban,James,Ferguson,Simpson,Hill,/teams/buf/,Joe Ferguson,/players/F/FergJo00.htm,Lou Saban,/coaches/SabaLo0.htm
+50,1973,Buffalo Bills,Saban,Simpson,Ferguson,Simpson,Chandler,/teams/buf/,Joe Ferguson,/players/F/FergJo00.htm,Lou Saban,/coaches/SabaLo0.htm
+51,1972,Buffalo Bills,Saban,Simpson,Shaw,Simpson,Hill,/teams/buf/,Dennis Shaw,/players/S/ShawDe00.htm,Lou Saban,/coaches/SabaLo0.htm
+52,1971,Buffalo Bills,Johnson,Wyatt,Shaw,Simpson,Briscoe,/teams/buf/,Dennis Shaw,/players/S/ShawDe00.htm,Harvey Johnson,/coaches/JohnHa0.htm
+53,1970,Buffalo Bills,Rauch,Briscoe,Shaw,Simpson,Briscoe,/teams/buf/,Dennis Shaw,/players/S/ShawDe00.htm,John Rauch,/coaches/RaucJo0.htm
+54,1969,Buffalo Bills,Rauch,Byrd,Kemp,Simpson,Moses,/teams/buf/,Jack Kemp,/players/K/KempJa00.htm,John Rauch,/coaches/RaucJo0.htm
+55,1968,Buffalo Bills,"Johnson,Collier",Byrd,Darragh,Anderson,Moses,/teams/buf/,Dan Darragh,/players/D/DarrDa00.htm,"Harvey Johnson,Joe Collier","/coaches/JohnHa0.htm,/coaches/CollJo0.htm"
+56,1967,Buffalo Bills,Collier,Stratton,Kemp,Lincoln,Costa,/teams/buf/,Jack Kemp,/players/K/KempJa00.htm,Joe Collier,/coaches/CollJo0.htm
+57,1966,Buffalo Bills,Collier,Byrd,Kemp,Burnett,Dubenion,/teams/buf/,Jack Kemp,/players/K/KempJa00.htm,Joe Collier,/coaches/CollJo0.htm
+58,1965,Buffalo Bills,Saban,Stratton,Kemp,Carlton,Roberson,/teams/buf/,Jack Kemp,/players/K/KempJa00.htm,Lou Saban,/coaches/SabaLo0.htm
+59,1964,Buffalo Bills,Saban,Sestak,Kemp,Gilchrist,Dubenion,/teams/buf/,Jack Kemp,/players/K/KempJa00.htm,Lou Saban,/coaches/SabaLo0.htm
+60,1963,Buffalo Bills,Saban,Sestak,Kemp,Gilchrist,Dubenion,/teams/buf/,Jack Kemp,/players/K/KempJa00.htm,Lou Saban,/coaches/SabaLo0.htm
+61,1962,Buffalo Bills,Saban,Matuszak,Rabb,Gilchrist,Dubenion,/teams/buf/,Warren Rabb,/players/R/RabbWa00.htm,Lou Saban,/coaches/SabaLo0.htm
+64,1961,Buffalo Bills,Ramsey,Atkins,Reynolds,Baker,Bass,/teams/buf/,M.C. Reynolds,/players/R/ReynM.00.htm,Buster Ramsey,/coaches/RamsGa0.htm
+65,1960,Buffalo Bills,Ramsey,Matsos,Green,Carlton,Dubenion,/teams/buf/,Johnny Green,/players/G/GreeJo00.htm,Buster Ramsey,/coaches/RamsGa0.htm

@@ -1,0 +1,62 @@
+,season,team,coach,top_av_player,passer,rusher,receiver,franchise_code,passer_name,passer_url,coach_name,coach_url
+0,2021,Minnesota Vikings,Zimmer,Jefferson,Cousins,Cook,Jefferson,/teams/min/,Kirk Cousins,/players/C/CousKi00.htm,Mike Zimmer,/coaches/ZimmMi0.htm
+1,2020,Minnesota Vikings,Zimmer,Cousins,Cousins,Cook,Jefferson,/teams/min/,Kirk Cousins,/players/C/CousKi00.htm,Mike Zimmer,/coaches/ZimmMi0.htm
+2,2019,Minnesota Vikings,Zimmer,Kendricks,Cousins,Cook,Diggs,/teams/min/,Kirk Cousins,/players/C/CousKi00.htm,Mike Zimmer,/coaches/ZimmMi0.htm
+3,2018,Minnesota Vikings,Zimmer,Hunter,Cousins,Cook,Thielen,/teams/min/,Kirk Cousins,/players/C/CousKi00.htm,Mike Zimmer,/coaches/ZimmMi0.htm
+4,2017,Minnesota Vikings,Zimmer,Griffen,Keenum,Murray,Thielen,/teams/min/,Case Keenum,/players/K/KeenCa00.htm,Mike Zimmer,/coaches/ZimmMi0.htm
+5,2016,Minnesota Vikings,Zimmer,Griffen,Bradford,McKinnon,Thielen,/teams/min/,Sam Bradford,/players/B/BradSa00.htm,Mike Zimmer,/coaches/ZimmMi0.htm
+6,2015,Minnesota Vikings,Zimmer,Bridgewater,Bridgewater,Peterson,Diggs,/teams/min/,Teddy Bridgewater,/players/B/BridTe00.htm,Mike Zimmer,/coaches/ZimmMi0.htm
+7,2014,Minnesota Vikings,Zimmer,Griffen,Bridgewater,Asiata,Jennings,/teams/min/,Teddy Bridgewater,/players/B/BridTe00.htm,Mike Zimmer,/coaches/ZimmMi0.htm
+8,2013,Minnesota Vikings,Frazier,Peterson,Cassel,Peterson,Jennings,/teams/min/,Matt Cassel,/players/C/CassMa00.htm,Leslie Frazier,/coaches/FrazLe0.htm
+9,2012,Minnesota Vikings,Frazier,Peterson,Ponder,Peterson,Harvin,/teams/min/,Christian Ponder,/players/P/PondCh00.htm,Leslie Frazier,/coaches/FrazLe0.htm
+10,2011,Minnesota Vikings,Frazier,Allen,Ponder,Peterson,Harvin,/teams/min/,Christian Ponder,/players/P/PondCh00.htm,Leslie Frazier,/coaches/FrazLe0.htm
+11,2010,Minnesota Vikings,"Frazier,Childress",Peterson,Favre,Peterson,Harvin,/teams/min/,Brett Favre,/players/F/FavrBr00.htm,"Leslie Frazier,Brad Childress","/coaches/FrazLe0.htm,/coaches/ChilBr0.htm"
+12,2009,Minnesota Vikings,Childress,Hutchinson,Favre,Peterson,Rice,/teams/min/,Brett Favre,/players/F/FavrBr00.htm,Brad Childress,/coaches/ChilBr0.htm
+13,2008,Minnesota Vikings,Childress,Allen,Frerotte,Peterson,Berrian,/teams/min/,Gus Frerotte,/players/F/FrerGu00.htm,Brad Childress,/coaches/ChilBr0.htm
+14,2007,Minnesota Vikings,Childress,Williams,Jackson,Peterson,Wade,/teams/min/,Tarvaris Jackson,/players/J/JackTa00.htm,Brad Childress,/coaches/ChilBr0.htm
+15,2006,Minnesota Vikings,Childress,Williams,Johnson,Taylor,Taylor,/teams/min/,Brad Johnson,/players/J/JohnBr00.htm,Brad Childress,/coaches/ChilBr0.htm
+16,2005,Minnesota Vikings,Tice,Sharper,Johnson,Moore,Taylor,/teams/min/,Brad Johnson,/players/J/JohnBr00.htm,Mike Tice,/coaches/TiceMi0.htm
+17,2004,Minnesota Vikings,Tice,Culpepper,Culpepper,Smith,Burleson,/teams/min/,Daunte Culpepper,/players/C/CulpDa00.htm,Mike Tice,/coaches/TiceMi0.htm
+18,2003,Minnesota Vikings,Tice,Moss,Culpepper,Williams,Moss,/teams/min/,Daunte Culpepper,/players/C/CulpDa00.htm,Mike Tice,/coaches/TiceMi0.htm
+19,2002,Minnesota Vikings,Tice,Culpepper,Culpepper,Bennett,Moss,/teams/min/,Daunte Culpepper,/players/C/CulpDa00.htm,Mike Tice,/coaches/TiceMi0.htm
+20,2001,Minnesota Vikings,"Green,Tice",Moss,Culpepper,Bennett,Moss,/teams/min/,Daunte Culpepper,/players/C/CulpDa00.htm,"Dennis Green,Mike Tice","/coaches/GreeDe0.htm,/coaches/TiceMi0.htm"
+21,2000,Minnesota Vikings,Green,Culpepper,Culpepper,Smith,Moss,/teams/min/,Daunte Culpepper,/players/C/CulpDa00.htm,Dennis Green,/coaches/GreeDe0.htm
+22,1999,Minnesota Vikings,Green,Moss,George,Smith,Moss,/teams/min/,Jeff George,/players/G/GeorJe00.htm,Dennis Green,/coaches/GreeDe0.htm
+23,1998,Minnesota Vikings,Green,Cunningham,Cunningham,Smith,Moss,/teams/min/,Randall Cunningham,/players/C/CunnRa00.htm,Dennis Green,/coaches/GreeDe0.htm
+24,1997,Minnesota Vikings,Green,Randle,Johnson,Smith,Reed,/teams/min/,Brad Johnson,/players/J/JohnBr00.htm,Dennis Green,/coaches/GreeDe0.htm
+25,1996,Minnesota Vikings,Green,Randle,Johnson,Smith,Reed,/teams/min/,Brad Johnson,/players/J/JohnBr00.htm,Dennis Green,/coaches/GreeDe0.htm
+26,1995,Minnesota Vikings,Green,McDaniel,Moon,Smith,Carter,/teams/min/,Warren Moon,/players/M/MoonWa00.htm,Dennis Green,/coaches/GreeDe0.htm
+27,1994,Minnesota Vikings,Green,Randle,Moon,Allen,Carter,/teams/min/,Warren Moon,/players/M/MoonWa00.htm,Dennis Green,/coaches/GreeDe0.htm
+28,1993,Minnesota Vikings,Green,Randle,McMahon,Graham,Carter,/teams/min/,Jim McMahon,/players/M/McMaJi00.htm,Dennis Green,/coaches/GreeDe0.htm
+29,1992,Minnesota Vikings,Green,Doleman,Gannon,Allen,Carter,/teams/min/,Rich Gannon,/players/G/GannRi00.htm,Dennis Green,/coaches/GreeDe0.htm
+32,1991,Minnesota Vikings,Burns,McDaniel,Gannon,Walker,Carter,/teams/min/,Rich Gannon,/players/G/GannRi00.htm,Jerry Burns,/coaches/BurnJe0.htm
+33,1990,Minnesota Vikings,Burns,Browner,Gannon,Walker,Carter,/teams/min/,Rich Gannon,/players/G/GannRi00.htm,Jerry Burns,/coaches/BurnJe0.htm
+34,1989,Minnesota Vikings,Burns,Doleman,Wilson,Walker,Carter,/teams/min/,Wade Wilson,/players/W/WilsWa00.htm,Jerry Burns,/coaches/BurnJe0.htm
+35,1988,Minnesota Vikings,Burns,Lee,Wilson,Nelson,Carter,/teams/min/,Wade Wilson,/players/W/WilsWa00.htm,Jerry Burns,/coaches/BurnJe0.htm
+36,1987,Minnesota Vikings,Burns,Zimmerman,Wilson,Nelson,Carter,/teams/min/,Wade Wilson,/players/W/WilsWa00.htm,Jerry Burns,/coaches/BurnJe0.htm
+37,1986,Minnesota Vikings,Burns,Nelson,Kramer,Nelson,Jordan,/teams/min/,Tommy Kramer,/players/K/KramTo00.htm,Jerry Burns,/coaches/BurnJe0.htm
+38,1985,Minnesota Vikings,Grant,Kramer,Kramer,Nelson,Carter,/teams/min/,Tommy Kramer,/players/K/KramTo00.htm,Bud Grant,/coaches/GranBu0.htm
+39,1984,Minnesota Vikings,Steckel,Tausch,Kramer,Anderson,Lewis,/teams/min/,Tommy Kramer,/players/K/KramTo00.htm,Les Steckel,/coaches/StecLe0.htm
+40,1983,Minnesota Vikings,Grant,Blair,Dils,Nelson,Nelson,/teams/min/,Steve Dils,/players/D/DilsSt00.htm,Bud Grant,/coaches/GranBu0.htm
+41,1982,Minnesota Vikings,Grant,Blair,Kramer,Brown,White,/teams/min/,Tommy Kramer,/players/K/KramTo00.htm,Bud Grant,/coaches/GranBu0.htm
+42,1981,Minnesota Vikings,Grant,Brown,Kramer,Brown,Senser,/teams/min/,Tommy Kramer,/players/K/KramTo00.htm,Bud Grant,/coaches/GranBu0.htm
+43,1980,Minnesota Vikings,Grant,Blair,Kramer,Brown,Rashad,/teams/min/,Tommy Kramer,/players/K/KramTo00.htm,Bud Grant,/coaches/GranBu0.htm
+44,1979,Minnesota Vikings,Grant,Blair,Kramer,Young,Rashad,/teams/min/,Tommy Kramer,/players/K/KramTo00.htm,Bud Grant,/coaches/GranBu0.htm
+45,1978,Minnesota Vikings,Grant,Tarkenton,Tarkenton,Foreman,Rashad,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Bud Grant,/coaches/GranBu0.htm
+46,1977,Minnesota Vikings,Grant,Foreman,Tarkenton,Foreman,White,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Bud Grant,/coaches/GranBu0.htm
+47,1976,Minnesota Vikings,Grant,Foreman,Tarkenton,Foreman,White,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Bud Grant,/coaches/GranBu0.htm
+48,1975,Minnesota Vikings,Grant,Foreman,Tarkenton,Foreman,Gilliam,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Bud Grant,/coaches/GranBu0.htm
+49,1974,Minnesota Vikings,Grant,Yary,Tarkenton,Foreman,Lash,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Bud Grant,/coaches/GranBu0.htm
+50,1973,Minnesota Vikings,Grant,Eller,Tarkenton,Foreman,Gilliam,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Bud Grant,/coaches/GranBu0.htm
+51,1972,Minnesota Vikings,Grant,Yary,Tarkenton,Reed,Gilliam,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Bud Grant,/coaches/GranBu0.htm
+52,1971,Minnesota Vikings,Grant,Page,Cuozzo,Jones,Grim,/teams/min/,Gary Cuozzo,/players/C/CuozGa00.htm,Bud Grant,/coaches/GranBu0.htm
+53,1970,Minnesota Vikings,Grant,Page,Cuozzo,Osborn,Washington,/teams/min/,Gary Cuozzo,/players/C/CuozGa00.htm,Bud Grant,/coaches/GranBu0.htm
+54,1969,Minnesota Vikings,Grant,Page,Kapp,Osborn,Washington,/teams/min/,Joe Kapp,/players/K/KappJo00.htm,Bud Grant,/coaches/GranBu0.htm
+55,1968,Minnesota Vikings,Grant,Eller,Kapp,Brown,Washington,/teams/min/,Joe Kapp,/players/K/KappJo00.htm,Bud Grant,/coaches/GranBu0.htm
+56,1967,Minnesota Vikings,Grant,Osborn,Kapp,Osborn,Washington,/teams/min/,Joe Kapp,/players/K/KappJo00.htm,Bud Grant,/coaches/GranBu0.htm
+57,1966,Minnesota Vikings,Van Brocklin,Tingelhoff,Tarkenton,Brown,Flatley,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Norm Van Brocklin,/coaches/VanBNo0.htm
+58,1965,Minnesota Vikings,Van Brocklin,Tarkenton,Tarkenton,Brown,Flatley,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Norm Van Brocklin,/coaches/VanBNo0.htm
+59,1964,Minnesota Vikings,Van Brocklin,Brown,Tarkenton,Brown,Brown,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Norm Van Brocklin,/coaches/VanBNo0.htm
+60,1963,Minnesota Vikings,Van Brocklin,Mason,Tarkenton,Mason,Flatley,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Norm Van Brocklin,/coaches/VanBNo0.htm
+61,1962,Minnesota Vikings,Van Brocklin,Tarkenton,Tarkenton,Mason,Mason,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Norm Van Brocklin,/coaches/VanBNo0.htm
+64,1961,Minnesota Vikings,Van Brocklin,Tarkenton,Tarkenton,McElhenny,Reichow,/teams/min/,Fran Tarkenton,/players/T/TarkFr00.htm,Norm Van Brocklin,/coaches/VanBNo0.htm

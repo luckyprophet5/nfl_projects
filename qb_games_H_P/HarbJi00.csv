@@ -1,0 +1,227 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Unnamed: 8_level_0,Unnamed: 9_level_0,Unnamed: 10_level_0,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Receiving,Receiving,Receiving,Receiving,Receiving,Receiving,Receiving,Scoring,Scoring,Fumbles,Fumbles,Fumbles,Fumbles,Fumbles,Fumbles,Unnamed: 41_level_0,qb,qb_tag
+,Rk,Year,Date,G#,Week,Age,Tm,Unnamed: 7_level_1,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds.1,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,,
+0,1,1987,1987-09-14,1,1,23.265,CHI,,NYG,W 34-19,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Jim Harbaugh,HarbJi00
+1,2,1987,1987-09-20,2,2,23.271,CHI,,TAM,W 20-3,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Jim Harbaugh,HarbJi00
+2,3,1987,1987-10-25,6,7,23.306,CHI,@,TAM,W 27-26,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Jim Harbaugh,HarbJi00
+3,4,1987,1987-11-22,10,11,23.334,CHI,,DET,W 30-10,,0,0,,0,0,0,,1,15,,,0,0,,0,,0,0,,0,,,0,0,,,,,,,,Jim Harbaugh,HarbJi00
+4,5,1987,1987-12-14,13,14,23.356,CHI,@,SFO,L 0-41,,8,11,72.73,62,0,0,86.2,3,30,5.64,5.64,3,15,5.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+5,6,1987,1987-12-27,15,16,24.004,CHI,@,RAI,W 6-3,,0,0,,0,0,0,,0,,,,1,0,0.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+6,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+7,7,1988,1988-09-18,3,3,24.270,CHI,,MIN,L 7-31,,4,9,44.44,38,0,0,56.7,1,13,4.22,4.22,1,12,12.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+8,8,1988,1988-10-09,6,6,24.291,CHI,@,DET,W 24-7,,2,3,66.67,10,0,0,71.5,0,0,3.33,3.33,0,0,,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+9,9,1988,1988-10-16,7,7,24.298,CHI,,DAL,W 17-7,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Jim Harbaugh,HarbJi00
+10,10,1988,1988-10-24,8,8,24.306,CHI,,SFO,W 10-9,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,,,0,0,,,,,,,,Jim Harbaugh,HarbJi00
+11,11,1988,1988-10-30,9,9,24.312,CHI,@,NWE,L 7-30,,0,5,0.00,0,0,0,39.6,0,0,0.00,0.00,1,5,5.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+12,12,1988,1988-11-13,11,11,24.326,CHI,@,WAS,W 34-14,,1,1,100.00,56,0,0,118.7,0,0,56.00,56.00,1,-2,-2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+13,13,1988,1988-11-20,12,12,24.333,CHI,@,TAM,W 27-15,,1,4,25.00,30,0,0,58.3,1,9,7.50,7.50,1,8,8.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+14,14,1988,1988-11-27,13,13,24.340,CHI,,GNB,W 16-0,,10,19,52.63,98,0,0,67.4,1,12,5.16,5.16,2,19,9.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+15,15,1988,1988-12-05,14,14,24.348,CHI,@,RAM,L 3-23,*,11,30,36.67,108,0,2,19.9,2,9,3.60,0.60,6,32,5.33,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+16,16,1988,1988-12-11,15,15,24.354,CHI,,DET,W 13-12,*,18,26,69.23,174,0,0,87.7,1,6,6.69,6.69,7,36,5.14,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+17,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+18,17,1989,1989-09-17,2,2,25.268,CHI,,MIN,W 38-7,,0,0,,0,0,0,,0,,,,1,-1,-1.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+19,18,1989,1989-09-24,3,3,25.275,CHI,@,DET,W 47-27,,1,1,100.00,21,0,0,118.7,0,0,21.00,21.00,3,3,1.00,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+20,19,1989,1989-10-08,5,5,25.289,CHI,@,TAM,L 35-42,,6,8,75.00,65,0,0,98.4,1,5,8.13,8.13,3,34,11.33,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+21,20,1989,1989-10-23,7,7,25.304,CHI,@,CLE,L 7-27,,9,16,56.25,93,1,0,94.0,1,9,5.81,7.06,3,7,2.33,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+22,21,1989,1989-10-29,8,8,25.310,CHI,,RAM,W 20-10,,10,13,76.92,157,0,0,116.5,2,9,12.08,12.08,5,31,6.20,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+23,22,1989,1989-11-05,9,9,25.317,CHI,@,GNB,L 13-14,*,16,30,53.33,203,0,0,74.7,2,15,6.77,6.77,3,29,9.67,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+24,23,1989,1989-11-12,10,10,25.324,CHI,@,PIT,W 20-0,*,13,25,52.00,125,1,1,62.9,2,1,5.00,4.00,7,56,8.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+25,24,1989,1989-11-19,11,11,25.331,CHI,,TAM,L 31-32,*,12,24,50.00,126,0,3,26.0,3,16,5.25,-0.38,3,6,2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+26,25,1989,1989-12-03,13,13,25.345,CHI,@,MIN,L 16-27,,0,0,,0,0,0,,1,2,,,0,0,,0,,0,0,,0,,,0,0,,,,,,,,Jim Harbaugh,HarbJi00
+27,26,1989,1989-12-10,14,14,25.352,CHI,,DET,L 17-27,,21,29,72.41,179,0,1,73.8,4,41,6.17,4.62,8,61,7.63,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+28,27,1989,1989-12-17,15,15,25.359,CHI,,GNB,L 28-40,*,20,28,71.43,205,3,3,88.2,2,8,7.32,4.64,2,6,3.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+29,28,1989,1989-12-24,16,16,26.001,CHI,@,SFO,L 0-26,*,3,4,75.00,30,0,1,56.2,0,0,7.50,-3.75,7,44,6.29,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+30,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+31,29,1990,1990-09-09,1,1,26.260,CHI,,SEA,W 17-0,*,21,29,72.41,203,0,1,77.2,1,8,7.00,5.45,4,13,3.25,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+32,30,1990,1990-09-16,2,2,26.267,CHI,@,GNB,W 31-13,*,11,14,78.57,161,2,1,124.4,2,4,11.50,11.14,3,8,2.67,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+33,31,1990,1990-09-23,3,3,26.274,CHI,,MIN,W 19-16,*,5,16,31.25,43,0,1,14.6,1,3,2.69,-0.13,4,29,7.25,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+34,32,1990,1990-09-30,4,4,26.281,CHI,@,RAI,L 10-24,*,8,18,44.44,149,1,0,92.1,4,51,8.28,9.39,3,20,6.67,0,,0,0,,0,,,0,0,1,,0,1,0,0,,Jim Harbaugh,HarbJi00
+35,33,1990,1990-10-07,5,5,26.288,CHI,,GNB,W 27-13,*,6,8,75.00,73,0,0,102.6,1,1,9.13,9.13,2,9,4.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+36,34,1990,1990-10-14,6,6,26.295,CHI,,RAM,W 38-9,*,18,25,72.00,248,2,0,130.1,0,0,9.92,11.52,3,16,5.33,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+37,35,1990,1990-10-28,7,8,26.309,CHI,@,PHO,W 31-21,*,9,14,64.29,166,1,1,99.1,1,7,11.86,10.07,5,24,4.80,1,,0,0,,0,,,1,6,1,,0,1,0,0,,Jim Harbaugh,HarbJi00
+38,36,1990,1990-11-04,8,9,26.316,CHI,@,TAM,W 26-6,*,14,23,60.87,213,1,0,105.9,3,22,9.26,10.13,4,27,6.75,0,,0,0,,0,,,0,0,2,,0,0,0,0,,Jim Harbaugh,HarbJi00
+39,37,1990,1990-11-11,9,10,26.323,CHI,,ATL,W 30-24,*,14,28,50.00,195,1,0,84.7,1,8,6.96,7.68,6,47,7.83,0,,0,0,,0,,,0,0,1,,0,0,-4,0,,Jim Harbaugh,HarbJi00
+40,38,1990,1990-11-18,10,11,26.330,CHI,@,DEN,W 16-13,*,13,28,46.43,147,0,0,62.6,2,8,5.25,5.25,4,36,9.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+41,39,1990,1990-11-25,11,12,26.337,CHI,@,MIN,L 13-41,*,17,26,65.38,157,1,0,94.6,7,41,6.04,6.81,0,0,,0,,0,0,,0,,,0,0,3,,0,1,0,0,,Jim Harbaugh,HarbJi00
+42,40,1990,1990-12-02,12,13,26.344,CHI,,DET,W 23-17,*,23,39,58.97,208,1,0,82.0,2,11,5.33,5.85,5,47,9.40,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+43,41,1990,1990-12-09,13,14,26.351,CHI,@,WAS,L 9-10,*,17,33,51.52,187,0,2,43.4,2,6,5.67,2.94,6,30,5.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+44,42,1990,1990-12-16,14,15,26.358,CHI,@,DET,L 21-38,*,4,11,36.36,28,0,0,44.9,4,36,2.55,2.55,2,15,7.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+45,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+46,43,1991,1991-09-01,1,1,27.252,CHI,,MIN,W 10-6,*,17,24,70.83,186,1,0,107.3,0,0,7.75,8.58,2,4,2.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+47,44,1991,1991-09-08,2,2,27.259,CHI,@,TAM,W 21-20,*,13,20,65.00,153,2,1,100.6,1,6,7.65,7.40,5,24,4.80,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+48,45,1991,1991-09-15,3,3,27.266,CHI,,NYG,W 20-17,*,15,25,60.00,221,1,1,85.6,2,15,8.84,7.84,4,26,6.50,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+49,46,1991,1991-09-23,4,4,27.274,CHI,,NYJ,W 19-13,*,28,42,66.67,303,1,0,95.6,2,14,7.21,7.69,6,12,2.00,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+50,47,1991,1991-09-29,5,5,27.280,CHI,@,BUF,L 20-35,*,17,35,48.57,203,0,1,54.8,0,0,5.80,4.51,3,16,5.33,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+51,48,1991,1991-10-06,6,6,27.287,CHI,,WAS,L 7-20,*,17,41,41.46,206,0,3,27.1,1,7,5.02,1.73,7,36,5.14,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+52,49,1991,1991-10-17,7,8,27.298,CHI,@,GNB,W 10-0,*,18,29,62.07,142,1,1,71.3,2,5,4.90,4.03,6,29,4.83,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+53,50,1991,1991-10-27,8,9,27.308,CHI,@,NOR,W 20-17,*,5,22,22.73,61,1,2,16.9,3,25,2.77,-0.41,5,24,4.80,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+54,51,1991,1991-11-03,9,10,27.315,CHI,,DET,W 20-10,*,17,31,54.84,205,2,0,96.8,3,18,6.61,7.90,3,5,1.67,0,,0,0,,0,,,0,0,2,,0,0,-3,0,,Jim Harbaugh,HarbJi00
+55,52,1991,1991-11-11,10,11,27.323,CHI,@,MIN,W 34-17,*,18,27,66.67,180,1,1,82.3,0,0,6.67,5.74,5,8,1.60,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+56,53,1991,1991-11-17,11,12,27.329,CHI,@,IND,W 31-17,*,18,32,56.25,287,2,1,94.1,3,14,8.97,8.81,2,7,3.50,1,,0,0,,0,,,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+57,54,1991,1991-11-24,12,13,27.336,CHI,,MIA,L 13-16,*,25,40,62.50,210,0,0,76.0,1,6,5.25,5.25,4,24,6.00,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+58,55,1991,1991-11-28,13,14,27.340,CHI,@,DET,L 6-16,*,27,47,57.45,244,0,4,36.1,1,13,5.19,1.36,6,40,6.67,0,,0,0,,0,,,0,0,3,,0,0,0,0,,Jim Harbaugh,HarbJi00
+59,56,1991,1991-12-08,14,15,27.350,CHI,,GNB,W 27-13,*,16,25,64.00,209,2,1,100.2,2,14,8.36,8.16,4,19,4.75,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+60,57,1991,1991-12-14,15,16,27.356,CHI,,TAM,W 27-0,*,7,14,50.00,99,0,0,73.2,2,18,7.07,7.07,3,16,5.33,0,,0,0,,0,,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+61,58,1991,1991-12-23,16,17,28.000,CHI,@,SFO,L 14-52,*,17,24,70.83,212,1,0,111.8,1,8,8.83,9.67,5,48,9.60,0,,0,0,,0,,,0,0,1,,0,0,0,0,,Jim Harbaugh,HarbJi00
+62,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+63,59,1992,1992-09-06,1,1,28.258,CHI,,DET,W 27-24,*,19,30,63.33,227,2,0,108.6,0,0,7.57,8.90,4,28,7.00,0,,0,0,,0,0.0%,,0,0,0,,0,1,0,0,,Jim Harbaugh,HarbJi00
+64,60,1992,1992-09-13,2,2,28.265,CHI,@,NOR,L 6-28,*,25,45,55.56,260,0,2,53.9,2,20,5.78,3.78,4,37,9.25,0,,0,0,,0,0.0%,,0,0,1,,0,0,0,0,,Jim Harbaugh,HarbJi00
+65,61,1992,1992-09-21,3,3,28.273,CHI,,NYG,L 14-27,*,17,28,60.71,183,2,1,88.8,1,8,6.54,6.36,1,10,10.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+66,62,1992,1992-09-27,4,4,28.279,CHI,,ATL,W 41-31,*,18,24,75.00,280,2,0,141.0,2,8,11.67,13.33,5,21,4.20,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+67,63,1992,1992-10-04,5,5,28.286,CHI,@,MIN,L 20-21,*,20,34,58.82,201,1,2,61.0,1,12,5.91,3.85,3,24,8.00,1,,0,0,,0,0.0%,,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+68,64,1992,1992-10-18,6,7,28.300,CHI,,TAM,W 31-14,*,13,26,50.00,304,2,1,102.1,2,6,11.69,11.50,3,17,5.67,0,,0,0,,0,0.0%,,0,0,1,,0,0,0,0,,Jim Harbaugh,HarbJi00
+69,65,1992,1992-10-25,7,8,28.307,CHI,@,GNB,W 30-10,*,16,23,69.57,194,1,0,109.7,2,11,8.43,9.30,8,24,3.00,0,,0,0,,0,0.0%,,0,0,0,,0,1,0,0,,Jim Harbaugh,HarbJi00
+70,66,1992,1992-11-02,8,9,28.315,CHI,,MIN,L 10-38,*,16,24,66.67,149,0,2,48.8,4,24,6.21,2.46,4,22,5.50,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+71,67,1992,1992-11-08,9,10,28.321,CHI,,CIN,L 28-31,*,11,28,39.29,168,1,2,42.0,4,19,6.00,3.50,6,40,6.67,0,,0,0,,0,0.0%,,0,0,1,,0,1,0,0,,Jim Harbaugh,HarbJi00
+72,68,1992,1992-11-15,10,11,28.328,CHI,@,TAM,L 17-20,*,17,33,51.52,225,1,0,83.5,3,14,6.82,7.42,3,10,3.33,0,,0,0,,0,0.0%,,0,0,2,,0,0,0,0,,Jim Harbaugh,HarbJi00
+73,69,1992,1992-11-22,11,12,28.335,CHI,,GNB,L 3-17,*,8,18,44.44,97,0,1,38.4,1,6,5.39,2.89,0,0,,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+74,70,1992,1992-11-29,12,13,28.342,CHI,@,CLE,L 14-27,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Jim Harbaugh,HarbJi00
+75,71,1992,1992-12-07,13,14,28.350,CHI,@,HOU,L 7-24,,0,0,,0,0,0,,1,2,,,0,0,,0,,0,0,,0,0.0%,,0,0,0,,,0,0,0,,Jim Harbaugh,HarbJi00
+76,72,1992,1992-12-13,14,15,28.356,CHI,,PIT,W 30-6,*,11,21,52.38,90,1,0,79.5,4,19,4.29,5.24,3,16,5.33,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+77,73,1992,1992-12-20,15,16,28.363,CHI,@,DET,L 3-16,*,11,24,45.83,108,0,1,41.7,4,18,4.50,2.63,3,23,7.67,0,,0,0,,0,0.0%,,0,0,1,,0,0,0,0,,Jim Harbaugh,HarbJi00
+78,74,1992,1992-12-27,16,17,29.004,CHI,@,DAL,L 14-27,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Jim Harbaugh,HarbJi00
+79,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+80,75,1993,1993-09-05,1,1,29.256,CHI,,NYG,L 20-26,*,16,28,57.14,178,1,1,73.2,4,12,6.36,5.46,3,19,6.33,0,,0,0,,0,0.0%,,0,0,3,,0,1,0,0,,Jim Harbaugh,HarbJi00
+81,76,1993,1993-09-12,2,2,29.263,CHI,@,MIN,L 7-10,*,11,20,55.00,83,0,1,44.4,4,31,4.15,1.90,6,32,5.33,1,,0,0,,0,0.0%,,1,6,1,,0,0,0,0,,Jim Harbaugh,HarbJi00
+82,77,1993,1993-09-26,3,4,29.277,CHI,,TAM,W 47-17,*,17,22,77.27,192,2,0,133.1,2,14,8.73,10.55,3,2,0.67,1,,0,0,,0,0.0%,,1,6,2,,0,1,0,0,,Jim Harbaugh,HarbJi00
+83,78,1993,1993-10-03,4,5,29.284,CHI,,ATL,W 6-0,*,16,23,69.57,122,0,0,82.2,1,8,5.30,5.30,4,10,2.50,0,,0,0,,0,0.0%,,0,0,1,,0,0,0,0,,Jim Harbaugh,HarbJi00
+84,79,1993,1993-10-10,5,6,29.291,CHI,@,PHI,W 17-6,*,14,27,51.85,165,1,1,67.7,1,6,6.11,5.19,7,35,5.00,1,,0,0,,0,0.0%,,1,6,1,,0,1,0,0,,Jim Harbaugh,HarbJi00
+85,80,1993,1993-10-25,6,8,29.306,CHI,,MIN,L 12-19,*,20,31,64.52,202,0,2,56.1,9,43,6.52,3.61,4,29,7.25,0,,0,0,,0,0.0%,,0,0,1,,0,0,0,0,,Jim Harbaugh,HarbJi00
+86,81,1993,1993-10-31,7,9,29.312,CHI,@,GNB,L 3-17,*,15,19,78.95,149,0,0,99.3,7,37,7.84,7.84,3,26,8.67,0,,0,0,,0,0.0%,,0,0,1,,0,0,0,0,,Jim Harbaugh,HarbJi00
+87,82,1993,1993-11-07,8,10,29.319,CHI,,RAI,L 14-16,*,12,24,50.00,140,1,1,64.6,1,3,5.83,4.79,4,35,8.75,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+88,83,1993,1993-11-14,9,11,29.326,CHI,@,SDG,W 16-13,*,13,24,54.17,159,1,1,71.4,2,19,6.63,5.58,4,3,0.75,0,,0,0,,0,0.0%,,0,0,1,,0,0,0,0,,Jim Harbaugh,HarbJi00
+89,84,1993,1993-11-21,10,12,29.333,CHI,@,KAN,W 19-17,*,13,20,65.00,98,0,2,37.1,1,2,4.90,0.40,8,56,7.00,0,,0,0,,0,0.0%,,0,0,1,,0,0,0,0,,Jim Harbaugh,HarbJi00
+90,85,1993,1993-11-25,11,13,29.337,CHI,@,DET,W 10-6,*,9,16,56.25,123,1,1,75.8,4,10,7.69,6.13,3,-2,-0.67,0,1,1,1,1.00,0,100.0%,1.00,0,0,1,,0,0,0,0,,Jim Harbaugh,HarbJi00
+91,86,1993,1993-12-05,12,14,29.347,CHI,,GNB,W 30-17,*,10,20,50.00,141,0,1,52.3,1,0,7.05,4.80,2,0,0.00,0,,0,0,,0,0.0%,,0,0,1,,0,1,0,0,,Jim Harbaugh,HarbJi00
+92,87,1993,1993-12-12,13,15,29.354,CHI,@,TAM,L 10-13,*,11,18,61.11,81,0,0,71.8,1,0,4.50,4.50,1,7,7.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+93,88,1993,1993-12-18,14,16,,CHI,,DEN,L 3-13,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+94,89,1993,1993-12-26,15,17,30.003,CHI,,DET,L 14-20,*,14,23,60.87,107,0,0,72.2,2,4,4.65,4.65,6,13,2.17,1,,0,0,,0,0.0%,,1,6,1,,0,0,0,0,,Jim Harbaugh,HarbJi00
+95,90,1993,1994-01-02,16,18,30.010,CHI,@,RAM,L 6-20,*,9,10,90.00,62,0,0,92.5,3,21,6.20,6.20,2,12,6.00,0,,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+96,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+97,91,1994,1994-09-04,1,1,30.255,IND,,HOU,W 45-21,*,9,12,75.00,105,2,1,105.9,2,6,8.75,8.33,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+98,92,1994,1994-09-11,2,2,30.262,IND,@,TAM,L 10-24,*,19,24,79.17,206,0,1,85.1,1,5,8.58,6.71,5,22,4.40,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+99,93,1994,1994-09-18,3,3,30.269,IND,@,PIT,L 21-31,*,9,19,47.37,120,1,0,85.4,4,18,6.32,7.37,2,10,5.00,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,0,0,,Jim Harbaugh,HarbJi00
+100,94,1994,1994-09-25,4,4,30.276,IND,,CLE,L 14-21,*,16,26,61.54,194,1,1,81.3,1,5,7.46,6.50,4,63,15.75,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+101,95,1994,1994-10-02,5,5,30.283,IND,,SEA,W 17-15,*,15,27,55.56,181,0,0,76.3,2,13,6.70,6.70,4,11,2.75,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+102,96,1994,1994-10-09,6,6,30.290,IND,@,NYJ,L 6-16,*,12,21,57.14,95,0,0,68.6,1,5,4.52,4.52,7,44,6.29,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+103,97,1994,1994-10-16,7,7,30.297,IND,@,BUF,W 27-17,*,18,22,81.82,206,2,0,136.0,0,0,9.36,11.18,3,5,1.67,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+104,98,1994,1994-10-23,8,8,30.304,IND,,WAS,L 27-41,*,11,18,61.11,186,2,2,93.5,2,11,10.33,7.56,3,12,4.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+105,99,1994,1994-10-30,9,9,,IND,,NYJ,W 28-25,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+106,100,1994,1994-11-06,10,10,30.318,IND,@,MIA,L 21-22,,3,7,42.86,23,0,1,11.9,2,3,3.29,-3.14,2,14,7.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+107,101,1994,1994-11-20,11,12,,IND,@,CIN,W 17-13,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+108,102,1994,1994-11-27,12,13,,IND,,NWE,L 10-12,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+109,103,1994,1994-12-04,13,14,30.346,IND,@,SEA,W 31-19,,0,0,,0,0,0,,0,,,,0,0,,0,,,,,,0.0%,,0,0,0,,,0,0,0,,Jim Harbaugh,HarbJi00
+110,104,1994,1994-12-11,14,15,,IND,@,NWE,L 13-28,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+111,105,1994,1994-12-18,15,16,30.360,IND,,MIA,W 10-6,*,9,19,47.37,75,0,0,58.0,2,6,3.95,3.95,7,33,4.71,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+112,106,1994,1994-12-24,16,17,31.001,IND,,BUF,W 10-9,,4,7,57.14,49,1,0,118.5,0,0,7.00,9.86,2,9,4.50,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+113,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+114,107,1995,1995-09-03,1,1,31.254,IND,,CIN,L 21-24,,9,13,69.23,86,1,0,113.0,2,23,6.62,8.15,2,22,11.00,0,0,0,0,,0,0.0%,,0,0,1,0,0,1,0,0,,Jim Harbaugh,HarbJi00
+115,108,1995,1995-09-10,2,2,31.261,IND,@,NYJ,W 27-24,,11,16,68.75,123,2,0,131.0,1,0,7.69,10.19,3,13,4.33,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+116,109,1995,1995-09-17,3,3,31.268,IND,@,BUF,L 14-20,*,19,33,57.58,241,1,0,90.6,5,36,7.30,7.91,4,22,5.50,0,0,0,0,,0,0.0%,,0,0,2,1,0,0,0,0,,Jim Harbaugh,HarbJi00
+117,110,1995,1995-10-01,4,5,31.282,IND,,STL,W 21-18,*,11,19,57.89,146,0,1,60.4,0,0,7.68,5.32,5,14,2.80,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,-20,0,,Jim Harbaugh,HarbJi00
+118,111,1995,1995-10-08,5,6,31.289,IND,@,MIA,W 27-24,*,25,33,75.76,319,3,0,135.8,2,9,9.67,11.48,5,13,2.60,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+119,112,1995,1995-10-15,6,7,31.296,IND,,SFO,W 18-17,*,12,18,66.67,175,1,1,93.5,1,6,9.72,8.33,4,4,1.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+120,113,1995,1995-10-22,7,8,31.303,IND,@,OAK,L 17-30,*,16,25,64.00,202,0,0,89.1,4,37,8.08,8.08,2,12,6.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+121,114,1995,1995-10-29,8,9,31.310,IND,,NYJ,W 17-10,*,9,14,64.29,87,0,0,81.5,1,4,6.21,6.21,5,13,2.60,1,1,1,-9,-9.00,0,100.0%,-9.00,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+122,115,1995,1995-11-05,9,10,31.317,IND,,BUF,L 10-16,*,4,7,57.14,75,0,0,94.3,2,10,10.71,10.71,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+123,116,1995,1995-11-12,10,11,31.324,IND,@,NOR,L 14-17,,5,7,71.43,97,1,0,153.3,0,0,13.86,16.71,2,10,5.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+124,117,1995,1995-11-19,11,12,31.331,IND,@,NWE,W 24-10,*,20,26,76.92,232,2,1,113.0,0,0,8.92,8.73,3,7,2.33,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+125,118,1995,1995-11-26,12,13,31.338,IND,,MIA,W 36-28,*,12,18,66.67,180,3,0,138.9,3,21,10.00,13.33,8,47,5.88,1,0,0,0,,0,0.0%,,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+126,119,1995,1995-12-03,13,14,31.345,IND,@,CAR,L 10-13,*,7,12,58.33,102,1,1,79.2,6,34,8.50,6.42,2,5,2.50,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+127,120,1995,1995-12-10,14,15,,IND,@,JAX,W 41-31,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+128,121,1995,1995-12-17,15,16,31.359,IND,,SDG,L 24-27,*,20,43,46.51,285,1,1,66.5,3,9,6.63,6.05,4,36,9.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+129,122,1995,1995-12-23,16,17,32.000,IND,,NWE,W 10-7,*,20,30,66.67,225,1,0,100.0,6,30,7.50,8.17,3,17,5.67,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+130,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+131,123,1996,1996-09-01,1,1,32.253,IND,,ARI,W 20-13,*,16,25,64.00,196,2,1,98.1,0,0,7.84,7.64,1,4,4.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+132,124,1996,1996-09-08,2,2,32.260,IND,@,NYJ,W 21-7,*,15,20,75.00,242,1,0,131.7,2,17,12.10,13.10,5,14,2.80,1,0,0,0,,0,0.0%,,1,6,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+133,125,1996,1996-09-15,3,3,32.267,IND,@,DAL,W 25-24,*,19,28,67.86,244,2,1,103.9,5,26,8.71,8.54,4,11,2.75,0,0,0,0,,0,0.0%,,0,0,2,1,0,0,0,0,,Jim Harbaugh,HarbJi00
+134,126,1996,1996-09-23,4,4,32.275,IND,,MIA,W 10-6,*,19,25,76.00,120,1,0,98.7,3,14,4.80,5.60,4,-1,-0.25,0,0,0,0,,0,0.0%,,0,0,0,,0,1,0,0,,Jim Harbaugh,HarbJi00
+135,127,1996,1996-10-06,5,6,32.288,IND,@,BUF,L 13-16,*,17,42,40.48,203,0,0,56.0,6,40,4.83,4.83,3,8,2.67,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+136,128,1996,1996-10-13,6,7,32.295,IND,,BAL,W 26-21,*,9,15,60.00,155,1,0,117.4,4,23,10.33,11.67,6,21,3.50,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+137,129,1996,1996-10-20,7,8,32.302,IND,,NWE,L 9-27,*,26,43,60.47,223,0,0,74.1,3,14,5.19,5.19,1,10,10.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+138,130,1996,1996-10-27,8,9,32.309,IND,@,WAS,L 16-31,*,17,33,51.52,198,0,0,70.0,1,0,6.00,6.00,5,28,5.60,0,0,0,0,,0,0.0%,,0,0,2,1,0,1,-1,0,,Jim Harbaugh,HarbJi00
+139,131,1996,1996-11-03,9,10,32.316,IND,,SDG,L 19-26,*,18,44,40.91,203,1,4,25.1,6,30,4.61,0.98,6,42,7.00,0,0,0,0,,0,0.0%,,0,0,3,1,0,2,-2,0,,Jim Harbaugh,HarbJi00
+140,132,1996,1996-11-10,10,11,32.323,IND,@,MIA,L 13-37,*,13,24,54.17,126,0,2,34.4,0,0,5.25,1.50,1,11,11.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+141,133,1996,1996-11-17,11,12,32.330,IND,,NYJ,W 34-29,*,13,26,50.00,130,1,0,77.4,1,8,5.00,5.77,3,19,6.33,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,0,0,,Jim Harbaugh,HarbJi00
+142,134,1996,1996-11-24,12,13,32.337,IND,@,NWE,L 13-27,*,11,18,61.11,119,0,1,57.4,0,0,6.61,4.11,3,19,6.33,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+143,135,1996,1996-12-01,13,14,,IND,,BUF,W 13-10,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+144,136,1996,1996-12-05,14,15,,IND,,PHI,W 37-10,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+145,137,1996,1996-12-15,15,16,32.358,IND,@,KAN,W 24-19,*,16,28,57.14,227,3,0,119.2,2,5,8.11,10.25,3,5,1.67,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+146,138,1996,1996-12-22,16,17,32.365,IND,@,CIN,L 24-31,*,23,34,67.65,244,1,2,73.7,3,13,7.18,5.12,3,1,0.33,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+147,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+148,139,1997,1997-08-31,1,1,33.251,IND,@,MIA,L 10-16,*,14,29,48.28,109,0,2,29.2,3,16,3.76,0.66,3,31,10.33,0,0,0,0,,0,0.0%,,0,0,0,,0,1,0,0,,Jim Harbaugh,HarbJi00
+149,140,1997,1997-09-07,2,2,33.258,IND,,NWE,L 6-31,*,30,38,78.95,241,0,0,93.1,5,27,6.34,6.34,3,14,4.67,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,0,0,,Jim Harbaugh,HarbJi00
+150,141,1997,1997-09-14,3,3,33.265,IND,,SEA,L 3-31,*,11,17,64.71,77,0,0,74.9,8,54,4.53,4.53,4,30,7.50,0,0,0,0,,0,0.0%,,0,0,1,0,0,0,0,0,,Jim Harbaugh,HarbJi00
+151,142,1997,1997-09-21,4,4,33.272,IND,@,BUF,L 35-37,*,16,31,51.61,191,1,0,81.5,2,16,6.16,6.81,3,15,5.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+152,143,1997,1997-10-05,5,6,33.286,IND,,NYJ,L 12-16,*,8,12,66.67,98,0,1,56.9,1,4,8.17,4.42,1,6,6.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+153,144,1997,1997-10-12,6,7,33.293,IND,@,PIT,L 22-24,*,19,36,52.78,219,2,1,78.4,4,28,6.08,5.94,2,3,1.50,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,0,0,,Jim Harbaugh,HarbJi00
+154,145,1997,1997-10-20,7,8,33.301,IND,,BUF,L 6-9,*,9,12,75.00,108,0,0,102.1,5,26,9.00,9.00,1,7,7.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+155,146,1997,1997-10-26,8,9,,IND,@,SDG,L 19-35,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+156,147,1997,1997-11-02,9,10,,IND,,TAM,L 28-31,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+157,148,1997,1997-11-09,10,11,,IND,,CIN,L 13-28,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+158,149,1997,1997-11-16,11,12,,IND,,GNB,W 41-38,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+159,150,1997,1997-11-23,12,13,33.335,IND,@,DET,L 10-32,,10,16,62.50,112,0,0,83.3,6,46,7.00,7.00,3,21,7.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+160,151,1997,1997-11-30,13,14,33.342,IND,@,NWE,L 17-20,*,22,41,53.66,310,2,0,94.6,4,25,7.56,8.54,3,33,11.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+161,152,1997,1997-12-07,14,15,33.349,IND,@,NYJ,W 22-14,*,15,24,62.50,173,0,0,84.2,0,0,7.21,7.21,7,13,1.86,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+162,153,1997,1997-12-14,15,16,33.356,IND,,MIA,W 41-0,*,20,26,76.92,255,4,0,146.6,1,2,9.81,12.88,3,19,6.33,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,0,0,,Jim Harbaugh,HarbJi00
+163,154,1997,1997-12-21,16,17,33.363,IND,@,MIN,L 28-39,*,15,27,55.56,167,1,0,86.5,2,12,6.19,6.93,3,14,4.67,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+164,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+165,155,1998,1998-09-06,1,1,34.257,BAL,,PIT,L 13-20,*,4,7,57.14,33,0,0,69.3,0,0,4.71,4.71,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+166,156,1998,1998-09-13,2,2,34.264,BAL,@,NYJ,W 24-10,*,5,10,50.00,36,0,0,58.7,0,0,3.60,3.60,1,7,7.00,0,0,0,0,,0,0.0%,,0,0,1,0,0,1,0,0,,Jim Harbaugh,HarbJi00
+167,157,1998,1998-09-20,3,3,34.271,BAL,@,JAX,L 10-24,*,4,9,44.44,59,0,0,66.4,0,0,6.56,6.56,1,5,5.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+168,158,1998,1998-09-27,4,4,,BAL,,CIN,W 31-24,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+169,159,1998,1998-10-11,5,6,,BAL,,TEN,L 8-12,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+170,160,1998,1998-10-18,6,7,34.299,BAL,@,PIT,L 6-16,,0,6,0.00,0,0,2,0.0,2,6,0.00,-15.00,1,3,3.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+171,161,1998,1998-10-25,7,8,34.306,BAL,@,GNB,L 10-28,,9,20,45.00,174,1,2,52.9,0,0,8.70,5.20,1,2,2.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+172,162,1998,1998-11-01,8,9,34.313,BAL,,JAX,L 19-45,*,27,34,79.41,243,3,1,113.6,2,12,7.15,7.59,10,57,5.70,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+173,163,1998,1998-11-08,9,10,34.320,BAL,,OAK,W 13-10,*,10,17,58.82,102,0,1,51.6,4,15,6.00,3.35,1,2,2.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+174,164,1998,1998-11-15,10,11,34.327,BAL,@,SDG,L 13-14,*,12,33,36.36,150,1,1,48.8,6,29,4.55,3.79,5,22,4.40,0,0,0,0,,0,0.0%,,0,0,2,0,0,0,0,0,,Jim Harbaugh,HarbJi00
+175,165,1998,1998-11-22,11,12,34.334,BAL,@,CIN,W 20-13,*,9,18,50.00,92,1,1,60.4,1,1,5.11,3.72,4,20,5.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+176,166,1998,1998-11-29,12,13,34.341,BAL,,IND,W 38-31,*,16,25,64.00,198,2,0,115.1,0,0,7.92,9.52,5,13,2.60,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+177,167,1998,1998-12-06,13,14,34.348,BAL,@,TEN,L 14-16,*,15,28,53.57,214,2,1,87.5,6,51,7.64,7.46,3,31,10.33,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+178,168,1998,1998-12-13,14,15,34.355,BAL,,MIN,L 28-38,*,16,26,61.54,212,1,1,84.1,0,0,8.15,7.19,1,0,0.00,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,-2,0,,Jim Harbaugh,HarbJi00
+179,169,1998,1998-12-20,15,16,34.362,BAL,@,CHI,L 3-24,*,20,34,58.82,185,0,1,61.5,2,31,5.44,4.12,3,2,0.67,0,0,0,0,,0,0.0%,,0,0,3,0,0,2,-3,0,,Jim Harbaugh,HarbJi00
+180,170,1998,1998-12-27,16,17,35.004,BAL,,DET,W 19-10,*,17,26,65.38,141,1,0,92.0,0,0,5.42,6.19,4,8,2.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+181,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+182,171,1999,1999-09-19,1,2,35.270,SDG,@,CIN,W 34-7,*,15,27,55.56,159,2,0,97.6,4,26,5.89,7.37,1,0,0.00,0,0,0,0,,0,0.0%,,0,0,2,0,0,2,0,0,,Jim Harbaugh,HarbJi00
+183,172,1999,1999-09-26,2,3,35.277,SDG,,IND,L 19-27,*,15,37,40.54,188,0,1,45.8,3,9,5.08,3.86,4,22,5.50,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+184,173,1999,1999-10-03,3,4,35.284,SDG,,KAN,W 21-14,*,6,9,66.67,38,0,1,35.6,1,10,4.22,-0.78,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+185,174,1999,1999-10-10,4,5,,SDG,@,DET,W 20-10,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+186,175,1999,1999-10-17,5,6,,SDG,,SEA,W 13-10,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+187,176,1999,1999-10-24,6,7,35.305,SDG,,GNB,L 3-31,,7,18,38.89,78,0,3,13.0,2,9,4.33,-3.17,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+188,177,1999,1999-10-31,7,8,35.312,SDG,@,KAN,L 0-34,,18,34,52.94,174,0,1,55.3,4,22,5.12,3.79,3,8,2.67,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,0,0,,Jim Harbaugh,HarbJi00
+189,178,1999,1999-11-07,8,9,35.319,SDG,,DEN,L 17-33,*,25,39,64.10,235,2,2,76.3,4,21,6.03,4.74,2,14,7.00,0,0,0,0,,0,0.0%,,0,0,1,0,0,0,0,0,,Jim Harbaugh,HarbJi00
+190,179,1999,1999-11-14,9,10,35.326,SDG,@,OAK,L 9-28,*,18,32,56.25,204,1,0,85.9,2,12,6.38,7.00,1,3,3.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+191,180,1999,1999-11-21,10,11,35.333,SDG,,CHI,L 20-23,*,29,46,63.04,273,2,1,84.8,1,9,5.93,5.83,2,5,2.50,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+192,181,1999,1999-11-28,11,12,35.340,SDG,@,MIN,L 27-35,*,25,39,64.10,404,1,1,96.5,1,8,10.36,9.72,3,20,6.67,0,0,0,0,,0,0.0%,,0,0,1,1,0,0,-2,0,,Jim Harbaugh,HarbJi00
+193,182,1999,1999-12-05,12,13,35.347,SDG,,CLE,W 23-10,*,16,23,69.57,161,0,0,89.2,3,18,7.00,7.00,6,15,2.50,0,0,0,0,,0,0.0%,,0,0,1,0,0,0,0,0,,Jim Harbaugh,HarbJi00
+194,183,1999,1999-12-12,13,14,35.354,SDG,@,SEA,W 19-16,*,20,35,57.14,229,0,1,65.1,1,7,6.54,5.26,3,23,7.67,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+195,184,1999,1999-12-19,14,15,35.361,SDG,@,MIA,L 9-12,*,20,40,50.00,178,0,0,62.3,5,18,4.45,4.45,2,6,3.00,0,0,0,0,,0,0.0%,,0,0,2,1,0,1,0,0,,Jim Harbaugh,HarbJi00
+196,185,1999,1999-12-26,15,16,36.003,SDG,,OAK,W 23-20,*,23,36,63.89,325,2,1,99.9,4,32,9.03,8.89,6,5,0.83,0,0,0,0,,0,0.0%,,0,0,4,0,0,1,-15,0,,Jim Harbaugh,HarbJi00
+197,186,1999,2000-01-02,16,17,36.010,SDG,@,DEN,W 12-6,*,12,19,63.16,115,0,2,40.4,2,7,6.05,1.32,1,5,5.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+198,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+199,187,2000,2000-09-03,1,1,,SDG,@,OAK,L 6-9,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+200,188,2000,2000-09-10,2,2,,SDG,,NOR,L 27-28,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+201,189,2000,2000-09-17,3,3,,SDG,@,KAN,L 10-42,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+202,190,2000,2000-09-24,4,4,36.276,SDG,,SEA,L 12-20,,8,14,57.14,67,0,1,39.9,0,0,4.79,1.57,1,3,3.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+203,191,2000,2000-10-01,5,5,36.283,SDG,@,STL,L 31-57,*,27,40,67.50,348,2,1,100.8,3,15,8.70,8.58,1,0,0.00,0,0,0,0,,0,0.0%,,0,0,0,0,0,0,0,0,,Jim Harbaugh,HarbJi00
+204,192,2000,2000-10-08,6,6,36.290,SDG,,DEN,L 7-21,*,18,43,41.86,237,1,3,38.6,4,25,5.51,2.84,2,3,1.50,0,0,0,0,,0,0.0%,,0,0,1,0,0,0,0,0,,Jim Harbaugh,HarbJi00
+205,193,2000,2000-10-15,7,7,36.297,SDG,@,BUF,L 24-27,*,21,33,63.64,287,2,2,86.3,3,28,8.70,7.18,5,1,0.20,0,0,0,0,,0,0.0%,,0,0,2,0,0,1,0,0,,Jim Harbaugh,HarbJi00
+206,194,2000,2000-10-29,8,9,36.311,SDG,,OAK,L 13-15,*,25,35,71.43,222,2,1,95.2,3,27,6.34,6.20,1,1,1.00,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+207,195,2000,2000-11-05,9,10,36.318,SDG,@,SEA,L 15-17,*,22,32,68.75,236,1,1,87.5,1,1,7.38,6.59,6,16,2.67,0,0,0,0,,0,0.0%,,0,0,2,2,0,0,-5,0,,Jim Harbaugh,HarbJi00
+208,196,2000,2000-11-12,10,11,36.325,SDG,,MIA,L 7-17,,2,5,40.00,19,0,1,11.7,0,0,3.80,-5.20,0,0,,0,0,0,0,,0,0.0%,,0,0,0,,0,0,0,0,,Jim Harbaugh,HarbJi00
+209,197,2000,2000-11-19,11,12,,SDG,@,DEN,L 37-38,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+210,198,2000,2000-11-26,12,13,,SDG,,KAN,W 17-16,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+211,199,2000,2000-12-03,13,14,,SDG,,SFO,L 17-45,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+212,200,2000,2000-12-10,14,15,,SDG,@,BAL,L 3-24,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+213,201,2000,2000-12-17,15,16,,SDG,@,CAR,L 22-30,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+214,202,2000,2000-12-24,16,17,,SDG,,PIT,L 21-34,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+215,Rk,Year,Date,G#,Week,Age,Tm,,Opp,Result,GS,Cmp,Att,Cmp%,Yds,TD,Int,Rate,Sk,Yds,Y/A,AY/A,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Ctch%,Y/Tgt,TD,Pts,Fmb,FL,FF,FR,Yds,TD,Status,Jim Harbaugh,HarbJi00
+216,203,2001,2001-11-11,9,9,,CAR,@,STL,L 14-48,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Jim Harbaugh,HarbJi00
+217,204,2001,2001-11-18,10,10,,CAR,,SFO,L 22-25,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+218,205,2001,2001-11-25,11,11,,CAR,,ATL,L 7-10,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+219,206,2001,2001-12-02,12,12,,CAR,@,NOR,L 23-27,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+220,207,2001,2001-12-09,13,13,,CAR,@,BUF,L 24-25,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+221,208,2001,2001-12-23,14,15,,CAR,,STL,L 32-38,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+222,209,2001,2001-12-30,15,16,,CAR,,ARI,L 7-30,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+223,210,2001,2002-01-06,16,17,,CAR,,NWE,L 6-38,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Jim Harbaugh,HarbJi00
+224,,,177 Games,,,,,,,83-94-0,,2305,3918,58.83,26288,129,117,77.6,361,2132,6.71,6.02,561,2787,4.97,18,2,2,-8,-4.00,0,,-4.00,18,108,76,16,0,24,-57,0,,Jim Harbaugh,HarbJi00

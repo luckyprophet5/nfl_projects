@@ -1,0 +1,426 @@
+year,week,date,rank,school,prev,change,first,conf
+2004,16,Final,1,USC,1,,62,Pac-10
+2004,16,Final,2,Auburn,3,1,3,SEC (West)
+2004,16,Final,3,Oklahoma,2,1,,Big 12 (South)
+2004,16,Final,4,Utah,5,1,,MWC
+2004,16,Final,5,Texas,6,1,,Big 12 (South)
+2004,16,Final,6,Louisville,7,1,,CUSA
+2004,16,Final,7,Georgia,8,1,,SEC (East)
+2004,16,Final,8,Iowa,11,3,,Big Ten
+2004,16,Final,9,California,4,5,,Pac-10
+2004,16,Final,10,Virginia Tech,9,1,,ACC
+2004,16,Final,11,Miami,14,3,,ACC
+2004,16,Final,12,Boise State,10,2,,WAC
+2004,16,Final,13,Tennessee,15,2,,SEC (East)
+2004,16,Final,14,Michigan,13,1,,Big Ten
+2004,16,Final,15,Florida State,17,2,,ACC
+2004,16,Final,16,LSU,12,4,,SEC (West)
+2004,16,Final,17,Wisconsin,16,1,,Big Ten
+2004,16,Final,18,Texas Tech,23,5,,Big 12 (South)
+2004,16,Final,19,Arizona State,21,2,,Pac-10
+2004,16,Final,20,Ohio State,24,4,,Big Ten
+2004,16,Final,21,Boston College,25,4,,Big East
+2004,16,Final,22,Fresno State,,,,WAC
+2004,16,Final,23,Virginia,18,5,,ACC
+2004,16,Final,24,Navy,,,,Ind
+2004,16,Final,25,Pittsburgh,19,6,,Big East
+2005,16,Final,1,Texas,2,1,65,Big 12 (South)
+2005,16,Final,2,USC,1,1,,Pac-10
+2005,16,Final,3,Penn State,3,,,Big Ten
+2005,16,Final,4,Ohio State,4,,,Big Ten
+2005,16,Final,5,West Virginia,11,6,,Big East
+2005,16,Final,6,LSU,10,4,,SEC (West)
+2005,16,Final,7,Virginia Tech,12,5,,ACC (Coastal)
+2005,16,Final,8,Alabama,13,5,,SEC (West)
+2005,16,Final,9,Notre Dame,5,4,,Ind
+2005,16,Final,10,Georgia,8,2,,SEC (East)
+2005,16,Final,11,TCU,14,3,,MWC
+2005,16,Final,12,Florida,16,4,,SEC (East)
+2005,16,Final,12,Oregon,6,6,,Pac-10
+2005,16,Final,14,Auburn,7,7,,SEC (West)
+2005,16,Final,15,Wisconsin,21,6,,Big Ten
+2005,16,Final,16,UCLA,17,1,,Pac-10
+2005,16,Final,17,Miami,9,8,,ACC (Coastal)
+2005,16,Final,18,Boston College,19,1,,ACC (Atlantic)
+2005,16,Final,19,Louisville,15,4,,Big East
+2005,16,Final,20,Texas Tech,18,2,,Big 12 (South)
+2005,16,Final,21,Clemson,23,2,,ACC (Atlantic)
+2005,16,Final,22,Oklahoma,,,,Big 12 (South)
+2005,16,Final,23,Florida State,22,1,,ACC (Atlantic)
+2005,16,Final,24,Nebraska,,,,Big 12 (North)
+2005,16,Final,25,California,,,,Pac-10
+2006,16,Final,1,Florida,2,1,64,SEC (East)
+2006,16,Final,2,Ohio State,1,1,,Big Ten
+2006,16,Final,3,LSU,4,1,,SEC (West)
+2006,16,Final,4,USC,8,4,,Pac-10
+2006,16,Final,5,Boise State,9,4,1,WAC
+2006,16,Final,6,Louisville,5,1,,Big East
+2006,16,Final,7,Wisconsin,6,1,,Big Ten
+2006,16,Final,8,Michigan,3,5,,Big Ten
+2006,16,Final,9,Auburn,10,1,,SEC (West)
+2006,16,Final,10,West Virginia,13,3,,Big East
+2006,16,Final,11,Oklahoma,7,4,,Big 12 (South)
+2006,16,Final,12,Rutgers,16,4,,Big East
+2006,16,Final,13,Texas,18,5,,Big 12 (South)
+2006,16,Final,14,California,20,6,,Pac-10
+2006,16,Final,15,Arkansas,12,3,,SEC (West)
+2006,16,Final,16,BYU,19,3,,MWC
+2006,16,Final,17,Notre Dame,11,6,,Ind
+2006,16,Final,18,Wake Forest,15,3,,ACC (Atlantic)
+2006,16,Final,19,Virginia Tech,14,5,,ACC (Coastal)
+2006,16,Final,20,Boston College,23,3,,ACC (Atlantic)
+2006,16,Final,21,Oregon State,24,3,,Pac-10
+2006,16,Final,22,TCU,25,3,,MWC
+2006,16,Final,23,Georgia,,,,SEC (East)
+2006,16,Final,24,Penn State,,,,Big Ten
+2006,16,Final,25,Tennessee,17,8,,SEC (East)
+2007,16,Final,1,LSU,2,1,60,SEC (West)
+2007,16,Final,2,Georgia,4,2,3,SEC (East)
+2007,16,Final,3,USC,6,3,1,Pac-10
+2007,16,Final,4,Missouri,7,3,,Big 12 (North)
+2007,16,Final,5,Ohio State,1,4,,Big Ten
+2007,16,Final,6,West Virginia,11,5,,Big East
+2007,16,Final,7,Kansas,8,1,1,Big 12 (North)
+2007,16,Final,8,Oklahoma,3,5,,Big 12 (South)
+2007,16,Final,9,Virginia Tech,5,4,,ACC (Coastal)
+2007,16,Final,10,Boston College,14,4,,ACC (Atlantic)
+2007,16,Final,10,Texas,17,7,,Big 12 (South)
+2007,16,Final,12,Tennessee,16,4,,SEC (East)
+2007,16,Final,13,Florida,9,4,,SEC (East)
+2007,16,Final,14,BYU,19,5,,MWC
+2007,16,Final,15,Auburn,22,7,,SEC (West)
+2007,16,Final,16,Arizona State,12,4,,Pac-10
+2007,16,Final,17,Cincinnati,20,3,,Big East
+2007,16,Final,18,Michigan,,,,Big Ten
+2007,16,Final,19,Hawai'i,10,9,,WAC
+2007,16,Final,20,Illinois,13,7,,Big Ten
+2007,16,Final,21,Clemson,15,6,,ACC (Atlantic)
+2007,16,Final,22,Texas Tech,,,,Big 12 (South)
+2007,16,Final,23,Oregon,,,,Pac-10
+2007,16,Final,24,Wisconsin,18,6,,Big Ten
+2007,16,Final,25,Oregon State,,,,Pac-10
+2008,17,Final,1,Florida,1,,48,SEC (East)
+2008,17,Final,2,Utah,7,5,16,MWC
+2008,17,Final,3,USC,5,2,1,Pac-10
+2008,17,Final,4,Texas,3,1,,Big 12 (South)
+2008,17,Final,5,Oklahoma,2,3,,Big 12 (South)
+2008,17,Final,6,Alabama,4,2,,SEC (West)
+2008,17,Final,7,TCU,11,4,,MWC
+2008,17,Final,8,Penn State,6,2,,Big Ten
+2008,17,Final,9,Ohio State,10,1,,Big Ten
+2008,17,Final,10,Oregon,15,5,,Pac-10
+2008,17,Final,11,Boise State,9,2,,WAC
+2008,17,Final,12,Texas Tech,8,4,,Big 12 (South)
+2008,17,Final,13,Georgia,16,3,,SEC (East)
+2008,17,Final,14,Ole Miss,20,6,,SEC (West)
+2008,17,Final,15,Virginia Tech,21,6,,ACC (Coastal)
+2008,17,Final,16,Oklahoma State,13,3,,Big 12 (South)
+2008,17,Final,17,Cincinnati,12,5,,Big East
+2008,17,Final,18,Oregon State,24,6,,Pac-10
+2008,17,Final,19,Missouri,25,6,,Big 12 (North)
+2008,17,Final,20,Iowa,,,,Big Ten
+2008,17,Final,21,Florida State,,,,ACC (Atlantic)
+2008,17,Final,22,Georgia Tech,14,8,,ACC (Coastal)
+2008,17,Final,23,West Virginia,,,,Big East
+2008,17,Final,24,Michigan State,19,5,,Big Ten
+2008,17,Final,25,BYU,17,8,,MWC
+2009,16,Final,1,Alabama,1,,60,SEC (West)
+2009,16,Final,2,Texas,2,,,Big 12 (South)
+2009,16,Final,3,Florida,5,2,,SEC (East)
+2009,16,Final,4,Boise State,6,2,,WAC
+2009,16,Final,5,Ohio State,8,3,,Big Ten
+2009,16,Final,6,TCU,3,3,,MWC
+2009,16,Final,7,Iowa,10,3,,Big Ten
+2009,16,Final,8,Cincinnati,4,4,,Big East
+2009,16,Final,9,Penn State,11,2,,Big Ten
+2009,16,Final,10,Virginia Tech,12,2,,ACC (Coastal)
+2009,16,Final,11,Oregon,7,4,,Pac-10
+2009,16,Final,12,BYU,15,3,,MWC
+2009,16,Final,13,Georgia Tech,9,4,,ACC (Coastal)
+2009,16,Final,14,Nebraska,20,6,,Big 12 (North)
+2009,16,Final,15,Pittsburgh,17,2,,Big East
+2009,16,Final,16,Wisconsin,24,8,,Big Ten
+2009,16,Final,17,LSU,13,4,,SEC (West)
+2009,16,Final,18,Utah,23,5,,MWC
+2009,16,Final,19,Miami,14,5,,ACC (Coastal)
+2009,16,Final,20,Ole Miss,,,,SEC (West)
+2009,16,Final,21,Texas Tech,,,,Big 12 (South)
+2009,16,Final,22,USC,,,,Pac-10
+2009,16,Final,23,Central Michigan,25,2,,MAC (West)
+2009,16,Final,24,Clemson,,,,ACC (Atlantic)
+2009,16,Final,25,West Virginia,18,7,,Big East
+2010,16,Final,1,Auburn,1,,56,SEC (West)
+2010,16,Final,2,TCU,3,1,3,MWC
+2010,16,Final,3,Oregon,2,1,,Pac-10
+2010,16,Final,4,Stanford,5,1,,Pac-10
+2010,16,Final,5,Ohio State,6,1,,Big Ten
+2010,16,Final,6,Oklahoma,9,3,,Big 12 (South)
+2010,16,Final,7,Wisconsin,4,3,,Big Ten
+2010,16,Final,8,LSU,11,3,,SEC (West)
+2010,16,Final,9,Boise State,10,1,,WAC
+2010,16,Final,10,Alabama,15,5,,SEC (West)
+2010,16,Final,11,Nevada,13,2,,WAC
+2010,16,Final,12,Arkansas,8,4,,SEC (West)
+2010,16,Final,13,Oklahoma State,16,3,,Big 12 (South)
+2010,16,Final,14,Michigan State,7,7,,Big Ten
+2010,16,Final,15,Mississippi State,21,6,,SEC (West)
+2010,16,Final,16,Virginia Tech,12,4,,ACC (Coastal)
+2010,16,Final,17,Florida State,23,6,,ACC (Atlantic)
+2010,16,Final,18,Missouri,14,4,,Big 12 (North)
+2010,16,Final,19,Texas A&M,18,1,,Big 12 (South)
+2010,16,Final,20,Nebraska,17,3,,Big 12 (North)
+2010,16,Final,21,UCF,,,,CUSA (East)
+2010,16,Final,22,South Carolina,19,3,,SEC (East)
+2010,16,Final,23,Maryland,,,,ACC (Atlantic)
+2010,16,Final,24,Tulsa,,,,CUSA (West)
+2010,16,Final,25,NC State,,,,ACC (Atlantic)
+2011,16,Final,1,Alabama,2,1,55,SEC (West)
+2011,16,Final,2,LSU,1,1,1,SEC (West)
+2011,16,Final,3,Oklahoma State,3,,4,Big 12
+2011,16,Final,4,Oregon,6,2,,Pac-12 (North)
+2011,16,Final,5,Arkansas,7,2,,SEC (West)
+2011,16,Final,6,USC,5,1,,Pac-12 (South)
+2011,16,Final,7,Stanford,4,3,,Pac-12 (North)
+2011,16,Final,8,Boise State,8,,,MWC
+2011,16,Final,9,South Carolina,10,1,,SEC (East)
+2011,16,Final,10,Wisconsin,9,1,,Big Ten (Leaders)
+2011,16,Final,11,Michigan State,12,1,,Big Ten (Legends)
+2011,16,Final,12,Michigan,13,1,,Big Ten (Legends)
+2011,16,Final,13,Baylor,15,2,,Big 12
+2011,16,Final,14,TCU,16,2,,MWC
+2011,16,Final,15,Kansas State,11,4,,Big 12
+2011,16,Final,16,Oklahoma,19,3,,Big 12
+2011,16,Final,17,West Virginia,23,6,,Big East
+2011,16,Final,18,Houston,20,2,,CUSA (West)
+2011,16,Final,19,Georgia,18,1,,SEC (East)
+2011,16,Final,20,Southern Mississippi,22,2,,CUSA (East)
+2011,16,Final,21,Virginia Tech,17,4,,ACC (Coastal)
+2011,16,Final,22,Clemson,14,8,,ACC (Atlantic)
+2011,16,Final,23,Florida State,25,2,,ACC (Atlantic)
+2011,16,Final,24,Nebraska,21,3,,Big Ten (Legends)
+2011,16,Final,25,Cincinnati,,,,Big East
+2012,16,Final,1,Alabama,2,1,59,SEC (West)
+2012,16,Final,2,Oregon,5,3,,Pac-12 (North)
+2012,16,Final,3,Ohio State,3,,,Big Ten (Leaders)
+2012,16,Final,4,Notre Dame,1,3,,Ind
+2012,16,Final,5,Georgia,6,1,,SEC (East)
+2012,16,Final,5,Texas A&M,10,5,,SEC (West)
+2012,16,Final,7,Stanford,8,1,,Pac-12 (North)
+2012,16,Final,8,South Carolina,11,3,,SEC (East)
+2012,16,Final,9,Florida,4,5,,SEC (East)
+2012,16,Final,10,Florida State,13,3,,ACC (Atlantic)
+2012,16,Final,11,Clemson,14,3,,ACC (Atlantic)
+2012,16,Final,12,Kansas State,7,5,,Big 12
+2012,16,Final,13,Louisville,22,9,,Big East
+2012,16,Final,14,LSU,9,5,,SEC (West)
+2012,16,Final,15,Oklahoma,12,3,,Big 12
+2012,16,Final,16,Utah State,18,2,,WAC
+2012,16,Final,17,Northwestern,21,4,,Big Ten (Legends)
+2012,16,Final,18,Boise State,20,2,,MWC
+2012,16,Final,19,Texas,,,,Big 12
+2012,16,Final,20,Oregon State,15,5,,Pac-12 (North)
+2012,16,Final,21,San José State,24,3,,WAC
+2012,16,Final,22,Northern Illinois,16,6,,MAC (West)
+2012,16,Final,23,Vanderbilt,,,,SEC (East)
+2012,16,Final,24,Michigan,19,5,,Big Ten (Legends)
+2012,16,Final,25,Nebraska,23,2,,Big Ten (Legends)
+2013,17,Final,1,Florida State,1,,60,ACC (Atlantic)
+2013,17,Final,2,Auburn,2,,,SEC (West)
+2013,17,Final,3,Michigan State,4,1,,Big Ten (Legends)
+2013,17,Final,4,South Carolina,8,4,,SEC (East)
+2013,17,Final,5,Missouri,9,4,,SEC (East)
+2013,17,Final,6,Oklahoma,11,5,,Big 12
+2013,17,Final,7,Alabama,3,4,,SEC (West)
+2013,17,Final,8,Clemson,12,4,,ACC (Atlantic)
+2013,17,Final,9,Oregon,10,1,,Pac-12 (North)
+2013,17,Final,10,UCF,15,5,,American
+2013,17,Final,11,Stanford,5,6,,Pac-12 (North)
+2013,17,Final,12,Ohio State,7,5,,Big Ten (Leaders)
+2013,17,Final,13,Baylor,6,7,,Big 12
+2013,17,Final,14,LSU,14,,,SEC (West)
+2013,17,Final,15,Louisville,18,3,,American
+2013,17,Final,16,UCLA,17,1,,Pac-12 (South)
+2013,17,Final,17,Oklahoma State,13,4,,Big 12
+2013,17,Final,18,Texas A&M,20,2,,SEC (West)
+2013,17,Final,19,USC,,,,Pac-12 (South)
+2013,17,Final,20,Notre Dame,25,5,,Ind
+2013,17,Final,21,Arizona State,16,5,,Pac-12 (South)
+2013,17,Final,22,Wisconsin,19,3,,Big Ten (Leaders)
+2013,17,Final,23,Duke,22,1,,ACC (Coastal)
+2013,17,Final,24,Vanderbilt,,,,SEC (East)
+2013,17,Final,25,Washington,,,,Pac-12 (North)
+2014,17,Final,1,Ohio State,5,4,59,Big Ten (East)
+2014,17,Final,2,Oregon,3,1,,Pac-12 (North)
+2014,17,Final,3,TCU,6,3,,Big 12
+2014,17,Final,4,Alabama,1,3,,SEC (West)
+2014,17,Final,5,Florida State,2,3,,ACC (Atlantic)
+2014,17,Final,5,Michigan State,7,2,,Big Ten (East)
+2014,17,Final,7,Baylor,4,3,,Big 12
+2014,17,Final,8,Georgia Tech,10,2,,ACC (Coastal)
+2014,17,Final,9,Georgia,13,4,,SEC (East)
+2014,17,Final,10,UCLA,14,4,,Pac-12 (South)
+2014,17,Final,11,Mississippi State,8,3,,SEC (West)
+2014,17,Final,12,Arizona State,15,3,,Pac-12 (South)
+2014,17,Final,13,Wisconsin,17,4,,Big Ten (West)
+2014,17,Final,14,Missouri,16,2,,SEC (East)
+2014,17,Final,15,Clemson,18,3,,ACC (Atlantic)
+2014,17,Final,16,Boise State,21,5,,MWC (Mountain)
+2014,17,Final,17,Ole Miss,9,8,,SEC (West)
+2014,17,Final,18,Kansas State,11,7,,Big 12
+2014,17,Final,19,Arizona,12,7,,Pac-12 (South)
+2014,17,Final,20,USC,24,4,,Pac-12 (South)
+2014,17,Final,21,Utah,23,2,,Pac-12 (South)
+2014,17,Final,22,Auburn,19,3,,SEC (West)
+2014,17,Final,23,Marshall,,,,CUSA (East)
+2014,17,Final,24,Louisville,20,4,,ACC (Atlantic)
+2014,17,Final,25,Memphis,,,,American
+2015,15,Final,1,Alabama,2,1,61,SEC (West)
+2015,15,Final,2,Clemson,1,1,,ACC (Atlantic)
+2015,15,Final,3,Stanford,5,2,,Pac-12 (North)
+2015,15,Final,4,Ohio State,7,3,,Big Ten (East)
+2015,15,Final,5,Oklahoma,4,1,,Big 12
+2015,15,Final,6,Michigan State,3,3,,Big Ten (East)
+2015,15,Final,7,TCU,11,4,,Big 12
+2015,15,Final,8,Houston,14,6,,American (West)
+2015,15,Final,9,Iowa,6,3,,Big Ten (West)
+2015,15,Final,10,Ole Miss,16,6,,SEC (West)
+2015,15,Final,11,Notre Dame,8,3,,Ind
+2015,15,Final,12,Michigan,17,5,,Big Ten (East)
+2015,15,Final,13,Baylor,18,5,,Big 12
+2015,15,Final,14,Florida State,9,5,,ACC (Atlantic)
+2015,15,Final,15,North Carolina,10,5,,ACC (Coastal)
+2015,15,Final,16,LSU,22,6,,SEC (West)
+2015,15,Final,17,Utah,20,3,,Pac-12 (South)
+2015,15,Final,18,Navy,21,3,,American (West)
+2015,15,Final,19,Oregon,15,4,,Pac-12 (North)
+2015,15,Final,20,Oklahoma State,13,7,,Big 12
+2015,15,Final,21,Wisconsin,23,2,,Big Ten (West)
+2015,15,Final,22,Tennessee,,,,SEC (East)
+2015,15,Final,23,Northwestern,12,11,,Big Ten (West)
+2015,15,Final,24,Western Kentucky,25,1,,CUSA (East)
+2015,15,Final,25,Florida,19,6,,SEC (East)
+2016,16,Final,1,Clemson,3,2,60,ACC (Atlantic)
+2016,16,Final,2,Alabama,1,1,,SEC (West)
+2016,16,Final,3,USC,9,6,,Pac-12 (South)
+2016,16,Final,4,Washington,4,,,Pac-12 (North)
+2016,16,Final,5,Oklahoma,7,2,,Big 12
+2016,16,Final,6,Ohio State,2,4,,Big Ten (East)
+2016,16,Final,7,Penn State,5,2,,Big Ten (East)
+2016,16,Final,8,Florida State,10,2,,ACC (Atlantic)
+2016,16,Final,9,Wisconsin,8,1,,Big Ten (West)
+2016,16,Final,10,Michigan,6,4,,Big Ten (East)
+2016,16,Final,11,Oklahoma State,13,2,,Big 12
+2016,16,Final,12,Stanford,16,4,,Pac-12 (North)
+2016,16,Final,13,LSU,19,6,,SEC (West)
+2016,16,Final,14,Florida,20,6,,SEC (East)
+2016,16,Final,15,Western Michigan,12,3,,MAC (West)
+2016,16,Final,16,Virginia Tech,18,2,,ACC (Coastal)
+2016,16,Final,17,Colorado,11,6,,Pac-12 (South)
+2016,16,Final,18,West Virginia,14,4,,Big 12
+2016,16,Final,19,South Florida,25,6,,American (East)
+2016,16,Final,20,Miami,,,,ACC (Coastal)
+2016,16,Final,21,Louisville,15,6,,ACC (Atlantic)
+2016,16,Final,22,Tennessee,,,,SEC (East)
+2016,16,Final,23,Utah,,,,Pac-12 (South)
+2016,16,Final,24,Auburn,17,7,,SEC (West)
+2016,16,Final,25,San Diego State,,,,MWC (West)
+2017,16,Final,1,Alabama,4,3,57,SEC (West)
+2017,16,Final,2,Georgia,3,1,,SEC (East)
+2017,16,Final,3,Oklahoma,2,1,,Big 12
+2017,16,Final,4,Clemson,1,3,,ACC (Atlantic)
+2017,16,Final,5,Ohio State,5,,,Big Ten (East)
+2017,16,Final,6,UCF,10,4,4,American (East)
+2017,16,Final,7,Wisconsin,6,1,,Big Ten (West)
+2017,16,Final,8,Penn State,9,1,,Big Ten (East)
+2017,16,Final,9,TCU,13,4,,Big 12
+2017,16,Final,10,Auburn,7,3,,SEC (West)
+2017,16,Final,11,Notre Dame,14,3,,Ind
+2017,16,Final,12,USC,8,4,,Pac-12 (South)
+2017,16,Final,13,Miami,11,2,,ACC (Coastal)
+2017,16,Final,14,Oklahoma State,17,3,,Big 12
+2017,16,Final,15,Michigan State,18,3,,Big Ten (East)
+2017,16,Final,16,Washington,12,4,,Pac-12 (North)
+2017,16,Final,17,Northwestern,20,3,,Big Ten (West)
+2017,16,Final,18,LSU,16,2,,SEC (West)
+2017,16,Final,19,Mississippi State,24,5,,SEC (West)
+2017,16,Final,20,Stanford,15,5,,Pac-12 (North)
+2017,16,Final,21,South Florida,23,2,,American (East)
+2017,16,Final,22,Boise State,25,3,,MWC (Mountain)
+2017,16,Final,23,NC State,,,,ACC (Atlantic)
+2017,16,Final,24,Virginia Tech,22,2,,ACC (Coastal)
+2017,16,Final,25,Memphis,19,6,,American (West)
+2018,16,Final,1,Clemson,2,1,61,ACC (Atlantic)
+2018,16,Final,2,Alabama,1,1,,SEC (West)
+2018,16,Final,3,Ohio State,5,2,,Big Ten (East)
+2018,16,Final,4,Oklahoma,4,,,Big 12
+2018,16,Final,5,Notre Dame,3,2,,Ind
+2018,16,Final,6,LSU,11,5,,SEC (West)
+2018,16,Final,7,Florida,10,3,,SEC (East)
+2018,16,Final,7,Georgia,6,1,,SEC (East)
+2018,16,Final,9,Texas,14,5,,Big 12
+2018,16,Final,10,Washington State,12,2,,Pac-12 (North)
+2018,16,Final,11,UCF,7,4,,American (East)
+2018,16,Final,12,Kentucky,16,4,,SEC (East)
+2018,16,Final,13,Washington,9,4,,Pac-12 (North)
+2018,16,Final,14,Michigan,8,6,,Big Ten (East)
+2018,16,Final,15,Syracuse,17,2,,ACC (Atlantic)
+2018,16,Final,16,Texas A&M,21,5,,SEC (West)
+2018,16,Final,17,Penn State,13,4,,Big Ten (East)
+2018,16,Final,18,Fresno State,19,1,,MWC (West)
+2018,16,Final,19,Army,22,3,,Ind
+2018,16,Final,20,West Virginia,15,5,,Big 12
+2018,16,Final,21,Northwestern,,,,Big Ten (West)
+2018,16,Final,22,Utah State,,,,MWC (Mountain)
+2018,16,Final,23,Boise State,23,,,MWC (Mountain)
+2018,16,Final,24,Cincinnati,,,,American (East)
+2018,16,Final,25,Iowa,,,,Big Ten (West)
+2019,17,Final,1,LSU,1,,62,SEC (West)
+2019,17,Final,2,Clemson,3,1,,ACC (Atlantic)
+2019,17,Final,3,Ohio State,2,1,,Big Ten (East)
+2019,17,Final,4,Georgia,5,1,,SEC (East)
+2019,17,Final,5,Oregon,7,2,,Pac-12 (North)
+2019,17,Final,6,Florida,6,,,SEC (East)
+2019,17,Final,7,Oklahoma,4,3,,Big 12
+2019,17,Final,8,Alabama,9,1,,SEC (West)
+2019,17,Final,9,Penn State,13,4,,Big Ten (East)
+2019,17,Final,10,Minnesota,16,6,,Big Ten (West)
+2019,17,Final,11,Wisconsin,11,,,Big Ten (West)
+2019,17,Final,12,Notre Dame,14,2,,Ind
+2019,17,Final,13,Baylor,8,5,,Big 12
+2019,17,Final,14,Auburn,9,5,,SEC (West)
+2019,17,Final,15,Iowa,19,4,,Big Ten (West)
+2019,17,Final,16,Utah,12,4,,Pac-12 (South)
+2019,17,Final,17,Memphis,15,2,,American (West)
+2019,17,Final,18,Michigan,17,1,,Big Ten (East)
+2019,17,Final,19,Appalachian State,20,1,,Sun Belt (East)
+2019,17,Final,20,Navy,21,1,,American (West)
+2019,17,Final,21,Cincinnati,23,2,,American (East)
+2019,17,Final,22,Air Force,24,2,,MWC (Mountain)
+2019,17,Final,23,Boise State,18,5,,MWC (Mountain)
+2019,17,Final,24,UCF,,,,American (East)
+2019,17,Final,25,Texas,,,,Big 12
+2020,18,Final,1,Alabama,1,,61,SEC (West)
+2020,18,Final,2,Ohio State,2,,,Big Ten (East)
+2020,18,Final,3,Clemson,3,,,ACC (Atlantic)
+2020,18,Final,4,Texas A&M,4,,,SEC (West)
+2020,18,Final,5,Notre Dame,5,,,ACC (Atlantic)
+2020,18,Final,6,Oklahoma,6,,,Big 12
+2020,18,Final,7,Georgia,7,,,SEC (East)
+2020,18,Final,8,Cincinnati,8,,,American (East)
+2020,18,Final,9,Iowa State,9,,,Big 12
+2020,18,Final,10,Northwestern,10,,,Big Ten (West)
+2020,18,Final,11,BYU,11,,,Ind
+2020,18,Final,12,Indiana,12,,,Big Ten (East)
+2020,18,Final,13,Florida,13,,,SEC (East)
+2020,18,Final,14,Coastal Carolina,14,,,Sun Belt (East)
+2020,18,Final,15,Louisiana,15,,,Sun Belt (West)
+2020,18,Final,16,Iowa,16,,,Big Ten (West)
+2020,18,Final,17,Liberty,17,,,Ind
+2020,18,Final,18,North Carolina,18,,,ACC (Coastal)
+2020,18,Final,19,Texas,19,,,Big 12
+2020,18,Final,20,Oklahoma State,20,,,Big 12
+2020,18,Final,21,USC,21,,,Pac-12 (South)
+2020,18,Final,22,Miami,22,,,ACC (Coastal)
+2020,18,Final,23,Ball State,23,,,MAC (West)
+2020,18,Final,24,San José State,24,,,MWC (West)
+2020,18,Final,25,Buffalo,25,,,MAC (East)

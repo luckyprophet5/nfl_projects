@@ -1,0 +1,91 @@
+,season,team,coach,top_av_player,passer,rusher,receiver,franchise_code,passer_name,passer_url,coach_name,coach_url
+0,2021,Washington Football Team,Rivera,Heinicke,Heinicke,Gibson,McLaurin,/teams/was/,Taylor Heinicke,/players/H/HeinTa00.htm,Ron Rivera,/coaches/RiveRo0.htm
+1,2020,Washington Football Team,Rivera,Young,Smith,Gibson,McLaurin,/teams/was/,Alex Smith,/players/S/SmitAl03.htm,Ron Rivera,/coaches/RiveRo0.htm
+2,2019,Washington Redskins,"Callahan,Gruden",Allen,Keenum,Peterson,McLaurin,/teams/was/,Case Keenum,/players/K/KeenCa00.htm,"Bill Callahan,Jay Gruden","/coaches/CallBi0.htm,/coaches/GrudJa0.htm"
+3,2018,Washington Redskins,Gruden,Kerrigan,Smith,Peterson,Reed,/teams/was/,Alex Smith,/players/S/SmitAl03.htm,Jay Gruden,/coaches/GrudJa0.htm
+4,2017,Washington Redskins,Gruden,Cousins,Cousins,Perine,Crowder,/teams/was/,Kirk Cousins,/players/C/CousKi00.htm,Jay Gruden,/coaches/GrudJa0.htm
+5,2016,Washington Redskins,Gruden,Cousins,Cousins,Kelley,Garcon,/teams/was/,Kirk Cousins,/players/C/CousKi00.htm,Jay Gruden,/coaches/GrudJa0.htm
+6,2015,Washington Redskins,Gruden,Williams,Cousins,Morris,Reed,/teams/was/,Kirk Cousins,/players/C/CousKi00.htm,Jay Gruden,/coaches/GrudJa0.htm
+7,2014,Washington Redskins,Gruden,Williams,Cousins,Morris,Jackson,/teams/was/,Kirk Cousins,/players/C/CousKi00.htm,Jay Gruden,/coaches/GrudJa0.htm
+8,2013,Washington Redskins,Shanahan,Orakpo,Griffin,Morris,Garcon,/teams/was/,Robert Griffin,/players/G/GrifRo01.htm,Mike Shanahan,/coaches/ShanMi0.htm
+9,2012,Washington Redskins,Shanahan,Griffin,Griffin,Morris,Garcon,/teams/was/,Robert Griffin,/players/G/GrifRo01.htm,Mike Shanahan,/coaches/ShanMi0.htm
+10,2011,Washington Redskins,Shanahan,Fletcher,Grossman,Helu,Gaffney,/teams/was/,Rex Grossman,/players/G/GrosRe00.htm,Mike Shanahan,/coaches/ShanMi0.htm
+11,2010,Washington Redskins,Shanahan,Hall,McNabb,Torain,Moss,/teams/was/,Donovan McNabb,/players/M/McNaDo00.htm,Mike Shanahan,/coaches/ShanMi0.htm
+12,2009,Washington Redskins,Zorn,Campbell,Campbell,Portis,Moss,/teams/was/,Jason Campbell,/players/C/CampJa00.htm,Jim Zorn,/coaches/ZornJi0.htm
+13,2008,Washington Redskins,Zorn,Portis,Campbell,Portis,Moss,/teams/was/,Jason Campbell,/players/C/CampJa00.htm,Jim Zorn,/coaches/ZornJi0.htm
+14,2007,Washington Redskins,Gibbs,Portis,Campbell,Portis,Moss,/teams/was/,Jason Campbell,/players/C/CampJa00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+15,2006,Washington Redskins,Gibbs,Betts,Brunell,Betts,Moss,/teams/was/,Mark Brunell,/players/B/BrunMa00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+16,2005,Washington Redskins,Gibbs,Moss,Brunell,Portis,Moss,/teams/was/,Mark Brunell,/players/B/BrunMa00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+17,2004,Washington Redskins,Gibbs,Washington,Ramsey,Portis,Coles,/teams/was/,Patrick Ramsey,/players/R/RamsPa00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+18,2003,Washington Redskins,Spurrier,Arrington,Ramsey,Canidate,Coles,/teams/was/,Patrick Ramsey,/players/R/RamsPa00.htm,Steve Spurrier,/coaches/SpurSt0.htm
+19,2002,Washington Redskins,Spurrier,Arrington,Ramsey,Davis,Gardner,/teams/was/,Patrick Ramsey,/players/R/RamsPa00.htm,Steve Spurrier,/coaches/SpurSt0.htm
+20,2001,Washington Redskins,Schottenheimer,Arrington,Banks,Davis,Gardner,/teams/was/,Tony Banks,/players/B/BankTo00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+21,2000,Washington Redskins,"Turner,Robiskie",Bailey,Johnson,Davis,Connell,/teams/was/,Brad Johnson,/players/J/JohnBr00.htm,"Norv Turner,Terry Robiskie","/coaches/TurnNo0.htm,/coaches/RobiTe0.htm"
+22,1999,Washington Redskins,Turner,Johnson,Johnson,Davis,Westbrook,/teams/was/,Brad Johnson,/players/J/JohnBr00.htm,Norv Turner,/coaches/TurnNo0.htm
+23,1998,Washington Redskins,Turner,Green,Green,Allen,Westbrook,/teams/was/,Trent Green,/players/G/GreeTr00.htm,Norv Turner,/coaches/TurnNo0.htm
+24,1997,Washington Redskins,Turner,Dishman,Frerotte,Allen,Shepherd,/teams/was/,Gus Frerotte,/players/F/FrerGu00.htm,Norv Turner,/coaches/TurnNo0.htm
+25,1996,Washington Redskins,Turner,Frerotte,Frerotte,Allen,Ellard,/teams/was/,Gus Frerotte,/players/F/FrerGu00.htm,Norv Turner,/coaches/TurnNo0.htm
+26,1995,Washington Redskins,Turner,Harvey,Frerotte,Allen,Ellard,/teams/was/,Gus Frerotte,/players/F/FrerGu00.htm,Norv Turner,/coaches/TurnNo0.htm
+27,1994,Washington Redskins,Turner,Ellard,Shuler,Ervins,Ellard,/teams/was/,Heath Shuler,/players/S/ShulHe00.htm,Norv Turner,/coaches/TurnNo0.htm
+28,1993,Washington Redskins,Petitbon,Brooks,Rypien,Brooks,Sanders,/teams/was/,Mark Rypien,/players/R/RypiMa00.htm,Richie Petitbon,/coaches/PetiRi0.htm
+29,1992,Washington Redskins,Gibbs,Marshall,Rypien,Byner,Clark,/teams/was/,Mark Rypien,/players/R/RypiMa00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+32,1991,Washington Redskins,Gibbs,Lachey,Rypien,Byner,Clark,/teams/was/,Mark Rypien,/players/R/RypiMa00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+33,1990,Washington Redskins,Gibbs,Lachey,Rypien,Byner,Clark,/teams/was/,Mark Rypien,/players/R/RypiMa00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+34,1989,Washington Redskins,Gibbs,Lachey,Rypien,Riggs,Clark,/teams/was/,Mark Rypien,/players/R/RypiMa00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+35,1988,Washington Redskins,Gibbs,May,Williams,Bryant,Sanders,/teams/was/,Doug Williams,/players/W/WillDo01.htm,Joe Gibbs,/coaches/GibbJo0.htm
+36,1987,Washington Redskins,Gibbs,Wilburn,Schroeder,Rogers,Clark,/teams/was/,Jay Schroeder,/players/S/SchrJa00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+37,1986,Washington Redskins,Gibbs,Manley,Schroeder,Rogers,Clark,/teams/was/,Jay Schroeder,/players/S/SchrJa00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+38,1985,Washington Redskins,Gibbs,Grimm,Theismann,Rogers,Monk,/teams/was/,Joe Theismann,/players/T/TheiJo00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+39,1984,Washington Redskins,Gibbs,Jacoby,Theismann,Riggins,Monk,/teams/was/,Joe Theismann,/players/T/TheiJo00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+40,1983,Washington Redskins,Gibbs,Theismann,Theismann,Riggins,Brown,/teams/was/,Joe Theismann,/players/T/TheiJo00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+41,1982,Washington Redskins,Gibbs,Theismann,Theismann,Riggins,Brown,/teams/was/,Joe Theismann,/players/T/TheiJo00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+42,1981,Washington Redskins,Gibbs,Theismann,Theismann,Washington,Monk,/teams/was/,Joe Theismann,/players/T/TheiJo00.htm,Joe Gibbs,/coaches/GibbJo0.htm
+43,1980,Washington Redskins,Pardee,Parrish,Theismann,Jackson,Monk,/teams/was/,Joe Theismann,/players/T/TheiJo00.htm,Jack Pardee,/coaches/PardJa0.htm
+44,1979,Washington Redskins,Pardee,Parrish,Theismann,Riggins,Buggs,/teams/was/,Joe Theismann,/players/T/TheiJo00.htm,Jack Pardee,/coaches/PardJa0.htm
+45,1978,Washington Redskins,Pardee,Houston,Theismann,Riggins,McDaniel,/teams/was/,Joe Theismann,/players/T/TheiJo00.htm,Jack Pardee,/coaches/PardJa0.htm
+46,1977,Washington Redskins,Allen,Houston,Kilmer,Thomas,Fugett,/teams/was/,Billy Kilmer,/players/K/KilmBi00.htm,George Allen,/coaches/AlleGe0.htm
+47,1976,Washington Redskins,Allen,Thomas,Kilmer,Thomas,Grant,/teams/was/,Billy Kilmer,/players/K/KilmBi00.htm,George Allen,/coaches/AlleGe0.htm
+48,1975,Washington Redskins,Allen,Hanburger,Kilmer,Thomas,Grant,/teams/was/,Billy Kilmer,/players/K/KilmBi00.htm,George Allen,/coaches/AlleGe0.htm
+49,1974,Washington Redskins,Allen,Bass,Kilmer,Brown,Taylor,/teams/was/,Billy Kilmer,/players/K/KilmBi00.htm,George Allen,/coaches/AlleGe0.htm
+50,1973,Washington Redskins,Allen,Hanburger,Kilmer,Brown,Taylor,/teams/was/,Billy Kilmer,/players/K/KilmBi00.htm,George Allen,/coaches/AlleGe0.htm
+51,1972,Washington Redskins,Allen,Brown,Kilmer,Brown,Taylor,/teams/was/,Billy Kilmer,/players/K/KilmBi00.htm,George Allen,/coaches/AlleGe0.htm
+52,1971,Washington Redskins,Allen,Bass,Kilmer,Brown,Jefferson,/teams/was/,Billy Kilmer,/players/K/KilmBi00.htm,George Allen,/coaches/AlleGe0.htm
+53,1970,Washington Redskins,Austin,Brown,Jurgensen,Brown,Taylor,/teams/was/,Sonny Jurgensen,/players/J/JurgSo00.htm,Bill Austin,/coaches/AustBi0.htm
+54,1969,Washington Redskins,Lombardi,Jurgensen,Jurgensen,Brown,Taylor,/teams/was/,Sonny Jurgensen,/players/J/JurgSo00.htm,Vince Lombardi,/coaches/LombVi0.htm
+55,1968,Washington Redskins,Graham,Hanburger,Jurgensen,Allen,Taylor,/teams/was/,Sonny Jurgensen,/players/J/JurgSo00.htm,Otto Graham,/coaches/GrahOt0.htm
+56,1967,Washington Redskins,Graham,Jurgensen,Jurgensen,Whitfield,Taylor,/teams/was/,Sonny Jurgensen,/players/J/JurgSo00.htm,Otto Graham,/coaches/GrahOt0.htm
+57,1966,Washington Redskins,Graham,Taylor,Jurgensen,Whitfield,Taylor,/teams/was/,Sonny Jurgensen,/players/J/JurgSo00.htm,Otto Graham,/coaches/GrahOt0.htm
+58,1965,Washington Redskins,McPeak,Krause,Jurgensen,Taylor,Mitchell,/teams/was/,Sonny Jurgensen,/players/J/JurgSo00.htm,Bill McPeak,/coaches/McPeBi0.htm
+59,1964,Washington Redskins,McPeak,Taylor,Jurgensen,Taylor,Mitchell,/teams/was/,Sonny Jurgensen,/players/J/JurgSo00.htm,Bill McPeak,/coaches/McPeBi0.htm
+60,1963,Washington Redskins,McPeak,Mitchell,Snead,James,Mitchell,/teams/was/,Norm Snead,/players/S/SneaNo00.htm,Bill McPeak,/coaches/McPeBi0.htm
+61,1962,Washington Redskins,McPeak,Mitchell,Snead,Barnes,Mitchell,/teams/was/,Norm Snead,/players/S/SneaNo00.htm,Bill McPeak,/coaches/McPeBi0.htm
+64,1961,Washington Redskins,McPeak,Toneff,Snead,James,Dugan,/teams/was/,Norm Snead,/players/S/SneaNo00.htm,Bill McPeak,/coaches/McPeBi0.htm
+65,1960,Washington Redskins,Nixon,Toneff,Guglielmi,Bosseler,Anderson,/teams/was/,Ralph Guglielmi,/players/G/GuglRa00.htm,Mike Nixon,/coaches/NixoMi0.htm
+66,1959,Washington Redskins,Nixon,,LeBaron,Bosseler,Anderson,/teams/was/,Eddie LeBaron,/players/L/LeBaEd00.htm,Mike Nixon,/coaches/NixoMi0.htm
+67,1958,Washington Redskins,Kuharich,,LeBaron,Olszewski,Walton,/teams/was/,Eddie LeBaron,/players/L/LeBaEd00.htm,Joe Kuharich,/coaches/KuhaJo0.htm
+68,1957,Washington Redskins,Kuharich,,LeBaron,Bosseler,Carson,/teams/was/,Eddie LeBaron,/players/L/LeBaEd00.htm,Joe Kuharich,/coaches/KuhaJo0.htm
+69,1956,Washington Redskins,Kuharich,,Dorow,Elter,Carson,/teams/was/,Al Dorow,/players/D/DoroAl00.htm,Joe Kuharich,/coaches/KuhaJo0.htm
+70,1955,Washington Redskins,Kuharich,,LeBaron,Janowicz,Carson,/teams/was/,Eddie LeBaron,/players/L/LeBaEd00.htm,Joe Kuharich,/coaches/KuhaJo0.htm
+71,1954,Washington Redskins,Kuharich,,Dorow,Wells,Taylor,/teams/was/,Al Dorow,/players/D/DoroAl00.htm,Joe Kuharich,/coaches/KuhaJo0.htm
+72,1953,Washington Redskins,Lambeau,,LeBaron,Justice,Taylor,/teams/was/,Eddie LeBaron,/players/L/LeBaEd00.htm,Curly Lambeau,/coaches/LambCu0.htm
+73,1952,Washington Redskins,Lambeau,,LeBaron,Heath,Taylor,/teams/was/,Eddie LeBaron,/players/L/LeBaEd00.htm,Curly Lambeau,/coaches/LambCu0.htm
+74,1951,Washington Redskins,"Todd,Ball",,Baugh,Goode,Taylor,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,"Dick Todd,Herman Ball","/coaches/ToddDi0.htm,/coaches/BallHe0.htm"
+75,1950,Washington Redskins,Ball,,Baugh,Goode,Taylor,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,Herman Ball,/coaches/BallHe0.htm
+76,1949,Washington Redskins,"Whelchel,Ball",,Baugh,Goode,Taylor,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,"John Whelchel,Herman Ball","/coaches/WhelJo0.htm,/coaches/BallHe0.htm"
+77,1948,Washington Redskins,Edwards,,Baugh,Castiglia,Crisler,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,Turk Edwards,/coaches/EdwaTu0.htm
+78,1947,Washington Redskins,Edwards,,Baugh,Castiglia,Saenz,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,Turk Edwards,/coaches/EdwaTu0.htm
+79,1946,Washington Redskins,Edwards,,Baugh,Todd,Bagarus,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,Turk Edwards,/coaches/EdwaTu0.htm
+80,1945,Washington Redskins,DeGroot,,Baugh,Akins,Bagarus,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,Dudley DeGroot,/coaches/DeGrDu0.htm
+81,1944,Washington Redskins,DeGroot,,Filchock,Seymour,Moore,/teams/was/,Frank Filchock,/players/F/FilcFr20.htm,Dudley DeGroot,/coaches/DeGrDu0.htm
+82,1943,Washington Redskins,Bergman,,Baugh,Farkas,Moore,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,Dutch Bergman,/coaches/BergDu0.htm
+83,1942,Washington Redskins,Flaherty,,Baugh,Farkas,Todd,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,Ray Flaherty,/coaches/FlahRa0.htm
+84,1941,Washington Redskins,Flaherty,,Baugh,Filchock,Millner,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,Ray Flaherty,/coaches/FlahRa0.htm
+85,1940,Washington Redskins,Flaherty,,Baugh,Todd,Todd,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,Ray Flaherty,/coaches/FlahRa0.htm
+86,1939,Washington Redskins,Flaherty,,Filchock,Farkas,Farkas,/teams/was/,Frank Filchock,/players/F/FilcFr20.htm,Ray Flaherty,/coaches/FlahRa0.htm
+87,1938,Washington Redskins,Flaherty,,Baugh,Farkas,Malone,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,Ray Flaherty,/coaches/FlahRa0.htm
+88,1937,Washington Redskins,Flaherty,,Baugh,Battles,Malone,/teams/was/,Sammy Baugh,/players/B/BaugSa00.htm,Ray Flaherty,/coaches/FlahRa0.htm
+89,1936,Boston Redskins,Flaherty,,Britt,Battles,Millner,/teams/was/,Eddie Britt,/players/B/BritEd20.htm,Ray Flaherty,/coaches/FlahRa0.htm
+90,1935,Boston Redskins,Casey,,Shepherd,Shepherd,Malone,/teams/was/,Bill Shepherd,/players/S/ShepBi20.htm,Eddie Casey,/coaches/CaseEd0.htm
+91,1934,Boston Redskins,Dietz,,Hokuf,Battles,Malone,/teams/was/,Steve Hokuf,/players/H/HokuSt20.htm,Lone Star Dietz,/coaches/DietLo0.htm
+92,1933,Boston Redskins,Dietz,,Musick,Musick,Battles,/teams/was/,Jim Musick,/players/M/MusiJi20.htm,Lone Star Dietz,/coaches/DietLo0.htm
+93,1932,Boston Braves,Wray,,Hughes,Battles,Battles,/teams/was/,Honolulu Hughes,/players/H/HughHo20.htm,Lud Wray,/coaches/WrayLu0.htm

@@ -1,0 +1,63 @@
+,season,team,coach,top_av_player,passer,rusher,receiver,franchise_code,passer_name,passer_url,coach_name,coach_url
+0,2021,Kansas City Chiefs,Reid,Mahomes,Mahomes,Williams,Hill,/teams/kan/,Patrick Mahomes,/players/M/MahoPa00.htm,Andy Reid,/coaches/ReidAn0.htm
+1,2020,Kansas City Chiefs,Reid,Mahomes,Mahomes,Edwards-Helaire,Kelce,/teams/kan/,Patrick Mahomes,/players/M/MahoPa00.htm,Andy Reid,/coaches/ReidAn0.htm
+2,2019,Kansas City Chiefs,Reid,Mahomes,Mahomes,Williams,Kelce,/teams/kan/,Patrick Mahomes,/players/M/MahoPa00.htm,Andy Reid,/coaches/ReidAn0.htm
+3,2018,Kansas City Chiefs,Reid,Mahomes,Mahomes,Hunt,Hill,/teams/kan/,Patrick Mahomes,/players/M/MahoPa00.htm,Andy Reid,/coaches/ReidAn0.htm
+4,2017,Kansas City Chiefs,Reid,Smith,Smith,Hunt,Hill,/teams/kan/,Alex Smith,/players/S/SmitAl03.htm,Andy Reid,/coaches/ReidAn0.htm
+5,2016,Kansas City Chiefs,Reid,Peters,Smith,Ware,Kelce,/teams/kan/,Alex Smith,/players/S/SmitAl03.htm,Andy Reid,/coaches/ReidAn0.htm
+6,2015,Kansas City Chiefs,Reid,Smith,Smith,West,Maclin,/teams/kan/,Alex Smith,/players/S/SmitAl03.htm,Andy Reid,/coaches/ReidAn0.htm
+7,2014,Kansas City Chiefs,Reid,Houston,Smith,Charles,Kelce,/teams/kan/,Alex Smith,/players/S/SmitAl03.htm,Andy Reid,/coaches/ReidAn0.htm
+8,2013,Kansas City Chiefs,Reid,Charles,Smith,Charles,Charles,/teams/kan/,Alex Smith,/players/S/SmitAl03.htm,Andy Reid,/coaches/ReidAn0.htm
+9,2012,Kansas City Chiefs,Crennel,Charles,Cassel,Charles,Bowe,/teams/kan/,Matt Cassel,/players/C/CassMa00.htm,Romeo Crennel,/coaches/CrenRo0.htm
+10,2011,Kansas City Chiefs,"Haley,Crennel",Johnson,Cassel,Battle,Bowe,/teams/kan/,Matt Cassel,/players/C/CassMa00.htm,"Todd Haley,Romeo Crennel","/coaches/HaleTo0.htm,/coaches/CrenRo0.htm"
+11,2010,Kansas City Chiefs,Haley,Charles,Cassel,Charles,Bowe,/teams/kan/,Matt Cassel,/players/C/CassMa00.htm,Todd Haley,/coaches/HaleTo0.htm
+12,2009,Kansas City Chiefs,Haley,Charles,Cassel,Charles,Chambers,/teams/kan/,Matt Cassel,/players/C/CassMa00.htm,Todd Haley,/coaches/HaleTo0.htm
+13,2008,Kansas City Chiefs,Edwards,Bowe,Thigpen,Johnson,Gonzalez,/teams/kan/,Tyler Thigpen,/players/T/ThigTy00.htm,Herm Edwards,/coaches/EdwaHe0.htm
+14,2007,Kansas City Chiefs,Edwards,Allen,Huard,Johnson,Gonzalez,/teams/kan/,Damon Huard,/players/H/HuarDa00.htm,Herm Edwards,/coaches/EdwaHe0.htm
+15,2006,Kansas City Chiefs,Edwards,Johnson,Huard,Johnson,Gonzalez,/teams/kan/,Damon Huard,/players/H/HuarDa00.htm,Herm Edwards,/coaches/EdwaHe0.htm
+16,2005,Kansas City Chiefs,Vermeil,Johnson,Green,Johnson,Kennison,/teams/kan/,Trent Green,/players/G/GreeTr00.htm,Dick Vermeil,/coaches/VermDi0.htm
+17,2004,Kansas City Chiefs,Vermeil,Green,Green,Holmes,Gonzalez,/teams/kan/,Trent Green,/players/G/GreeTr00.htm,Dick Vermeil,/coaches/VermDi0.htm
+18,2003,Kansas City Chiefs,Vermeil,Holmes,Green,Holmes,Gonzalez,/teams/kan/,Trent Green,/players/G/GreeTr00.htm,Dick Vermeil,/coaches/VermDi0.htm
+19,2002,Kansas City Chiefs,Vermeil,Holmes,Green,Holmes,Kennison,/teams/kan/,Trent Green,/players/G/GreeTr00.htm,Dick Vermeil,/coaches/VermDi0.htm
+20,2001,Kansas City Chiefs,Vermeil,Holmes,Green,Holmes,Gonzalez,/teams/kan/,Trent Green,/players/G/GreeTr00.htm,Dick Vermeil,/coaches/VermDi0.htm
+21,2000,Kansas City Chiefs,Cunningham,Grbac,Grbac,Richardson,Alexander,/teams/kan/,Elvis Grbac,/players/G/GrbaEl00.htm,Gunther Cunningham,/coaches/CunnGu0.htm
+22,1999,Kansas City Chiefs,Cunningham,Hasty,Grbac,Bennett,Gonzalez,/teams/kan/,Elvis Grbac,/players/G/GrbaEl00.htm,Gunther Cunningham,/coaches/CunnGu0.htm
+23,1998,Kansas City Chiefs,Schottenheimer,Shields,Gannon,Bennett,Alexander,/teams/kan/,Rich Gannon,/players/G/GannRi00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+24,1997,Kansas City Chiefs,Schottenheimer,Hasty,Grbac,Hill,Rison,/teams/kan/,Elvis Grbac,/players/G/GrbaEl00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+25,1996,Kansas City Chiefs,Schottenheimer,Carter,Bono,Allen,Penn,/teams/kan/,Steve Bono,/players/B/BonoSt00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+26,1995,Kansas City Chiefs,Schottenheimer,Smith,Bono,Allen,Davis,/teams/kan/,Steve Bono,/players/B/BonoSt00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+27,1994,Kansas City Chiefs,Schottenheimer,Thomas,Montana,Allen,Davis,/teams/kan/,Joe Montana,/players/M/MontJo01.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+28,1993,Kansas City Chiefs,Schottenheimer,Smith,Montana,Allen,Davis,/teams/kan/,Joe Montana,/players/M/MontJo01.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+29,1992,Kansas City Chiefs,Schottenheimer,Thomas,Krieg,Word,Davis,/teams/kan/,Dave Krieg,/players/K/KrieDa00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+32,1991,Kansas City Chiefs,Schottenheimer,Thomas,DeBerg,Okoye,Barnett,/teams/kan/,Steve DeBerg,/players/D/DebeSt00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+33,1990,Kansas City Chiefs,Schottenheimer,Thomas,DeBerg,Word,Paige,/teams/kan/,Steve DeBerg,/players/D/DebeSt00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+34,1989,Kansas City Chiefs,Schottenheimer,Lewis,DeBerg,Okoye,Paige,/teams/kan/,Steve DeBerg,/players/D/DebeSt00.htm,Marty Schottenheimer,/coaches/SchoMa0.htm
+35,1988,Kansas City Chiefs,Gansz,Cherry,DeBerg,Okoye,Paige,/teams/kan/,Steve DeBerg,/players/D/DebeSt00.htm,Frank Gansz,/coaches/GanzFr0.htm
+36,1987,Kansas City Chiefs,Gansz,Carson,Kenney,Okoye,Carson,/teams/kan/,Bill Kenney,/players/K/KennBi00.htm,Frank Gansz,/coaches/GanzFr0.htm
+37,1986,Kansas City Chiefs,Mackovic,Cherry,Kenney,Pruitt,Paige,/teams/kan/,Bill Kenney,/players/K/KennBi00.htm,John Mackovic,/coaches/MackJo0.htm
+38,1985,Kansas City Chiefs,Mackovic,Cherry,Kenney,Heard,Paige,/teams/kan/,Bill Kenney,/players/K/KennBi00.htm,John Mackovic,/coaches/MackJo0.htm
+39,1984,Kansas City Chiefs,Mackovic,Still,Kenney,Heard,Carson,/teams/kan/,Bill Kenney,/players/K/KennBi00.htm,John Mackovic,/coaches/MackJo0.htm
+40,1983,Kansas City Chiefs,Mackovic,Kenney,Kenney,Jackson,Carson,/teams/kan/,Bill Kenney,/players/K/KennBi00.htm,John Mackovic,/coaches/MackJo0.htm
+41,1982,Kansas City Chiefs,Levy,Still,Kenney,Delaney,Marshall,/teams/kan/,Bill Kenney,/players/K/KennBi00.htm,Marv Levy,/coaches/LevyMa0.htm
+42,1981,Kansas City Chiefs,Levy,Green,Kenney,Delaney,Smith,/teams/kan/,Bill Kenney,/players/K/KennBi00.htm,Marv Levy,/coaches/LevyMa0.htm
+43,1980,Kansas City Chiefs,Levy,Barbaro,Fuller,McKnight,Marshall,/teams/kan/,Steve Fuller,/players/F/FullSt00.htm,Marv Levy,/coaches/LevyMa0.htm
+44,1979,Kansas City Chiefs,Levy,Barbaro,Fuller,McKnight,Smith,/teams/kan/,Steve Fuller,/players/F/FullSt00.htm,Marv Levy,/coaches/LevyMa0.htm
+45,1978,Kansas City Chiefs,Levy,Reed,Livingston,Reed,Reed,/teams/kan/,Mike Livingston,/players/L/LiviMi00.htm,Marv Levy,/coaches/LevyMa0.htm
+46,1977,Kansas City Chiefs,"Wiggin,Bettis",Podolak,Livingston,Podolak,White,/teams/kan/,Mike Livingston,/players/L/LiviMi00.htm,"Paul Wiggin,Tom Bettis","/coaches/WiggPa0.htm,/coaches/BettTo0.htm"
+47,1976,Kansas City Chiefs,Wiggin,Lane,Livingston,Lane,White,/teams/kan/,Mike Livingston,/players/L/LiviMi00.htm,Paul Wiggin,/coaches/WiggPa0.htm
+48,1975,Kansas City Chiefs,Wiggin,Thomas,Livingston,Green,Pearson,/teams/kan/,Mike Livingston,/players/L/LiviMi00.htm,Paul Wiggin,/coaches/WiggPa0.htm
+49,1974,Kansas City Chiefs,Stram,Thomas,Dawson,Green,Pearson,/teams/kan/,Len Dawson,/players/D/DawsLe00.htm,Hank Stram,/coaches/StraHa0.htm
+50,1973,Kansas City Chiefs,Stram,Lanier,Livingston,Podolak,Taylor,/teams/kan/,Mike Livingston,/players/L/LiviMi00.htm,Hank Stram,/coaches/StraHa0.htm
+51,1972,Kansas City Chiefs,Stram,Bell,Dawson,Podolak,Taylor,/teams/kan/,Len Dawson,/players/D/DawsLe00.htm,Hank Stram,/coaches/StraHa0.htm
+52,1971,Kansas City Chiefs,Stram,Taylor,Dawson,Podolak,Taylor,/teams/kan/,Len Dawson,/players/D/DawsLe00.htm,Hank Stram,/coaches/StraHa0.htm
+53,1970,Kansas City Chiefs,Stram,Tyrer,Dawson,Podolak,Taylor,/teams/kan/,Len Dawson,/players/D/DawsLe00.htm,Hank Stram,/coaches/StraHa0.htm
+54,1969,Kansas City Chiefs,Stram,Bell,Dawson,Garrett,Taylor,/teams/kan/,Len Dawson,/players/D/DawsLe00.htm,Hank Stram,/coaches/StraHa0.htm
+55,1968,Kansas City Chiefs,Stram,Bell,Dawson,Holmes,Pitts,/teams/kan/,Len Dawson,/players/D/DawsLe00.htm,Hank Stram,/coaches/StraHa0.htm
+56,1967,Kansas City Chiefs,Stram,Garrett,Dawson,Garrett,Taylor,/teams/kan/,Len Dawson,/players/D/DawsLe00.htm,Hank Stram,/coaches/StraHa0.htm
+57,1966,Kansas City Chiefs,Stram,Taylor,Dawson,Garrett,Taylor,/teams/kan/,Len Dawson,/players/D/DawsLe00.htm,Hank Stram,/coaches/StraHa0.htm
+58,1965,Kansas City Chiefs,Stram,Bell,Dawson,McClinton,McClinton,/teams/kan/,Len Dawson,/players/D/DawsLe00.htm,Hank Stram,/coaches/StraHa0.htm
+59,1964,Kansas City Chiefs,Stram,Grayson,Dawson,Haynes,Jackson,/teams/kan/,Len Dawson,/players/D/DawsLe00.htm,Hank Stram,/coaches/StraHa0.htm
+60,1963,Kansas City Chiefs,Stram,Holub,Dawson,McClinton,Burford,/teams/kan/,Len Dawson,/players/D/DawsLe00.htm,Hank Stram,/coaches/StraHa0.htm
+61,1962,Dallas Texans,Stram,Haynes,Dawson,Haynes,Burford,/teams/kan/,Len Dawson,/players/D/DawsLe00.htm,Hank Stram,/coaches/StraHa0.htm
+64,1961,Dallas Texans,Stram,Headrick,Davidson,Haynes,Burford,/teams/kan/,Cotton Davidson,/players/D/DaviCo00.htm,Hank Stram,/coaches/StraHa0.htm
+65,1960,Dallas Texans,Stram,Branch,Davidson,Haynes,Burford,/teams/kan/,Cotton Davidson,/players/D/DaviCo00.htm,Hank Stram,/coaches/StraHa0.htm

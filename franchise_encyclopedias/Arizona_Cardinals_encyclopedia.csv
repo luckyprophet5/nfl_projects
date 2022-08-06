@@ -1,0 +1,103 @@
+,season,team,coach,top_av_player,passer,rusher,receiver,franchise_code,passer_name,passer_url,coach_name,coach_url
+0,2021,Arizona Cardinals,Kingsbury,Murray,Murray,Conner,Kirk,/teams/crd/,Kyler Murray,/players/M/MurrKy00.htm,Kliff Kingsbury,/coaches/KingKl0.htm
+1,2020,Arizona Cardinals,Kingsbury,Murray,Murray,Drake,Hopkins,/teams/crd/,Kyler Murray,/players/M/MurrKy00.htm,Kliff Kingsbury,/coaches/KingKl0.htm
+2,2019,Arizona Cardinals,Kingsbury,Murray,Murray,Drake,Fitzgerald,/teams/crd/,Kyler Murray,/players/M/MurrKy00.htm,Kliff Kingsbury,/coaches/KingKl0.htm
+3,2018,Arizona Cardinals,Wilks,Peterson,Rosen,Johnson,Fitzgerald,/teams/crd/,Josh Rosen,/players/R/RoseJo01.htm,Steve Wilks,/coaches/WilkSt0.htm
+4,2017,Arizona Cardinals,Arians,Jones,Palmer,Peterson,Fitzgerald,/teams/crd/,Carson Palmer,/players/P/PalmCa00.htm,Bruce Arians,/coaches/AriaBr0.htm
+5,2016,Arizona Cardinals,Arians,Campbell,Palmer,Johnson,Fitzgerald,/teams/crd/,Carson Palmer,/players/P/PalmCa00.htm,Bruce Arians,/coaches/AriaBr0.htm
+6,2015,Arizona Cardinals,Arians,Palmer,Palmer,Johnson,Fitzgerald,/teams/crd/,Carson Palmer,/players/P/PalmCa00.htm,Bruce Arians,/coaches/AriaBr0.htm
+7,2014,Arizona Cardinals,Arians,Campbell,Stanton,Ellington,Floyd,/teams/crd/,Drew Stanton,/players/S/StanDr00.htm,Bruce Arians,/coaches/AriaBr0.htm
+8,2013,Arizona Cardinals,Arians,Dansby,Palmer,Mendenhall,Floyd,/teams/crd/,Carson Palmer,/players/P/PalmCa00.htm,Bruce Arians,/coaches/AriaBr0.htm
+9,2012,Arizona Cardinals,Whisenhunt,Washington,Kolb,Stephens-Howling,Fitzgerald,/teams/crd/,Kevin Kolb,/players/K/KolbKe00.htm,Ken Whisenhunt,/coaches/WhisKe0.htm
+10,2011,Arizona Cardinals,Whisenhunt,Peterson,Kolb,Wells,Fitzgerald,/teams/crd/,Kevin Kolb,/players/K/KolbKe00.htm,Ken Whisenhunt,/coaches/WhisKe0.htm
+11,2010,Arizona Cardinals,Whisenhunt,Dockett,Anderson,Hightower,Fitzgerald,/teams/crd/,Derek Anderson,/players/A/AndeDe00.htm,Ken Whisenhunt,/coaches/WhisKe0.htm
+12,2009,Arizona Cardinals,Whisenhunt,Wilson,Warner,Wells,Fitzgerald,/teams/crd/,Kurt Warner,/players/W/WarnKu00.htm,Ken Whisenhunt,/coaches/WhisKe0.htm
+13,2008,Arizona Cardinals,Whisenhunt,Warner,Warner,James,Fitzgerald,/teams/crd/,Kurt Warner,/players/W/WarnKu00.htm,Ken Whisenhunt,/coaches/WhisKe0.htm
+14,2007,Arizona Cardinals,Whisenhunt,Fitzgerald,Warner,James,Fitzgerald,/teams/crd/,Kurt Warner,/players/W/WarnKu00.htm,Ken Whisenhunt,/coaches/WhisKe0.htm
+15,2006,Arizona Cardinals,Green,Wilson,Leinart,James,Boldin,/teams/crd/,Matt Leinart,/players/L/LeinMa00.htm,Dennis Green,/coaches/GreeDe0.htm
+16,2005,Arizona Cardinals,Green,Fitzgerald,Warner,Shipp,Fitzgerald,/teams/crd/,Kurt Warner,/players/W/WarnKu00.htm,Dennis Green,/coaches/GreeDe0.htm
+17,2004,Arizona Cardinals,Green,Berry,McCown,Smith,Fitzgerald,/teams/crd/,Josh McCown,/players/M/McCoJo01.htm,Dennis Green,/coaches/GreeDe0.htm
+18,2003,Arizona Cardinals,McGinnis,Boldin,Blake,Shipp,Boldin,/teams/crd/,Jeff Blake,/players/B/BlakJe00.htm,Dave McGinnis,/coaches/McGiDa0.htm
+19,2002,Arizona Cardinals,McGinnis,Shipp,Plummer,Shipp,Boston,/teams/crd/,Jake Plummer,/players/P/PlumJa00.htm,Dave McGinnis,/coaches/McGiDa0.htm
+20,2001,Arizona Cardinals,McGinnis,Boston,Plummer,Pittman,Boston,/teams/crd/,Jake Plummer,/players/P/PlumJa00.htm,Dave McGinnis,/coaches/McGiDa0.htm
+21,2000,Arizona Cardinals,"Tobin,McGinnis",Boston,Plummer,Pittman,Boston,/teams/crd/,Jake Plummer,/players/P/PlumJa00.htm,"Vince Tobin,Dave McGinnis","/coaches/TobiVi0.htm,/coaches/McGiDa0.htm"
+22,1999,Arizona Cardinals,Tobin,Rice,Plummer,Murrell,Sanders,/teams/crd/,Jake Plummer,/players/P/PlumJa00.htm,Vince Tobin,/coaches/TobiVi0.htm
+23,1998,Arizona Cardinals,Tobin,Plummer,Plummer,Murrell,Sanders,/teams/crd/,Jake Plummer,/players/P/PlumJa00.htm,Vince Tobin,/coaches/TobiVi0.htm
+24,1997,Arizona Cardinals,Tobin,Williams,Plummer,McElroy,Moore,/teams/crd/,Jake Plummer,/players/P/PlumJa00.htm,Vince Tobin,/coaches/TobiVi0.htm
+25,1996,Arizona Cardinals,Tobin,Williams,Esiason,Johnson,Moore,/teams/crd/,Boomer Esiason,/players/E/EsiaBo00.htm,Vince Tobin,/coaches/TobiVi0.htm
+26,1995,Arizona Cardinals,Ryan,Williams,Krieg,Hearst,Centers,/teams/crd/,Dave Krieg,/players/K/KrieDa00.htm,Buddy Ryan,/coaches/RyanBu0.htm
+27,1994,Arizona Cardinals,Ryan,Williams,Beuerlein,Moore,Clark,/teams/crd/,Steve Beuerlein,/players/B/BeueSt00.htm,Buddy Ryan,/coaches/RyanBu0.htm
+28,1993,Phoenix Cardinals,Bugel,Beuerlein,Beuerlein,Moore,Proehl,/teams/crd/,Steve Beuerlein,/players/B/BeueSt00.htm,Joe Bugel,/coaches/BugeJo0.htm
+29,1992,Phoenix Cardinals,Bugel,Chandler,Chandler,Johnson,Hill,/teams/crd/,Chris Chandler,/players/C/ChanCh00.htm,Joe Bugel,/coaches/BugeJo0.htm
+32,1991,Phoenix Cardinals,Bugel,McDonald,Tupa,Johnson,Jones,/teams/crd/,Tom Tupa,/players/T/TupaTo20.htm,Joe Bugel,/coaches/BugeJo0.htm
+33,1990,Phoenix Cardinals,Bugel,Rosenbach,Rosenbach,Johnson,Proehl,/teams/crd/,Timm Rosenbach,/players/R/RoseTi00.htm,Joe Bugel,/coaches/BugeJo0.htm
+34,1989,Phoenix Cardinals,"Stallings,Kuhlmann",McDonald,Hogeboom,Ferrell,Jones,/teams/crd/,Gary Hogeboom,/players/H/HogeGa00.htm,"Gene Stallings,Hank Kuhlmann","/coaches/StalGe0.htm,/coaches/KuhlHa0.htm"
+35,1988,Phoenix Cardinals,Stallings,Sharpe,Lomax,Ferrell,Green,/teams/crd/,Neil Lomax,/players/L/LomaNe00.htm,Gene Stallings,/coaches/StalGe0.htm
+36,1987,St. Louis Cardinals,Stallings,Lomax,Lomax,Mitchell,Smith,/teams/crd/,Neil Lomax,/players/L/LomaNe00.htm,Gene Stallings,/coaches/StalGe0.htm
+37,1986,St. Louis Cardinals,Stallings,Smith,Lomax,Mitchell,Smith,/teams/crd/,Neil Lomax,/players/L/LomaNe00.htm,Gene Stallings,/coaches/StalGe0.htm
+38,1985,St. Louis Cardinals,Hanifan,Mitchell,Lomax,Mitchell,Tilley,/teams/crd/,Neil Lomax,/players/L/LomaNe00.htm,Jim Hanifan,/coaches/HaniJi0.htm
+39,1984,St. Louis Cardinals,Hanifan,Lomax,Lomax,Anderson,Green,/teams/crd/,Neil Lomax,/players/L/LomaNe00.htm,Jim Hanifan,/coaches/HaniJi0.htm
+40,1983,St. Louis Cardinals,Hanifan,Anderson,Lomax,Anderson,Green,/teams/crd/,Neil Lomax,/players/L/LomaNe00.htm,Jim Hanifan,/coaches/HaniJi0.htm
+41,1982,St. Louis Cardinals,Hanifan,Greer,Lomax,Anderson,Tilley,/teams/crd/,Neil Lomax,/players/L/LomaNe00.htm,Jim Hanifan,/coaches/HaniJi0.htm
+42,1981,St. Louis Cardinals,Hanifan,Anderson,Hart,Anderson,Tilley,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,Jim Hanifan,/coaches/HaniJi0.htm
+43,1980,St. Louis Cardinals,Hanifan,Anderson,Hart,Anderson,Tilley,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,Jim Hanifan,/coaches/HaniJi0.htm
+44,1979,St. Louis Cardinals,"Wilkinson,Wilson",Anderson,Hart,Anderson,Tilley,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,"Bud Wilkinson,Larry Wilson","/coaches/WilkBu0.htm,/coaches/WilsLa0.htm"
+45,1978,St. Louis Cardinals,Wilkinson,Dierdorf,Hart,Otis,Tilley,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,Bud Wilkinson,/coaches/WilkBu0.htm
+46,1977,St. Louis Cardinals,Coryell,Metcalf,Hart,Metcalf,Gray,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,Don Coryell,/coaches/CoryDo0.htm
+47,1976,St. Louis Cardinals,Coryell,Banks,Hart,Otis,Harris,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,Don Coryell,/coaches/CoryDo0.htm
+48,1975,St. Louis Cardinals,Coryell,Wehrli,Hart,Otis,Gray,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,Don Coryell,/coaches/CoryDo0.htm
+49,1974,St. Louis Cardinals,Coryell,Hart,Hart,Metcalf,Gray,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,Don Coryell,/coaches/CoryDo0.htm
+50,1973,St. Louis Cardinals,Coryell,Anderson,Hart,Anderson,Smith,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,Don Coryell,/coaches/CoryDo0.htm
+51,1972,St. Louis Cardinals,Hollway,Anderson,Cuozzo,Anderson,Gillette,/teams/crd/,Gary Cuozzo,/players/C/CuozGa00.htm,Bob Hollway,/coaches/HollBo0.htm
+52,1971,St. Louis Cardinals,Hollway,Wehrli,Hart,Lane,Gilliam,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,Bob Hollway,/coaches/HollBo0.htm
+53,1970,St. Louis Cardinals,Winner,Lane,Hart,Lane,Gilliam,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,Charley Winner,/coaches/WinnCh0.htm
+54,1969,St. Louis Cardinals,Winner,Gilliam,Johnson,Edwards,Gilliam,/teams/crd/,Charley Johnson,/players/J/JohnCh02.htm,Charley Winner,/coaches/WinnCh0.htm
+55,1968,St. Louis Cardinals,Winner,Wilson,Hart,Crenshaw,Smith,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,Charley Winner,/coaches/WinnCh0.htm
+56,1967,St. Louis Cardinals,Winner,Smith,Hart,Roland,Smith,/teams/crd/,Jim Hart,/players/H/HartJi00.htm,Charley Winner,/coaches/WinnCh0.htm
+57,1966,St. Louis Cardinals,Winner,Wilson,Johnson,Roland,Smith,/teams/crd/,Charley Johnson,/players/J/JohnCh02.htm,Charley Winner,/coaches/WinnCh0.htm
+58,1965,St. Louis Cardinals,Lemm,Fischer,Johnson,Triplett,Conrad,/teams/crd/,Charley Johnson,/players/J/JohnCh02.htm,Wally Lemm,/coaches/LemmWa0.htm
+59,1964,St. Louis Cardinals,Lemm,Fischer,Johnson,Crow,Conrad,/teams/crd/,Charley Johnson,/players/J/JohnCh02.htm,Wally Lemm,/coaches/LemmWa0.htm
+60,1963,St. Louis Cardinals,Lemm,Johnson,Johnson,Childress,Randle,/teams/crd/,Charley Johnson,/players/J/JohnCh02.htm,Wally Lemm,/coaches/LemmWa0.htm
+61,1962,St. Louis Cardinals,Lemm,Randle,Johnson,Crow,Randle,/teams/crd/,Charley Johnson,/players/J/JohnCh02.htm,Wally Lemm,/coaches/LemmWa0.htm
+64,1961,St. Louis Cardinals,"Ivy,Willsey,Prochaska,Drulis",Norton,Etcheverry,Gautt,Randle,/teams/crd/,Sam Etcheverry,/players/E/EtchSa00.htm,"Pop Ivy,Ray Willsey,Ray Prochaska,Chuck Drulis","/coaches/IvyxPo0.htm,/coaches/WilsRa0.htm,/coaches/ProcRa0.htm,/coaches/DrulCh0.htm"
+65,1960,St. Louis Cardinals,Ivy,Crow,Roach,Crow,Randle,/teams/crd/,John Roach,/players/R/RoacJo00.htm,Pop Ivy,/coaches/IvyxPo0.htm
+66,1959,Chicago Cardinals,Ivy,,Hill,Crow,Lewis,/teams/crd/,King Hill,/players/H/HillKi00.htm,Pop Ivy,/coaches/IvyxPo0.htm
+67,1958,Chicago Cardinals,Ivy,,Reynolds,Matson,Lewis,/teams/crd/,M.C. Reynolds,/players/R/ReynM.00.htm,Pop Ivy,/coaches/IvyxPo0.htm
+68,1957,Chicago Cardinals,Richards,,McHan,Matson,Nagler,/teams/crd/,Lamar McHan,/players/M/McHaLa00.htm,Ray Richards,/coaches/RichRa0.htm
+69,1956,Chicago Cardinals,Richards,,McHan,Matson,Stonesifer,/teams/crd/,Lamar McHan,/players/M/McHaLa00.htm,Ray Richards,/coaches/RichRa0.htm
+70,1955,Chicago Cardinals,Richards,,McHan,Matson,Stonesifer,/teams/crd/,Lamar McHan,/players/M/McHaLa00.htm,Ray Richards,/coaches/RichRa0.htm
+71,1954,Chicago Cardinals,Stydahar,,McHan,Matson,Matson,/teams/crd/,Lamar McHan,/players/M/McHaLa00.htm,Joe Stydahar,/coaches/StydJo0.htm
+72,1953,Chicago Cardinals,Stydahar,,Root,Trippi,Stonesifer,/teams/crd/,Jim Root,/players/R/RootJi20.htm,Joe Stydahar,/coaches/StydJo0.htm
+73,1952,Chicago Cardinals,Kuharich,,Trippi,Trippi,Stonesifer,/teams/crd/,Charley Trippi,/players/T/TripCh00.htm,Joe Kuharich,/coaches/KuhaJo0.htm
+74,1951,Chicago Cardinals,"Lambeau,Isbell,Handler",,Trippi,Trippi,Polsfoot,/teams/crd/,Charley Trippi,/players/T/TripCh00.htm,"Curly Lambeau,Cecil Isbell,Phil Handler","/coaches/LambCu0.htm,/coaches/IsbeCe0.htm,/coaches/HandPh0.htm"
+75,1950,Chicago Cardinals,Lambeau,,Hardy,Harder,Shaw,/teams/crd/,Jim Hardy,/players/H/HardJi00.htm,Curly Lambeau,/coaches/LambCu0.htm
+76,1949,Chicago Cardinals,"Parker,Handler",,Christman,Angsman,Kutner,/teams/crd/,Paul Christman,/players/C/ChriPa20.htm,"Buddy Parker,Phil Handler","/coaches/ParkRa0.htm,/coaches/HandPh0.htm"
+77,1948,Chicago Cardinals,Conzelman,,Mallouf,Trippi,Kutner,/teams/crd/,Ray Mallouf,/players/M/MallRa20.htm,Jimmy Conzelman,/coaches/ConzJi0.htm
+78,1947,Chicago Cardinals,Conzelman,,Christman,Angsman,Kutner,/teams/crd/,Paul Christman,/players/C/ChriPa20.htm,Jimmy Conzelman,/coaches/ConzJi0.htm
+79,1946,Chicago Cardinals,Conzelman,,Christman,Harder,Dewell,/teams/crd/,Paul Christman,/players/C/ChriPa20.htm,Jimmy Conzelman,/coaches/ConzJi0.htm
+80,1945,Chicago Cardinals,Handler,,Christman,Seno,Rucinski,/teams/crd/,Paul Christman,/players/C/ChriPa20.htm,Phil Handler,/coaches/HandPh0.htm
+81,1944,Chi/Pit Cards/Steelers,"Kiesling,Handler",,Grigas,Grigas,Bova,/teams/crd/,John Grigas,/players/G/GrigJo20.htm,"Walt Kiesling,Phil Handler","/coaches/KiesWa0.htm,/coaches/HandPh0.htm"
+82,1943,Chicago Cardinals,Handler,,Cahill,Grigas,Rucinski,/teams/crd/,Ronnie Cahill,/players/C/CahiRo20.htm,Phil Handler,/coaches/HandPh0.htm
+83,1942,Chicago Cardinals,Conzelman,,Schwenk,Goldberg,Martin,/teams/crd/,Bud Schwenk,/players/S/SchwBu20.htm,Jimmy Conzelman,/coaches/ConzJi0.htm
+84,1941,Chicago Cardinals,Conzelman,,Mallouf,Goldberg,Dewell,/teams/crd/,Ray Mallouf,/players/M/MallRa20.htm,Jimmy Conzelman,/coaches/ConzJi0.htm
+85,1940,Chicago Cardinals,Conzelman,,McCullough,Goldberg,Tinsley,/teams/crd/,Hugh McCullough,/players/M/McCuHu20.htm,Jimmy Conzelman,/coaches/ConzJi0.htm
+86,1939,Chicago Cardinals,Nevers,,Robbins,Goldberg,Smith,/teams/crd/,Jack Robbins,/players/R/RobbJa20.htm,Ernie Nevers,/coaches/NeveEr0.htm
+87,1938,Chicago Cardinals,Creighton,,Robbins,Robbins,Tinsley,/teams/crd/,Jack Robbins,/players/R/RobbJa20.htm,Milan Creighton,/coaches/CreiMi0.htm
+88,1937,Chicago Cardinals,Creighton,,Coffee,Grosvenor,Tinsley,/teams/crd/,Pat Coffee,/players/C/CoffPa20.htm,Milan Creighton,/coaches/CreiMi0.htm
+89,1936,Chicago Cardinals,Creighton,,Vaughan,Grosvenor,Smith,/teams/crd/,Pug Vaughan,/players/V/VaugPu20.htm,Milan Creighton,/coaches/CreiMi0.htm
+90,1935,Chicago Cardinals,Creighton,,Sarboe,Russell,Smith,/teams/crd/,Phil Sarboe,/players/S/SarbPh20.htm,Milan Creighton,/coaches/CreiMi0.htm
+91,1934,Chicago Cardinals,Schissler,,Sarboe,Russell,Smith,/teams/crd/,Phil Sarboe,/players/S/SarbPh20.htm,Paul Schissler,/coaches/SchiPa0.htm
+92,1933,Chicago Cardinals,Schissler,,Lillard,Lillard,Tipton,/teams/crd/,Joe Lillard,/players/L/LillJo20.htm,Paul Schissler,/coaches/SchiPa0.htm
+93,1932,Chicago Cardinals,Chevigny,,Holmer,Holmer,Kassel,/teams/crd/,Walt Holmer,/players/H/HolmWa21.htm,Jack Chevigny,/coaches/ChevJa0.htm
+96,1931,Chicago Cardinals,"Nevers,Andrews",,,,,/teams/crd/,,,"Ernie Nevers,Roy Andrews","/coaches/NeveEr0.htm,/coaches/AndrRo0.htm"
+97,1930,Chicago Cardinals,Nevers,,,,,/teams/crd/,,,Ernie Nevers,/coaches/NeveEr0.htm
+98,1929,Chicago Cardinals,Scanlon,,,,,/teams/crd/,,,Dewey Scanlon,/coaches/ScanDe0.htm
+99,1928,Chicago Cardinals,Gillies,,,,,/teams/crd/,,,Fred Gillies,/coaches/GillFr0.htm
+100,1927,Chicago Cardinals,Chamberlin,,,,,/teams/crd/,,,Guy Chamberlin,/coaches/ChamGu0.htm
+101,1926,Chicago Cardinals,Barry,,,,,/teams/crd/,,,Norm Barry,/coaches/BarrNo0.htm
+102,1925,Chicago Cardinals,Barry,,,,,/teams/crd/,,,Norm Barry,/coaches/BarrNo0.htm
+103,1924,Chicago Cardinals,Horween,,,,,/teams/crd/,,,Arnie Horween,/coaches/HorwAr0.htm
+104,1923,Chicago Cardinals,Horween,,,,,/teams/crd/,,,Arnie Horween,/coaches/HorwAr0.htm
+105,1922,Chicago Cardinals,Driscoll,,,,,/teams/crd/,,,Paddy Driscoll,/coaches/DrisPa0.htm
+106,1921,Chicago Cardinals,Driscoll,,,,,/teams/crd/,,,Paddy Driscoll,/coaches/DrisPa0.htm
+107,1920,Chicago Cardinals,Driscoll,,,,,/teams/crd/,,,Paddy Driscoll,/coaches/DrisPa0.htm
