@@ -24,7 +24,6 @@ dropbacks <- dropbacks %>%
     accuracy_epa = ifelse(!is.na(cp), completion_epa+incompletion_epa-yacoe_epa-throw_selection_epa, 0)
   )
 
-# throw frequency EPA needs to be fixed - mean(dropbacks$throw_selection_epa)) needs to ignore seasons prior to 2006 - but is directionally correct 
 dropbacks <- dropbacks %>%   
   mutate(
     throw_frequency_epa = ifelse(!is.na(cp), mean(dropbacks$throw_selection_epa, na.rm=TRUE), 0),
